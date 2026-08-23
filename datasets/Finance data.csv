@@ -1,0 +1,1001 @@
+expense_id,department,category,amount,expense_date,approval_status,payment_method,budget_allocated,budget_used,vendor_name,expense_priority
+EXP0001,Operations,Marketing Campaign,43931,2026-04-30,Approved,Cash,99113,89647,LinkedIn,Low
+EXP0002,HR,Training,5062,2026-01-28,Rejected,Bank Transfer,297470,103058,Dell,Low
+EXP0003,Engineering,Maintenance,32577,2025-12-09,Rejected,Bank Transfer,212198,62305,HP,High
+EXP0004,Operations,Travel,36194,2025-02-14,Approved,UPI,143360,66144,Zoho,Low
+EXP0005,Sales,Training,31707,2024-08-31,Approved,Cash,188952,121703,Oracle,High
+EXP0006,HR,Cloud Services,25568,2026-08-13,Rejected,Bank Transfer,367693,299358,Amazon AWS,Medium
+EXP0007,Marketing,Training,9711,2025-08-27,Approved,Bank Transfer,408712,71607,LinkedIn,High
+EXP0008,Operations,Training,4630,2024-10-28,Rejected,Credit Card,205600,186391,LinkedIn,Medium
+EXP0009,Marketing,Marketing Campaign,92993,2026-03-23,Approved,Credit Card,68885,64075,LinkedIn,Critical
+EXP0010,Marketing,Recruitment,58682,2025-02-15,Approved,Cash,381096,57024,Meta,High
+EXP0011,Finance,Office Supplies,39054,2026-04-05,Approved,Bank Transfer,429304,133337,Zoho,Critical
+EXP0012,Sales,Hardware,42315,2025-01-14,Approved,Cash,173894,13793,Amazon AWS,Critical
+EXP0013,Engineering,Maintenance,90395,2026-01-15,Rejected,Credit Card,320694,108503,Google,Medium
+EXP0014,Marketing,Recruitment,28204,2025-02-14,Pending,UPI,268554,3047,HP,Medium
+EXP0015,Marketing,Recruitment,34995,2025-08-24,Approved,Cash,226772,193128,Oracle,Low
+EXP0016,IT,Marketing Campaign,60161,2025-06-20,Rejected,Credit Card,317671,143872,Dell,High
+EXP0017,Data Science,Marketing Campaign,53760,2026-01-22,Approved,Bank Transfer,370989,149956,Adobe,Medium
+EXP0018,Finance,Software License,43278,2025-03-15,Pending,UPI,468494,259674,Oracle,Critical
+EXP0019,Finance,Hardware,45700,2024-10-30,Pending,Credit Card,363428,71945,Dell,Low
+EXP0020,Finance,Marketing Campaign,83688,2025-12-13,Approved,Credit Card,244442,191197,LinkedIn,High
+EXP0021,HR,Travel,62502,2025-02-05,Rejected,Credit Card,104539,95230,Dell,High
+EXP0022,Operations,Cloud Services,73438,2026-08-02,Rejected,Credit Card,60057,53229,Zoho,High
+EXP0023,Operations,Marketing Campaign,82977,2025-03-17,Pending,UPI,344683,291511,HP,Medium
+EXP0024,Data Science,Travel,95290,2025-09-19,Approved,UPI,374141,24095,LinkedIn,Low
+EXP0025,HR,Maintenance,56665,2025-08-12,Rejected,Bank Transfer,303652,297985,Zoho,Low
+EXP0026,IT,Office Supplies,2074,2025-11-09,Rejected,Credit Card,262479,41701,Oracle,Medium
+EXP0027,Engineering,Marketing Campaign,21778,2026-03-02,Pending,Cash,304825,180099,Oracle,Critical
+EXP0028,Marketing,Office Supplies,39952,2026-01-17,Approved,Cash,202100,91800,LinkedIn,Critical
+EXP0029,Finance,Travel,62656,2026-01-01,Approved,Cash,298473,160973,HP,Critical
+EXP0030,HR,Recruitment,23107,2024-11-04,Pending,Bank Transfer,95072,16862,Dell,Medium
+EXP0031,Data Science,Cloud Services,9808,2025-04-30,Pending,Bank Transfer,235632,113297,Amazon AWS,Low
+EXP0032,Finance,Consulting,57706,2025-02-23,Approved,Cash,391752,62485,Microsoft,Low
+EXP0033,HR,Maintenance,31028,2026-02-18,Rejected,Bank Transfer,313648,196374,Google,Low
+EXP0034,HR,Maintenance,19817,2026-05-10,Pending,Bank Transfer,381538,22868,LinkedIn,Critical
+EXP0035,Marketing,Marketing Campaign,60576,2024-12-06,Pending,Credit Card,141701,27807,LinkedIn,High
+EXP0036,Data Science,Training,40542,2026-07-20,Rejected,Bank Transfer,467440,326977,Meta,Critical
+EXP0037,Marketing,Hardware,68124,2026-08-19,Rejected,Bank Transfer,101466,69144,LinkedIn,High
+EXP0038,Data Science,Hardware,56125,2024-09-17,Rejected,Bank Transfer,481192,69669,Zoho,Critical
+EXP0039,Engineering,Office Supplies,8156,2025-06-21,Approved,Credit Card,440833,254205,LinkedIn,Critical
+EXP0040,Operations,Hardware,39613,2025-08-01,Rejected,Bank Transfer,199409,15016,Adobe,Medium
+EXP0041,Data Science,Travel,15703,2025-06-06,Approved,Cash,262871,77221,Zoho,High
+EXP0042,Finance,Cloud Services,59380,2026-07-13,Pending,Credit Card,210498,28990,Dell,Low
+EXP0043,Data Science,Office Supplies,71368,2026-05-22,Approved,Bank Transfer,107755,5801,Amazon AWS,Low
+EXP0044,Data Science,Maintenance,12648,2025-04-13,Rejected,Bank Transfer,103192,13377,Google,High
+EXP0045,Sales,Consulting,62801,2025-11-04,Rejected,Credit Card,294488,64095,Google,Critical
+EXP0046,Finance,Marketing Campaign,72117,2025-12-30,Approved,UPI,455799,149073,Adobe,High
+EXP0047,Finance,Training,82111,2025-02-19,Rejected,Bank Transfer,224222,221808,Adobe,High
+EXP0048,Marketing,Hardware,67056,2025-03-13,Approved,UPI,435393,35776,Google,High
+EXP0049,Data Science,Hardware,30939,2026-05-12,Rejected,Bank Transfer,222877,124324,Microsoft,Low
+EXP0050,Marketing,Software License,52264,2025-02-23,Pending,Bank Transfer,468947,430754,Adobe,Medium
+EXP0051,HR,Cloud Services,14466,2025-10-02,Approved,Credit Card,166567,29508,Amazon AWS,Medium
+EXP0052,IT,Marketing Campaign,2434,2025-04-25,Approved,UPI,414530,154190,Amazon AWS,Critical
+EXP0053,Marketing,Marketing Campaign,77819,2024-09-08,Pending,Cash,176782,59731,Adobe,High
+EXP0054,Data Science,Training,80254,2026-06-27,Approved,UPI,469455,10591,Adobe,Low
+EXP0055,Finance,Consulting,9175,2025-03-29,Rejected,Credit Card,202875,53792,Google,High
+EXP0056,Finance,Office Supplies,75371,2026-05-29,Pending,UPI,163821,31397,Zoho,Critical
+EXP0057,IT,Cloud Services,13926,2025-11-03,Pending,Credit Card,56721,13009,HP,Critical
+EXP0058,Engineering,Maintenance,86240,2025-04-19,Rejected,Bank Transfer,401917,128559,Adobe,Medium
+EXP0059,HR,Travel,4297,2025-01-13,Pending,UPI,371525,124507,Microsoft,Medium
+EXP0060,HR,Consulting,3539,2026-02-08,Rejected,Cash,258393,76613,Zoho,Critical
+EXP0061,Engineering,Cloud Services,13034,2025-06-17,Approved,UPI,189328,16907,LinkedIn,Critical
+EXP0062,Finance,Maintenance,8671,2026-06-30,Approved,Cash,361087,210884,Meta,High
+EXP0063,Marketing,Marketing Campaign,47882,2025-03-05,Pending,Credit Card,340969,282996,Adobe,High
+EXP0064,Sales,Cloud Services,99634,2026-08-10,Rejected,Bank Transfer,405793,61200,Amazon AWS,High
+EXP0065,Operations,Maintenance,24405,2024-09-13,Pending,UPI,111383,27882,HP,Critical
+EXP0066,IT,Hardware,35034,2026-01-14,Pending,UPI,157561,146011,Meta,Low
+EXP0067,Engineering,Recruitment,34298,2026-04-04,Approved,Bank Transfer,334056,329086,Amazon AWS,Critical
+EXP0068,Operations,Software License,28954,2026-08-06,Approved,Cash,447740,346999,Zoho,High
+EXP0069,HR,Travel,90477,2025-08-28,Rejected,UPI,278206,84639,Zoho,Low
+EXP0070,Operations,Recruitment,46073,2024-11-24,Approved,Credit Card,347887,9284,Adobe,High
+EXP0071,Sales,Consulting,43024,2026-07-16,Rejected,Bank Transfer,490209,419472,Amazon AWS,Low
+EXP0072,Finance,Office Supplies,15640,2026-05-11,Rejected,UPI,441106,14531,Amazon AWS,High
+EXP0073,HR,Travel,2403,2025-12-16,Rejected,UPI,236516,24513,Adobe,Low
+EXP0074,Engineering,Recruitment,78135,2026-04-06,Approved,Cash,204727,103520,Adobe,High
+EXP0075,Data Science,Office Supplies,13874,2026-03-31,Approved,Cash,138054,89879,Microsoft,Medium
+EXP0076,Engineering,Consulting,93898,2025-07-09,Approved,UPI,386359,246934,Dell,Medium
+EXP0077,Operations,Training,80535,2025-08-10,Pending,UPI,172098,62854,LinkedIn,High
+EXP0078,Marketing,Recruitment,52734,2025-04-12,Pending,Bank Transfer,408919,50956,Oracle,Medium
+EXP0079,Sales,Software License,50105,2025-07-27,Approved,Credit Card,269319,18079,Dell,Critical
+EXP0080,Sales,Travel,78539,2026-03-08,Rejected,UPI,387460,66271,Microsoft,Low
+EXP0081,Sales,Consulting,74340,2025-08-29,Approved,Cash,345560,61631,Google,Medium
+EXP0082,IT,Office Supplies,23264,2024-10-20,Rejected,Credit Card,278347,188159,Zoho,High
+EXP0083,Data Science,Training,28868,2025-01-17,Pending,Cash,411909,398929,Oracle,Critical
+EXP0084,IT,Travel,95209,2025-11-28,Approved,Bank Transfer,331033,329055,HP,Low
+EXP0085,Engineering,Training,38857,2026-07-30,Rejected,Bank Transfer,226232,52548,Amazon AWS,Critical
+EXP0086,Marketing,Office Supplies,63519,2025-05-26,Pending,UPI,175790,33916,Adobe,Medium
+EXP0087,IT,Recruitment,62808,2024-12-07,Approved,Credit Card,445212,400506,Adobe,Critical
+EXP0088,Finance,Training,98735,2025-05-06,Pending,Bank Transfer,240907,121907,Zoho,High
+EXP0089,Data Science,Consulting,26203,2025-09-21,Rejected,Bank Transfer,474399,396955,Meta,Critical
+EXP0090,Marketing,Cloud Services,39277,2026-06-26,Pending,Bank Transfer,243085,220410,Meta,High
+EXP0091,Operations,Recruitment,36988,2026-07-21,Rejected,Cash,98320,67587,Zoho,High
+EXP0092,Engineering,Travel,86744,2025-05-04,Pending,UPI,425329,227989,Meta,Low
+EXP0093,HR,Consulting,60495,2026-07-11,Rejected,Credit Card,408198,174132,Amazon AWS,Medium
+EXP0094,Marketing,Consulting,50487,2025-04-06,Approved,Cash,340520,128902,HP,Critical
+EXP0095,Finance,Consulting,80819,2026-04-05,Approved,Credit Card,185782,64937,HP,Low
+EXP0096,Sales,Training,40669,2026-04-11,Pending,Credit Card,169349,162234,Amazon AWS,Low
+EXP0097,IT,Hardware,99451,2025-12-24,Rejected,Bank Transfer,448646,118327,HP,Critical
+EXP0098,Data Science,Marketing Campaign,70936,2025-08-13,Rejected,Bank Transfer,183543,107853,Meta,Low
+EXP0099,Marketing,Training,9405,2024-12-20,Approved,Cash,123155,10799,Oracle,Critical
+EXP0100,HR,Marketing Campaign,92349,2025-11-04,Approved,Bank Transfer,407893,40208,Microsoft,Medium
+EXP0101,IT,Recruitment,62196,2025-08-16,Rejected,Cash,268144,6501,Google,Low
+EXP0102,HR,Consulting,95944,2026-02-05,Rejected,UPI,451501,165132,Adobe,Critical
+EXP0103,Engineering,Training,98256,2025-07-31,Approved,Credit Card,332219,208298,Adobe,High
+EXP0104,HR,Travel,12134,2025-05-05,Rejected,UPI,273694,62817,Dell,High
+EXP0105,Engineering,Training,19750,2026-03-27,Rejected,Credit Card,457428,354954,Adobe,Low
+EXP0106,Operations,Recruitment,35380,2025-06-09,Rejected,Cash,141675,65932,Google,Low
+EXP0107,Operations,Consulting,58564,2026-08-01,Pending,Bank Transfer,455322,131095,Dell,High
+EXP0108,Operations,Hardware,63775,2025-11-12,Rejected,UPI,470114,232055,HP,Medium
+EXP0109,HR,Maintenance,67861,2025-08-04,Pending,UPI,383654,260871,Microsoft,Critical
+EXP0110,Finance,Travel,94992,2025-07-04,Rejected,Credit Card,85244,1101,Meta,Critical
+EXP0111,IT,Training,10798,2025-02-23,Rejected,Bank Transfer,131064,90157,Microsoft,Medium
+EXP0112,Marketing,Marketing Campaign,63275,2026-05-06,Pending,UPI,335011,185352,LinkedIn,High
+EXP0113,Finance,Recruitment,29272,2026-06-19,Pending,Bank Transfer,412233,264012,Zoho,Medium
+EXP0114,Operations,Maintenance,32570,2024-12-06,Rejected,Credit Card,208277,77359,LinkedIn,Low
+EXP0115,Marketing,Software License,69722,2026-01-05,Approved,Cash,306699,296465,Amazon AWS,Low
+EXP0116,Sales,Cloud Services,26946,2025-03-04,Pending,UPI,235394,230590,HP,High
+EXP0117,Data Science,Training,2984,2025-07-31,Pending,Credit Card,488261,270861,Meta,Critical
+EXP0118,Marketing,Marketing Campaign,30269,2024-12-21,Approved,UPI,273956,265354,Zoho,Critical
+EXP0119,HR,Recruitment,76526,2025-09-07,Rejected,Credit Card,333816,15722,Adobe,Low
+EXP0120,Marketing,Software License,67366,2025-01-22,Approved,Cash,496702,384196,Google,High
+EXP0121,IT,Hardware,54018,2025-06-05,Approved,UPI,281674,65364,Google,Low
+EXP0122,Data Science,Training,98685,2026-05-03,Approved,Cash,96989,25665,Google,Low
+EXP0123,Operations,Marketing Campaign,32503,2026-06-14,Approved,UPI,72531,54887,Amazon AWS,Critical
+EXP0124,Finance,Consulting,46705,2025-02-03,Approved,Cash,227493,201167,Meta,Critical
+EXP0125,Finance,Travel,26762,2025-12-29,Approved,Credit Card,489123,460403,Dell,High
+EXP0126,Sales,Hardware,30086,2026-02-09,Approved,UPI,254277,125163,HP,Low
+EXP0127,Marketing,Software License,41296,2025-07-30,Rejected,UPI,232580,48937,Google,Medium
+EXP0128,Operations,Hardware,42289,2025-04-12,Pending,Bank Transfer,203281,124981,Zoho,Low
+EXP0129,Data Science,Office Supplies,45040,2025-02-02,Approved,Cash,455269,416143,Zoho,Critical
+EXP0130,Engineering,Hardware,86742,2024-11-11,Approved,UPI,324769,36317,Google,Low
+EXP0131,HR,Recruitment,74014,2025-12-14,Approved,Bank Transfer,395490,199931,Dell,Medium
+EXP0132,Data Science,Software License,72000,2024-10-16,Approved,Cash,155579,22585,Zoho,Medium
+EXP0133,Operations,Travel,30047,2024-09-30,Rejected,Bank Transfer,404619,375150,HP,Critical
+EXP0134,IT,Travel,91268,2026-07-28,Pending,UPI,96196,55716,Dell,Medium
+EXP0135,HR,Maintenance,53650,2025-02-26,Approved,UPI,155591,147493,Microsoft,High
+EXP0136,Data Science,Consulting,97800,2025-10-02,Approved,Cash,60440,47377,Meta,High
+EXP0137,Engineering,Recruitment,25200,2025-01-11,Rejected,UPI,183054,133916,HP,High
+EXP0138,Engineering,Cloud Services,48297,2025-08-30,Pending,UPI,266378,178610,Oracle,Low
+EXP0139,Data Science,Travel,64338,2025-06-11,Approved,UPI,367229,164409,Microsoft,High
+EXP0140,Operations,Marketing Campaign,84599,2025-05-06,Pending,UPI,147971,139884,Adobe,Critical
+EXP0141,Operations,Travel,78297,2024-09-13,Approved,UPI,107189,70395,Adobe,Medium
+EXP0142,Marketing,Office Supplies,6768,2026-05-12,Pending,Cash,480835,373204,LinkedIn,High
+EXP0143,Engineering,Hardware,53116,2025-09-15,Approved,UPI,189909,29803,Dell,High
+EXP0144,Sales,Travel,35077,2024-09-26,Approved,UPI,227434,13078,Dell,Medium
+EXP0145,IT,Maintenance,51053,2025-10-12,Pending,Credit Card,51832,51605,Amazon AWS,High
+EXP0146,Data Science,Travel,79985,2025-05-22,Approved,Bank Transfer,281923,92098,Meta,Low
+EXP0147,IT,Marketing Campaign,96854,2025-07-31,Rejected,Credit Card,294032,7537,Zoho,High
+EXP0148,Marketing,Cloud Services,55346,2025-03-27,Rejected,Bank Transfer,420672,128109,Microsoft,Low
+EXP0149,Engineering,Recruitment,21116,2026-02-27,Rejected,Cash,345209,308430,Adobe,Medium
+EXP0150,Engineering,Hardware,77690,2026-04-15,Approved,Credit Card,278462,73475,Microsoft,High
+EXP0151,HR,Software License,16056,2025-01-26,Approved,Cash,243929,152214,Google,Medium
+EXP0152,Marketing,Cloud Services,34256,2026-01-27,Rejected,UPI,202757,85033,Amazon AWS,High
+EXP0153,IT,Cloud Services,55977,2024-09-03,Pending,Cash,382694,294292,LinkedIn,Low
+EXP0154,Operations,Travel,68333,2025-04-13,Approved,Cash,76124,66055,LinkedIn,High
+EXP0155,HR,Training,52264,2026-05-26,Pending,Bank Transfer,411332,37524,HP,Critical
+EXP0156,IT,Travel,40821,2026-07-12,Approved,Bank Transfer,241196,95832,Adobe,Medium
+EXP0157,Operations,Maintenance,55063,2026-05-16,Rejected,Cash,328324,131404,Adobe,Medium
+EXP0158,Operations,Office Supplies,89644,2024-12-21,Rejected,UPI,462181,248842,Meta,High
+EXP0159,Data Science,Recruitment,49554,2025-07-15,Pending,Cash,74966,68165,LinkedIn,Medium
+EXP0160,HR,Maintenance,37483,2025-07-08,Rejected,Bank Transfer,369156,90670,HP,Low
+EXP0161,Operations,Training,26209,2024-08-24,Rejected,Cash,479709,380565,HP,Critical
+EXP0162,Data Science,Hardware,91913,2024-09-17,Pending,UPI,313343,205145,Oracle,Low
+EXP0163,Finance,Maintenance,79802,2026-04-10,Approved,Credit Card,320458,239056,LinkedIn,Medium
+EXP0164,Marketing,Software License,54322,2024-10-04,Rejected,Cash,493736,133894,Oracle,Low
+EXP0165,Operations,Maintenance,72950,2025-08-17,Approved,Credit Card,485223,317227,Oracle,Low
+EXP0166,Sales,Consulting,76679,2024-10-29,Approved,Bank Transfer,422384,268355,Microsoft,Critical
+EXP0167,Operations,Training,18221,2026-01-02,Pending,Bank Transfer,333258,148644,Adobe,Critical
+EXP0168,HR,Maintenance,63849,2025-12-22,Pending,Cash,484837,344049,HP,Critical
+EXP0169,Engineering,Office Supplies,28185,2025-12-02,Pending,UPI,187486,42052,Microsoft,Low
+EXP0170,Sales,Recruitment,82109,2024-12-12,Pending,Bank Transfer,464751,125868,Adobe,High
+EXP0171,Engineering,Training,78920,2025-09-26,Pending,Credit Card,110958,13575,Dell,Medium
+EXP0172,Marketing,Travel,17174,2025-03-17,Rejected,Bank Transfer,368212,71967,Adobe,Critical
+EXP0173,Finance,Recruitment,52324,2025-01-10,Approved,Credit Card,224409,105564,LinkedIn,Low
+EXP0174,IT,Training,76275,2024-10-04,Approved,UPI,99407,93978,Zoho,Low
+EXP0175,IT,Cloud Services,58310,2025-03-28,Rejected,Bank Transfer,494404,427021,Microsoft,Medium
+EXP0176,Engineering,Recruitment,38160,2024-10-04,Pending,UPI,165189,109954,Meta,Low
+EXP0177,Operations,Marketing Campaign,68988,2025-07-04,Rejected,Bank Transfer,332331,278070,Meta,High
+EXP0178,Finance,Software License,57124,2025-01-20,Pending,UPI,278501,169519,Adobe,High
+EXP0179,Operations,Recruitment,98010,2025-08-09,Rejected,Bank Transfer,359198,302696,Zoho,Critical
+EXP0180,Operations,Maintenance,35832,2025-04-06,Approved,UPI,483216,21754,HP,Medium
+EXP0181,Data Science,Office Supplies,92668,2025-07-30,Rejected,UPI,79702,56962,Google,High
+EXP0182,HR,Office Supplies,96382,2026-08-13,Approved,UPI,95232,77624,LinkedIn,High
+EXP0183,IT,Cloud Services,97701,2025-10-31,Approved,Bank Transfer,155602,112398,Dell,Medium
+EXP0184,Engineering,Software License,81174,2025-12-11,Pending,UPI,273676,220843,Google,High
+EXP0185,Marketing,Hardware,56149,2024-11-01,Rejected,Credit Card,459028,344391,Zoho,Critical
+EXP0186,Marketing,Maintenance,10349,2024-09-04,Pending,UPI,57833,2002,Dell,Critical
+EXP0187,Engineering,Cloud Services,62884,2025-05-16,Approved,Credit Card,468550,16664,LinkedIn,High
+EXP0188,Operations,Cloud Services,81871,2026-07-10,Approved,Credit Card,96460,15300,HP,Low
+EXP0189,Finance,Recruitment,80100,2024-11-27,Pending,Bank Transfer,309062,25827,Amazon AWS,Medium
+EXP0190,IT,Recruitment,58669,2026-05-19,Approved,Credit Card,387427,262963,Dell,Critical
+EXP0191,Sales,Hardware,55879,2025-04-17,Pending,Bank Transfer,316002,249877,Amazon AWS,High
+EXP0192,Engineering,Hardware,97198,2026-02-16,Rejected,Cash,320674,169184,Dell,Low
+EXP0193,Sales,Hardware,27534,2026-06-23,Approved,UPI,90430,17242,Meta,High
+EXP0194,Finance,Software License,79312,2025-09-24,Rejected,Bank Transfer,63790,55628,HP,Low
+EXP0195,Operations,Recruitment,49403,2025-09-08,Rejected,Bank Transfer,68692,23106,Zoho,Low
+EXP0196,Engineering,Cloud Services,58135,2025-02-17,Rejected,Bank Transfer,399566,214028,HP,Critical
+EXP0197,Data Science,Hardware,6203,2026-08-06,Approved,Bank Transfer,365466,160827,Microsoft,Critical
+EXP0198,IT,Training,6297,2024-08-26,Rejected,Cash,321846,61355,LinkedIn,Critical
+EXP0199,Data Science,Office Supplies,63248,2024-09-03,Pending,Credit Card,402384,232470,Oracle,Critical
+EXP0200,Marketing,Software License,96593,2025-07-06,Pending,Cash,371248,54941,LinkedIn,Low
+EXP0201,IT,Software License,15785,2025-01-02,Pending,Cash,417409,169420,LinkedIn,Low
+EXP0202,Data Science,Software License,96910,2025-03-04,Pending,Bank Transfer,391311,233026,Zoho,High
+EXP0203,Operations,Maintenance,75449,2026-04-03,Pending,Bank Transfer,325758,199848,Adobe,Medium
+EXP0204,HR,Software License,25147,2025-01-05,Approved,Cash,113914,98593,Meta,High
+EXP0205,IT,Consulting,41933,2025-05-20,Pending,UPI,342888,110825,Amazon AWS,Low
+EXP0206,Operations,Consulting,4134,2025-05-05,Pending,Bank Transfer,349399,28250,Microsoft,High
+EXP0207,Finance,Maintenance,33109,2026-08-19,Pending,Credit Card,347194,32417,LinkedIn,High
+EXP0208,IT,Cloud Services,20289,2025-11-16,Approved,UPI,336856,112184,Amazon AWS,High
+EXP0209,Operations,Marketing Campaign,42726,2025-09-26,Pending,Cash,370568,183473,Adobe,Critical
+EXP0210,Marketing,Consulting,72489,2025-04-22,Approved,Credit Card,103078,54408,Amazon AWS,Low
+EXP0211,Finance,Software License,79703,2026-02-11,Approved,Credit Card,429151,215359,Oracle,Low
+EXP0212,Sales,Consulting,82020,2025-07-26,Approved,Bank Transfer,347328,312272,Microsoft,Low
+EXP0213,Finance,Consulting,76455,2026-07-20,Rejected,UPI,164842,6108,Zoho,Medium
+EXP0214,Operations,Cloud Services,45263,2025-11-09,Rejected,Credit Card,416013,42888,LinkedIn,Critical
+EXP0215,HR,Software License,31590,2025-08-30,Pending,Bank Transfer,318859,262139,HP,Medium
+EXP0216,HR,Consulting,51478,2025-06-11,Approved,Bank Transfer,178714,19243,Microsoft,High
+EXP0217,Marketing,Training,70550,2024-12-08,Rejected,UPI,179204,81548,Microsoft,Critical
+EXP0218,IT,Cloud Services,20472,2024-09-30,Pending,Cash,289867,66084,Google,Medium
+EXP0219,IT,Marketing Campaign,32417,2025-03-07,Approved,UPI,433343,220987,Google,Low
+EXP0220,HR,Travel,33554,2026-03-27,Approved,Cash,134909,10294,Google,High
+EXP0221,Sales,Recruitment,44100,2024-11-29,Approved,Cash,197712,160353,Dell,Low
+EXP0222,IT,Cloud Services,48963,2025-07-28,Rejected,Cash,119894,102340,Oracle,Medium
+EXP0223,Engineering,Office Supplies,11868,2025-10-08,Pending,Credit Card,371080,316491,Adobe,Low
+EXP0224,Data Science,Marketing Campaign,77014,2025-10-08,Rejected,UPI,333620,20864,Meta,Critical
+EXP0225,Sales,Marketing Campaign,99861,2024-09-15,Approved,Bank Transfer,126959,71027,Meta,Medium
+EXP0226,Marketing,Office Supplies,26532,2025-02-19,Rejected,Credit Card,467997,334646,Adobe,High
+EXP0227,Finance,Marketing Campaign,24184,2026-03-30,Approved,Cash,94900,86645,Meta,Low
+EXP0228,Operations,Hardware,54198,2025-12-25,Approved,Cash,407894,24914,HP,Critical
+EXP0229,Data Science,Training,82412,2025-02-26,Pending,Credit Card,367932,331166,Dell,Critical
+EXP0230,HR,Hardware,82553,2026-01-09,Pending,UPI,122151,77553,Adobe,Low
+EXP0231,IT,Travel,49811,2025-07-03,Rejected,Bank Transfer,402304,250835,LinkedIn,Low
+EXP0232,IT,Maintenance,30859,2025-11-08,Pending,Credit Card,467608,129800,Amazon AWS,Low
+EXP0233,Finance,Office Supplies,62741,2025-05-16,Pending,Credit Card,373905,283420,LinkedIn,Critical
+EXP0234,Engineering,Travel,97653,2026-01-16,Rejected,Cash,481236,66908,Google,Low
+EXP0235,Operations,Cloud Services,57790,2025-01-01,Rejected,Credit Card,274547,168586,Meta,Medium
+EXP0236,Data Science,Training,95940,2024-10-22,Approved,Bank Transfer,256803,131313,LinkedIn,Critical
+EXP0237,Sales,Hardware,79553,2026-07-27,Approved,Cash,195182,51637,Microsoft,Medium
+EXP0238,Operations,Hardware,62985,2025-03-05,Rejected,Cash,288029,188632,Zoho,Low
+EXP0239,Engineering,Cloud Services,46513,2026-08-22,Approved,UPI,495353,161075,Google,Critical
+EXP0240,Marketing,Consulting,38280,2024-11-15,Rejected,Bank Transfer,276791,55617,LinkedIn,Critical
+EXP0241,Finance,Software License,52815,2025-08-16,Pending,Cash,88551,72224,Adobe,Low
+EXP0242,Finance,Software License,29970,2025-10-06,Rejected,Bank Transfer,396023,84013,Dell,Low
+EXP0243,Data Science,Travel,96323,2024-10-04,Rejected,Bank Transfer,404912,71637,Adobe,Critical
+EXP0244,HR,Travel,39421,2025-05-28,Approved,Credit Card,410135,208074,LinkedIn,Low
+EXP0245,IT,Travel,11216,2026-08-08,Rejected,Cash,74796,58317,Microsoft,Critical
+EXP0246,Data Science,Travel,14370,2026-03-15,Approved,Bank Transfer,375634,37893,Zoho,Medium
+EXP0247,Finance,Cloud Services,4961,2024-11-21,Approved,UPI,280863,68568,Google,Medium
+EXP0248,Marketing,Marketing Campaign,48395,2026-03-05,Pending,Credit Card,67754,52185,Zoho,Low
+EXP0249,HR,Software License,54185,2026-01-02,Rejected,Credit Card,251246,182013,Microsoft,Critical
+EXP0250,IT,Software License,90908,2024-10-12,Approved,UPI,264722,43280,Zoho,Critical
+EXP0251,Operations,Software License,59014,2025-09-23,Approved,UPI,89780,48911,Adobe,Low
+EXP0252,Sales,Recruitment,98020,2024-11-08,Pending,Credit Card,310938,23109,Dell,Critical
+EXP0253,IT,Software License,23953,2026-01-24,Rejected,Credit Card,314639,151840,Microsoft,Critical
+EXP0254,HR,Office Supplies,12893,2024-10-26,Approved,Cash,109854,46062,Dell,Medium
+EXP0255,Finance,Travel,57720,2026-05-31,Approved,Credit Card,402192,101519,Amazon AWS,High
+EXP0256,Marketing,Training,90862,2025-05-25,Approved,Credit Card,280377,145952,Meta,Medium
+EXP0257,Finance,Cloud Services,89279,2026-06-18,Rejected,UPI,112334,100011,Zoho,Medium
+EXP0258,Sales,Recruitment,62212,2025-08-11,Pending,Credit Card,352078,84461,LinkedIn,Low
+EXP0259,Operations,Hardware,4682,2025-12-17,Pending,Cash,396417,186264,Dell,Medium
+EXP0260,Marketing,Software License,71024,2025-01-10,Rejected,Cash,66816,7535,Meta,High
+EXP0261,Finance,Office Supplies,9870,2024-12-17,Pending,Bank Transfer,339043,147507,Oracle,Low
+EXP0262,Finance,Training,78838,2026-06-20,Rejected,Bank Transfer,166691,44048,HP,Critical
+EXP0263,IT,Recruitment,89893,2026-02-13,Pending,Cash,67247,16736,Google,Low
+EXP0264,HR,Travel,87443,2025-09-11,Approved,Bank Transfer,219628,145353,LinkedIn,High
+EXP0265,Operations,Marketing Campaign,42346,2026-04-13,Pending,Cash,239780,174236,Amazon AWS,Medium
+EXP0266,Sales,Training,9019,2025-10-10,Approved,Bank Transfer,266999,254558,Oracle,Critical
+EXP0267,HR,Software License,35242,2024-09-15,Pending,UPI,450630,129116,Oracle,High
+EXP0268,Finance,Hardware,25309,2024-10-10,Approved,Bank Transfer,70293,7819,HP,Low
+EXP0269,Finance,Office Supplies,78057,2025-01-08,Rejected,UPI,53140,43603,Microsoft,Medium
+EXP0270,Data Science,Office Supplies,29524,2025-04-08,Pending,Credit Card,221888,196749,HP,Critical
+EXP0271,Sales,Software License,72189,2026-03-24,Rejected,UPI,465681,20146,Dell,Low
+EXP0272,Sales,Maintenance,1651,2025-10-25,Rejected,Bank Transfer,247719,219329,Meta,Critical
+EXP0273,Sales,Travel,42948,2025-11-15,Rejected,Cash,499462,493450,Dell,Critical
+EXP0274,Marketing,Software License,7640,2025-06-15,Pending,Bank Transfer,460601,70213,Dell,Low
+EXP0275,HR,Consulting,10912,2025-03-17,Approved,Bank Transfer,479020,357229,Oracle,Critical
+EXP0276,Marketing,Maintenance,27327,2026-06-17,Pending,UPI,494008,55704,Google,Low
+EXP0277,Engineering,Training,82570,2024-09-11,Pending,UPI,258829,12890,Dell,Medium
+EXP0278,Operations,Training,67147,2024-11-24,Approved,Credit Card,164340,139070,Dell,Critical
+EXP0279,Sales,Recruitment,50868,2026-04-04,Rejected,Cash,343934,20590,Zoho,High
+EXP0280,Finance,Office Supplies,10172,2026-06-19,Approved,Credit Card,273375,255670,Oracle,Critical
+EXP0281,Engineering,Marketing Campaign,37281,2024-09-13,Rejected,UPI,163652,158435,Google,Low
+EXP0282,Engineering,Marketing Campaign,24246,2026-06-30,Pending,UPI,436542,16293,Zoho,Medium
+EXP0283,Finance,Office Supplies,30762,2025-07-15,Approved,Cash,459688,393323,Google,Low
+EXP0284,HR,Travel,14523,2024-12-22,Approved,Cash,75981,11096,Oracle,High
+EXP0285,Engineering,Software License,78071,2024-10-17,Approved,Cash,427434,169948,Meta,Medium
+EXP0286,Marketing,Travel,17594,2026-07-05,Rejected,Credit Card,136739,31613,Zoho,High
+EXP0287,Data Science,Recruitment,82796,2026-02-24,Rejected,UPI,472975,123599,Meta,Low
+EXP0288,IT,Office Supplies,62511,2024-11-17,Pending,Bank Transfer,145314,23921,Google,Low
+EXP0289,Data Science,Hardware,35118,2025-12-11,Approved,UPI,191018,145918,Microsoft,Medium
+EXP0290,Data Science,Office Supplies,84100,2026-08-05,Approved,Bank Transfer,327820,71934,HP,Low
+EXP0291,Sales,Marketing Campaign,81755,2026-08-05,Approved,Cash,75004,40992,Google,Critical
+EXP0292,Engineering,Recruitment,67065,2025-08-20,Pending,Credit Card,481806,261659,LinkedIn,Medium
+EXP0293,IT,Training,65870,2025-10-28,Rejected,Cash,331326,39605,LinkedIn,Critical
+EXP0294,IT,Marketing Campaign,22134,2025-11-18,Approved,Cash,366828,347520,Google,High
+EXP0295,Data Science,Cloud Services,86922,2026-01-03,Approved,UPI,99672,33461,Zoho,Medium
+EXP0296,IT,Hardware,27757,2025-06-24,Pending,UPI,290093,49614,Adobe,Medium
+EXP0297,Data Science,Travel,8712,2025-11-19,Approved,UPI,152026,15618,LinkedIn,Critical
+EXP0298,HR,Office Supplies,67783,2026-03-27,Rejected,Credit Card,290060,46582,HP,Critical
+EXP0299,HR,Hardware,5411,2025-01-07,Approved,UPI,442971,55430,Dell,Critical
+EXP0300,Finance,Office Supplies,70045,2025-08-26,Approved,UPI,134871,15130,Google,Critical
+EXP0301,Sales,Recruitment,67926,2026-03-20,Pending,UPI,94455,61526,Meta,Low
+EXP0302,Sales,Consulting,10886,2025-03-27,Rejected,Credit Card,186610,63995,Zoho,High
+EXP0303,Data Science,Marketing Campaign,5122,2024-09-01,Pending,Credit Card,93158,71529,Meta,Critical
+EXP0304,HR,Recruitment,45744,2025-08-14,Approved,Credit Card,143844,124766,Meta,Low
+EXP0305,Sales,Software License,85371,2025-02-05,Pending,Cash,444225,381146,LinkedIn,Critical
+EXP0306,Sales,Office Supplies,26447,2024-11-14,Rejected,Cash,460685,282008,LinkedIn,Medium
+EXP0307,Marketing,Travel,62035,2026-04-02,Rejected,Bank Transfer,84832,5826,HP,Critical
+EXP0308,Finance,Marketing Campaign,2030,2026-07-21,Pending,Bank Transfer,301703,55613,Dell,High
+EXP0309,IT,Software License,45230,2026-04-26,Rejected,Bank Transfer,279139,68714,LinkedIn,Medium
+EXP0310,Marketing,Travel,26058,2025-06-11,Approved,Bank Transfer,434886,433413,Google,Critical
+EXP0311,HR,Recruitment,50529,2026-06-01,Rejected,Bank Transfer,226547,96458,Google,Low
+EXP0312,IT,Training,47979,2025-04-15,Approved,Cash,476360,21253,Zoho,Medium
+EXP0313,Finance,Office Supplies,52593,2026-06-09,Rejected,Cash,417155,182656,Meta,Medium
+EXP0314,Finance,Training,65638,2024-11-05,Approved,Cash,329812,143528,LinkedIn,High
+EXP0315,Marketing,Maintenance,66701,2025-10-03,Rejected,Credit Card,75346,41685,HP,Low
+EXP0316,Finance,Hardware,55875,2026-04-20,Rejected,UPI,379441,26830,Amazon AWS,High
+EXP0317,Marketing,Travel,88079,2025-07-07,Approved,Credit Card,162726,15995,Meta,Low
+EXP0318,Sales,Recruitment,75808,2026-03-16,Rejected,Bank Transfer,240382,21346,Zoho,Critical
+EXP0319,Data Science,Consulting,25472,2026-06-23,Approved,Bank Transfer,132305,114461,Meta,Medium
+EXP0320,HR,Training,34479,2026-01-12,Pending,UPI,347735,130314,LinkedIn,Medium
+EXP0321,HR,Maintenance,65873,2025-10-07,Pending,Cash,391779,88903,Amazon AWS,Critical
+EXP0322,HR,Training,71805,2026-05-11,Rejected,Bank Transfer,449718,300226,Zoho,Medium
+EXP0323,Marketing,Maintenance,3070,2024-11-11,Pending,Bank Transfer,94913,21144,Microsoft,High
+EXP0324,Engineering,Marketing Campaign,36235,2025-02-24,Rejected,Cash,244882,30183,HP,Low
+EXP0325,Finance,Software License,81567,2026-05-08,Pending,Cash,413283,259599,Oracle,Low
+EXP0326,IT,Marketing Campaign,46302,2026-03-01,Rejected,Bank Transfer,248889,102478,Microsoft,Critical
+EXP0327,Sales,Maintenance,10741,2026-07-25,Approved,UPI,488290,474409,HP,High
+EXP0328,Engineering,Marketing Campaign,84235,2025-03-21,Rejected,UPI,147881,74284,Meta,Medium
+EXP0329,Sales,Hardware,26847,2026-07-01,Pending,UPI,217643,120714,Adobe,Low
+EXP0330,Marketing,Hardware,72079,2024-11-10,Pending,Credit Card,372370,137510,Dell,Medium
+EXP0331,Finance,Recruitment,63244,2025-12-16,Approved,Cash,251252,217386,HP,Critical
+EXP0332,Marketing,Consulting,74267,2026-05-13,Pending,Credit Card,62044,32054,Zoho,Medium
+EXP0333,Sales,Office Supplies,81842,2026-05-09,Approved,Credit Card,466286,446212,Google,Low
+EXP0334,Engineering,Recruitment,24352,2025-10-20,Rejected,Credit Card,332017,51730,Amazon AWS,High
+EXP0335,HR,Hardware,37421,2026-01-20,Pending,Cash,435594,150250,Dell,Critical
+EXP0336,Operations,Hardware,7968,2025-08-18,Pending,UPI,368157,189788,Amazon AWS,Medium
+EXP0337,Data Science,Marketing Campaign,14903,2026-06-25,Pending,Credit Card,322122,272258,Oracle,Low
+EXP0338,HR,Office Supplies,78892,2024-08-29,Pending,Cash,273495,124724,Zoho,Medium
+EXP0339,Finance,Training,40187,2026-04-21,Approved,UPI,117123,90452,Oracle,High
+EXP0340,Finance,Cloud Services,3020,2024-11-07,Pending,Credit Card,236751,96262,Microsoft,High
+EXP0341,HR,Software License,11569,2026-06-09,Approved,Cash,337341,247420,HP,Low
+EXP0342,IT,Software License,97376,2025-11-07,Pending,Credit Card,98077,84399,Amazon AWS,Medium
+EXP0343,Operations,Office Supplies,21251,2026-06-24,Rejected,Bank Transfer,166162,102207,HP,High
+EXP0344,Marketing,Maintenance,41036,2025-02-12,Rejected,Cash,433736,251843,Adobe,Low
+EXP0345,HR,Office Supplies,36643,2025-09-23,Pending,Credit Card,185967,158022,Microsoft,High
+EXP0346,IT,Hardware,37073,2024-10-06,Pending,UPI,172359,162068,Microsoft,Low
+EXP0347,HR,Training,88565,2025-10-21,Approved,Credit Card,291852,58979,Amazon AWS,Low
+EXP0348,HR,Recruitment,75120,2025-06-27,Rejected,Credit Card,398150,95260,Oracle,Medium
+EXP0349,Finance,Travel,37783,2026-07-15,Approved,Bank Transfer,111975,97486,Microsoft,Critical
+EXP0350,Operations,Maintenance,35888,2025-12-01,Pending,UPI,184180,83453,Microsoft,Low
+EXP0351,Operations,Travel,80646,2024-09-23,Pending,Credit Card,179252,30068,Adobe,High
+EXP0352,HR,Software License,56817,2026-04-01,Pending,UPI,81694,78620,Zoho,Low
+EXP0353,Engineering,Maintenance,85976,2024-12-16,Approved,Credit Card,392757,182443,Google,Low
+EXP0354,IT,Training,51185,2024-11-30,Pending,Credit Card,401342,43176,Microsoft,High
+EXP0355,IT,Cloud Services,86868,2026-07-12,Pending,Cash,298213,46796,Dell,Low
+EXP0356,Data Science,Hardware,80275,2026-06-05,Approved,UPI,281966,28016,Oracle,Critical
+EXP0357,Operations,Hardware,61431,2024-10-10,Pending,UPI,261865,106235,Amazon AWS,Low
+EXP0358,HR,Software License,19451,2026-01-27,Rejected,Bank Transfer,199577,49275,Adobe,Low
+EXP0359,HR,Cloud Services,83453,2025-05-28,Approved,Credit Card,210505,186505,HP,Critical
+EXP0360,Sales,Software License,30158,2025-01-04,Approved,UPI,338555,276841,Dell,Medium
+EXP0361,HR,Maintenance,29525,2024-11-20,Pending,UPI,379634,21034,Oracle,Low
+EXP0362,Marketing,Consulting,62888,2024-12-17,Approved,UPI,176935,45771,Dell,Critical
+EXP0363,IT,Training,75434,2026-08-06,Pending,Credit Card,137766,19644,Oracle,Medium
+EXP0364,Sales,Office Supplies,15588,2025-07-10,Pending,UPI,170946,76385,Meta,High
+EXP0365,Operations,Software License,37942,2024-10-22,Approved,Credit Card,173891,52572,Adobe,Critical
+EXP0366,Sales,Hardware,7459,2025-07-14,Pending,Credit Card,246632,57649,Amazon AWS,Critical
+EXP0367,Operations,Cloud Services,2249,2024-12-18,Rejected,Bank Transfer,269906,184752,Dell,High
+EXP0368,Operations,Software License,58458,2025-07-17,Rejected,Credit Card,393769,181967,Microsoft,High
+EXP0369,HR,Recruitment,56793,2024-12-28,Rejected,Bank Transfer,222863,3073,Amazon AWS,Low
+EXP0370,Marketing,Hardware,81715,2024-11-29,Approved,Cash,276915,111003,Adobe,Medium
+EXP0371,Marketing,Training,63833,2026-02-15,Pending,Credit Card,165419,84718,HP,Medium
+EXP0372,Sales,Cloud Services,30778,2025-08-06,Approved,Bank Transfer,327675,42633,Google,Low
+EXP0373,Engineering,Marketing Campaign,41962,2024-11-17,Pending,Bank Transfer,367469,331877,Amazon AWS,Medium
+EXP0374,Operations,Maintenance,62960,2025-04-28,Rejected,Bank Transfer,499780,472074,HP,Critical
+EXP0375,Finance,Office Supplies,67456,2025-08-11,Rejected,Bank Transfer,349446,66805,Oracle,High
+EXP0376,Finance,Office Supplies,69561,2026-05-05,Approved,UPI,389933,67621,Amazon AWS,Critical
+EXP0377,Engineering,Maintenance,45187,2025-12-08,Pending,Cash,287390,39258,Oracle,Critical
+EXP0378,Finance,Office Supplies,88284,2025-12-04,Rejected,UPI,146555,70400,Oracle,Medium
+EXP0379,HR,Software License,36630,2025-01-14,Rejected,Credit Card,130614,33854,Dell,High
+EXP0380,HR,Travel,42833,2024-08-23,Approved,UPI,452259,245985,Adobe,High
+EXP0381,Marketing,Travel,40294,2024-08-25,Rejected,Credit Card,102875,82918,Google,Low
+EXP0382,IT,Maintenance,95188,2026-01-02,Rejected,Cash,100913,74206,Oracle,Low
+EXP0383,Marketing,Marketing Campaign,93282,2026-04-30,Pending,Credit Card,436995,302078,Dell,High
+EXP0384,Finance,Consulting,87695,2026-04-28,Rejected,Credit Card,391777,99398,Meta,High
+EXP0385,Operations,Consulting,82855,2025-09-28,Approved,Bank Transfer,399379,121212,Zoho,Medium
+EXP0386,Finance,Consulting,57832,2025-04-07,Approved,Bank Transfer,335147,251939,Oracle,High
+EXP0387,IT,Marketing Campaign,89574,2025-10-27,Approved,UPI,335789,68904,HP,Low
+EXP0388,Finance,Maintenance,10535,2025-02-20,Approved,Bank Transfer,447145,255433,Microsoft,Critical
+EXP0389,Marketing,Software License,96769,2025-06-30,Approved,Bank Transfer,415301,91191,Google,Medium
+EXP0390,Engineering,Hardware,71094,2024-11-10,Pending,Bank Transfer,312715,174536,Zoho,Low
+EXP0391,Sales,Maintenance,12705,2025-11-06,Approved,Bank Transfer,156280,127678,Adobe,High
+EXP0392,Operations,Cloud Services,25571,2025-07-09,Rejected,UPI,156558,127161,Microsoft,Low
+EXP0393,Sales,Marketing Campaign,77404,2025-09-26,Rejected,Bank Transfer,390412,133379,LinkedIn,Low
+EXP0394,IT,Software License,52650,2025-01-14,Rejected,Bank Transfer,307576,42942,Zoho,Medium
+EXP0395,Sales,Hardware,90618,2024-10-28,Rejected,UPI,298041,279105,Dell,Critical
+EXP0396,Marketing,Consulting,28680,2026-04-10,Rejected,Cash,166056,149035,Meta,Medium
+EXP0397,Data Science,Software License,26593,2025-07-05,Approved,UPI,479308,90634,Amazon AWS,Medium
+EXP0398,Engineering,Recruitment,84896,2025-02-26,Pending,UPI,471294,59503,Amazon AWS,Medium
+EXP0399,Sales,Maintenance,43829,2025-03-01,Pending,Cash,267671,48575,LinkedIn,Critical
+EXP0400,IT,Cloud Services,18204,2025-11-24,Pending,Cash,211328,24062,Dell,High
+EXP0401,Operations,Cloud Services,82430,2024-09-16,Pending,Cash,429276,344704,Dell,High
+EXP0402,Engineering,Software License,75119,2026-04-03,Pending,Cash,85755,15678,LinkedIn,High
+EXP0403,HR,Training,40269,2024-10-05,Approved,Cash,216788,208492,Adobe,Low
+EXP0404,Sales,Consulting,12750,2025-04-25,Pending,Credit Card,176621,152689,Google,Medium
+EXP0405,Sales,Marketing Campaign,41080,2025-04-05,Pending,Credit Card,53222,23221,Amazon AWS,Medium
+EXP0406,Operations,Recruitment,86635,2025-08-17,Pending,Credit Card,461307,387927,Dell,Critical
+EXP0407,Finance,Hardware,81945,2025-04-28,Approved,Bank Transfer,435553,19645,Amazon AWS,High
+EXP0408,Finance,Office Supplies,73265,2026-08-13,Rejected,UPI,440226,151242,LinkedIn,Medium
+EXP0409,HR,Recruitment,79982,2025-06-03,Rejected,UPI,367074,177671,Zoho,High
+EXP0410,Engineering,Software License,33102,2025-10-15,Approved,Bank Transfer,395488,368860,Amazon AWS,Critical
+EXP0411,IT,Consulting,37992,2025-12-20,Pending,Bank Transfer,146713,131378,Microsoft,Critical
+EXP0412,Engineering,Consulting,20045,2024-10-22,Pending,Credit Card,377905,275004,LinkedIn,Medium
+EXP0413,Finance,Hardware,28420,2025-09-26,Approved,Credit Card,375138,181868,LinkedIn,High
+EXP0414,Marketing,Maintenance,7553,2025-01-10,Approved,UPI,448761,408028,Adobe,Medium
+EXP0415,Marketing,Training,57259,2026-05-27,Rejected,Cash,231298,13717,LinkedIn,Critical
+EXP0416,Data Science,Hardware,88316,2026-01-03,Rejected,Bank Transfer,367318,100752,Meta,Critical
+EXP0417,Engineering,Office Supplies,92728,2025-05-23,Pending,Credit Card,443350,318158,Oracle,Critical
+EXP0418,Marketing,Cloud Services,84575,2025-12-21,Rejected,Cash,87647,33748,Amazon AWS,Low
+EXP0419,HR,Marketing Campaign,29943,2025-11-05,Rejected,Credit Card,55314,17558,Amazon AWS,Critical
+EXP0420,Marketing,Travel,89985,2024-10-29,Rejected,Credit Card,199534,4650,Meta,Low
+EXP0421,Marketing,Marketing Campaign,73288,2024-10-25,Rejected,UPI,316391,199461,Oracle,Medium
+EXP0422,Sales,Travel,13486,2025-06-02,Pending,Bank Transfer,201590,18033,Microsoft,Medium
+EXP0423,Data Science,Software License,47700,2024-09-06,Pending,Credit Card,71984,18458,Google,Critical
+EXP0424,Sales,Recruitment,2441,2025-08-24,Pending,UPI,474462,379836,Meta,Medium
+EXP0425,HR,Maintenance,4928,2024-09-06,Rejected,Bank Transfer,89057,47150,Adobe,Medium
+EXP0426,HR,Maintenance,69317,2025-09-02,Pending,Bank Transfer,416798,84858,Dell,Medium
+EXP0427,Finance,Hardware,62418,2025-03-15,Pending,Bank Transfer,255865,183254,Meta,High
+EXP0428,Finance,Consulting,61155,2024-12-28,Rejected,Bank Transfer,126723,69706,Dell,Critical
+EXP0429,Engineering,Cloud Services,32584,2025-09-06,Pending,UPI,319851,257666,Microsoft,High
+EXP0430,Finance,Hardware,65077,2026-07-06,Rejected,Credit Card,291807,178248,HP,High
+EXP0431,HR,Training,77842,2025-03-17,Rejected,Cash,277864,236849,Meta,Critical
+EXP0432,Sales,Office Supplies,84299,2024-09-25,Approved,Credit Card,202393,121620,LinkedIn,Low
+EXP0433,Sales,Software License,53420,2026-06-27,Rejected,UPI,148953,73196,Google,High
+EXP0434,Marketing,Consulting,56756,2024-09-19,Rejected,Credit Card,434749,37159,HP,High
+EXP0435,Sales,Travel,9358,2025-03-03,Approved,Bank Transfer,445512,294970,Amazon AWS,Low
+EXP0436,Operations,Recruitment,13514,2025-07-08,Pending,Credit Card,353897,40247,Meta,High
+EXP0437,Sales,Marketing Campaign,68830,2026-01-16,Rejected,Cash,344513,205993,Zoho,Low
+EXP0438,Finance,Hardware,40485,2025-11-02,Rejected,Credit Card,365787,83750,Google,Critical
+EXP0439,Operations,Hardware,65926,2026-03-07,Pending,UPI,355546,332162,Oracle,Critical
+EXP0440,IT,Training,67640,2025-11-06,Pending,Bank Transfer,227208,95854,HP,Critical
+EXP0441,HR,Cloud Services,74028,2026-08-17,Pending,Credit Card,138971,28962,HP,Critical
+EXP0442,Finance,Hardware,21472,2025-02-19,Pending,Cash,481748,427278,LinkedIn,High
+EXP0443,Operations,Marketing Campaign,33489,2025-10-28,Rejected,Credit Card,137017,51637,Zoho,Medium
+EXP0444,IT,Consulting,95129,2024-11-08,Approved,Credit Card,94276,3029,Oracle,Medium
+EXP0445,Engineering,Software License,97558,2025-07-29,Pending,Cash,369482,347156,Amazon AWS,High
+EXP0446,HR,Office Supplies,82587,2026-01-18,Rejected,Bank Transfer,281052,129542,Dell,High
+EXP0447,HR,Training,95583,2025-05-28,Approved,Bank Transfer,107923,88764,Meta,Critical
+EXP0448,Marketing,Training,80932,2026-05-25,Rejected,Cash,413413,232542,HP,Medium
+EXP0449,Sales,Cloud Services,18139,2025-03-06,Rejected,UPI,170725,98729,Zoho,High
+EXP0450,Sales,Marketing Campaign,76996,2025-05-10,Approved,Bank Transfer,395794,263728,Google,Medium
+EXP0451,Data Science,Training,88302,2026-07-17,Pending,Bank Transfer,176521,23609,HP,Medium
+EXP0452,Sales,Cloud Services,47129,2024-10-04,Pending,Cash,327704,153657,Meta,Low
+EXP0453,Sales,Training,5878,2025-02-28,Approved,Credit Card,344370,275347,Meta,Medium
+EXP0454,Operations,Hardware,32519,2024-12-22,Rejected,Cash,173272,116724,Meta,Low
+EXP0455,Finance,Maintenance,80583,2025-05-27,Rejected,Bank Transfer,333856,9375,Meta,Low
+EXP0456,Data Science,Consulting,90139,2024-10-30,Rejected,UPI,335040,333843,Adobe,Medium
+EXP0457,Engineering,Recruitment,5154,2025-08-09,Pending,Bank Transfer,481126,436440,Meta,High
+EXP0458,Finance,Software License,24389,2025-01-06,Pending,Cash,288238,254464,Google,Critical
+EXP0459,Data Science,Office Supplies,46758,2025-05-27,Approved,Credit Card,221720,183980,Oracle,Critical
+EXP0460,Finance,Cloud Services,8651,2025-12-28,Rejected,Cash,462101,198835,Zoho,Critical
+EXP0461,Engineering,Maintenance,93721,2026-07-07,Pending,Bank Transfer,161965,4982,HP,Low
+EXP0462,Data Science,Hardware,6499,2025-07-05,Approved,Bank Transfer,221239,202637,Amazon AWS,Medium
+EXP0463,Operations,Software License,76812,2026-05-13,Approved,Bank Transfer,56827,4706,Amazon AWS,Low
+EXP0464,Sales,Hardware,36402,2026-01-16,Pending,Cash,227487,6952,HP,High
+EXP0465,HR,Maintenance,17718,2026-03-28,Rejected,Credit Card,318754,56678,Dell,Critical
+EXP0466,Operations,Consulting,57060,2026-04-08,Pending,Bank Transfer,327845,293920,Microsoft,Low
+EXP0467,IT,Maintenance,85152,2025-07-31,Rejected,UPI,349972,93343,Amazon AWS,Low
+EXP0468,Finance,Software License,52771,2024-09-27,Approved,Cash,143950,116444,Google,Medium
+EXP0469,Operations,Cloud Services,21953,2025-03-03,Rejected,Bank Transfer,287716,274699,Adobe,Medium
+EXP0470,Operations,Office Supplies,6521,2026-01-20,Rejected,UPI,395455,301865,Dell,Critical
+EXP0471,Sales,Training,69878,2024-11-21,Pending,Bank Transfer,264672,217559,Meta,Medium
+EXP0472,IT,Training,17190,2026-05-10,Rejected,Credit Card,297818,168580,Zoho,Low
+EXP0473,HR,Hardware,42192,2025-12-15,Pending,Credit Card,269561,53302,LinkedIn,Low
+EXP0474,Sales,Software License,12897,2025-05-27,Pending,UPI,185424,183352,Dell,Low
+EXP0475,Operations,Recruitment,30809,2024-12-07,Approved,Bank Transfer,497522,244209,Zoho,Low
+EXP0476,IT,Recruitment,27904,2026-05-03,Rejected,Credit Card,397369,102077,HP,Critical
+EXP0477,IT,Maintenance,70617,2026-06-14,Rejected,UPI,439264,130677,LinkedIn,Medium
+EXP0478,HR,Maintenance,84635,2026-04-25,Approved,UPI,415554,247045,LinkedIn,High
+EXP0479,Engineering,Software License,55372,2026-01-03,Pending,Cash,196129,76181,Amazon AWS,Medium
+EXP0480,HR,Consulting,5088,2026-04-01,Pending,Cash,458976,153451,Adobe,High
+EXP0481,HR,Hardware,1762,2025-01-11,Rejected,Credit Card,144704,64906,Meta,Low
+EXP0482,Marketing,Cloud Services,36310,2026-03-15,Approved,Bank Transfer,90113,66283,Zoho,Low
+EXP0483,Data Science,Recruitment,38101,2026-04-21,Rejected,Credit Card,62872,14652,Dell,Medium
+EXP0484,Sales,Training,63192,2024-12-01,Approved,Bank Transfer,112700,78982,Zoho,Low
+EXP0485,IT,Software License,88893,2026-02-22,Approved,Credit Card,493596,467497,Meta,Low
+EXP0486,Finance,Maintenance,1966,2025-03-17,Pending,Credit Card,70852,39136,Amazon AWS,Critical
+EXP0487,Marketing,Cloud Services,34273,2025-08-22,Approved,Credit Card,433141,19853,Dell,Low
+EXP0488,Data Science,Office Supplies,77025,2025-03-26,Pending,UPI,284533,96373,Amazon AWS,Low
+EXP0489,Operations,Maintenance,45386,2025-12-05,Approved,Bank Transfer,375528,175001,HP,Low
+EXP0490,HR,Recruitment,90071,2025-12-15,Rejected,UPI,434070,179115,Microsoft,Critical
+EXP0491,Engineering,Maintenance,42626,2026-02-09,Pending,Bank Transfer,387638,19522,Zoho,Low
+EXP0492,HR,Office Supplies,24802,2025-07-05,Approved,Cash,184802,78869,Microsoft,High
+EXP0493,Marketing,Travel,82858,2026-08-21,Rejected,Credit Card,263720,130884,LinkedIn,Medium
+EXP0494,Finance,Consulting,31175,2025-01-30,Rejected,Cash,347153,115797,Adobe,Low
+EXP0495,Marketing,Cloud Services,37773,2026-02-15,Approved,Cash,483781,304968,LinkedIn,Critical
+EXP0496,HR,Travel,98786,2025-09-27,Approved,Cash,164696,8378,Zoho,Critical
+EXP0497,Marketing,Consulting,2519,2026-01-15,Approved,Cash,323085,225457,Adobe,Medium
+EXP0498,IT,Software License,51722,2025-01-22,Approved,UPI,268382,109013,Adobe,Medium
+EXP0499,Marketing,Hardware,73960,2025-03-27,Approved,UPI,399952,272750,Adobe,Medium
+EXP0500,IT,Training,79301,2025-09-28,Rejected,Cash,185241,76518,Zoho,Medium
+EXP0501,HR,Software License,50113,2024-10-15,Approved,Bank Transfer,246544,173935,Dell,Medium
+EXP0502,Engineering,Office Supplies,97835,2025-05-14,Pending,Credit Card,329875,174216,Dell,Low
+EXP0503,Sales,Travel,15186,2025-10-31,Approved,Cash,255202,93834,Adobe,Medium
+EXP0504,Engineering,Training,62949,2025-01-26,Pending,Credit Card,271664,89318,Google,High
+EXP0505,HR,Training,13949,2025-04-30,Rejected,UPI,391597,295647,Dell,Medium
+EXP0506,Marketing,Travel,22433,2025-12-12,Rejected,Cash,355233,241817,Oracle,Critical
+EXP0507,Operations,Software License,55125,2025-08-06,Approved,UPI,359562,223363,Adobe,Medium
+EXP0508,HR,Office Supplies,20735,2025-01-13,Rejected,Bank Transfer,364321,20605,Microsoft,Critical
+EXP0509,IT,Marketing Campaign,68703,2025-02-21,Approved,Bank Transfer,250781,180954,Google,Critical
+EXP0510,Sales,Maintenance,28685,2026-05-04,Rejected,UPI,117847,45855,Google,High
+EXP0511,IT,Maintenance,6688,2024-11-28,Rejected,Bank Transfer,380350,299553,Adobe,High
+EXP0512,Operations,Maintenance,84228,2025-09-26,Pending,Bank Transfer,334604,15253,LinkedIn,Low
+EXP0513,Marketing,Hardware,26591,2025-03-31,Rejected,UPI,413133,404662,Microsoft,Low
+EXP0514,IT,Maintenance,20671,2026-05-15,Pending,UPI,166947,139037,Oracle,High
+EXP0515,Sales,Training,94304,2025-04-18,Rejected,Credit Card,446268,99505,Oracle,Critical
+EXP0516,Engineering,Training,77821,2025-08-24,Rejected,Credit Card,314424,47828,Oracle,Low
+EXP0517,Engineering,Marketing Campaign,23328,2025-11-23,Approved,UPI,398904,361676,Microsoft,Medium
+EXP0518,Sales,Consulting,83287,2024-08-23,Approved,UPI,251735,183291,Amazon AWS,Medium
+EXP0519,IT,Cloud Services,91070,2024-09-12,Pending,Cash,434358,2890,Microsoft,Critical
+EXP0520,Engineering,Training,47182,2026-07-30,Rejected,Cash,70894,68351,HP,Critical
+EXP0521,Operations,Office Supplies,77883,2025-02-26,Approved,Credit Card,454565,190438,Amazon AWS,Medium
+EXP0522,IT,Travel,84710,2025-12-17,Pending,UPI,152918,141874,Google,High
+EXP0523,Operations,Travel,82194,2024-08-22,Approved,UPI,442295,351938,HP,Low
+EXP0524,Data Science,Recruitment,1995,2026-08-11,Approved,Bank Transfer,280601,122696,Google,Low
+EXP0525,Operations,Marketing Campaign,99346,2026-07-09,Approved,Cash,120919,85432,Oracle,High
+EXP0526,Finance,Maintenance,22532,2026-03-24,Rejected,Credit Card,169269,41770,Microsoft,Medium
+EXP0527,Data Science,Recruitment,74305,2026-06-29,Pending,Cash,284145,147607,Adobe,High
+EXP0528,Sales,Training,81715,2025-01-07,Rejected,Cash,187073,13645,Oracle,Medium
+EXP0529,Operations,Software License,66236,2025-11-16,Pending,Bank Transfer,461443,82145,Adobe,Critical
+EXP0530,HR,Cloud Services,20675,2026-05-07,Pending,Cash,250519,179391,LinkedIn,Critical
+EXP0531,Sales,Consulting,73380,2026-05-18,Pending,UPI,206115,134741,Dell,High
+EXP0532,HR,Training,97939,2026-02-19,Pending,Bank Transfer,403179,299000,Microsoft,High
+EXP0533,Data Science,Office Supplies,88733,2025-03-01,Rejected,Bank Transfer,286608,124292,Adobe,Low
+EXP0534,IT,Marketing Campaign,99401,2025-01-07,Rejected,Cash,57313,7758,Microsoft,Low
+EXP0535,Finance,Marketing Campaign,75822,2026-08-19,Pending,Cash,178520,134948,Zoho,Low
+EXP0536,Data Science,Hardware,49690,2024-09-28,Approved,Credit Card,131136,60823,Amazon AWS,High
+EXP0537,Marketing,Travel,49793,2026-05-16,Rejected,Bank Transfer,258237,10721,Zoho,Medium
+EXP0538,Marketing,Travel,36264,2025-10-02,Pending,UPI,189750,10885,Zoho,Medium
+EXP0539,Finance,Recruitment,13334,2025-04-05,Rejected,UPI,186665,123249,Meta,Low
+EXP0540,Marketing,Consulting,60262,2024-12-13,Rejected,Credit Card,232347,101855,Meta,Critical
+EXP0541,HR,Marketing Campaign,99471,2025-10-10,Approved,UPI,94789,6647,Dell,Low
+EXP0542,IT,Marketing Campaign,9268,2025-03-08,Rejected,Cash,308369,264663,Microsoft,Low
+EXP0543,HR,Travel,91273,2026-05-23,Pending,Credit Card,495387,300955,Microsoft,High
+EXP0544,Sales,Office Supplies,8221,2025-01-16,Approved,Cash,145115,17969,LinkedIn,High
+EXP0545,Operations,Training,83983,2026-07-15,Rejected,UPI,101492,52835,Google,Critical
+EXP0546,Engineering,Travel,23860,2026-01-30,Approved,Bank Transfer,422011,38502,Dell,High
+EXP0547,Data Science,Cloud Services,48812,2024-09-27,Approved,Credit Card,464300,24806,Meta,Low
+EXP0548,HR,Recruitment,79755,2024-12-30,Approved,Cash,102325,21526,Adobe,Medium
+EXP0549,Operations,Travel,51856,2026-01-01,Rejected,Bank Transfer,102027,59423,HP,Low
+EXP0550,Sales,Cloud Services,55781,2024-11-06,Approved,Credit Card,131089,72582,Dell,Critical
+EXP0551,Data Science,Software License,13094,2026-05-31,Pending,Credit Card,343138,258852,Google,Medium
+EXP0552,Operations,Software License,16546,2024-11-26,Approved,Bank Transfer,109125,83694,Oracle,Critical
+EXP0553,Sales,Software License,4607,2024-09-08,Rejected,Credit Card,56739,2592,LinkedIn,Low
+EXP0554,HR,Office Supplies,43670,2025-06-14,Approved,Credit Card,456326,182205,Oracle,Low
+EXP0555,Finance,Software License,10816,2025-10-08,Approved,Cash,63090,52178,Dell,High
+EXP0556,Operations,Travel,9600,2026-07-22,Pending,UPI,146559,77874,Oracle,Critical
+EXP0557,IT,Marketing Campaign,24086,2025-03-10,Approved,Cash,177599,48811,Oracle,Critical
+EXP0558,Marketing,Travel,84994,2024-11-12,Pending,Bank Transfer,291998,231537,Adobe,High
+EXP0559,HR,Travel,77537,2025-03-21,Approved,Bank Transfer,443142,190154,Microsoft,Critical
+EXP0560,Marketing,Hardware,43437,2024-11-16,Pending,Credit Card,277984,58426,Meta,Medium
+EXP0561,IT,Software License,58216,2025-01-09,Rejected,Bank Transfer,133292,43834,Amazon AWS,Low
+EXP0562,Data Science,Travel,21171,2025-05-27,Approved,UPI,380595,171792,Microsoft,Low
+EXP0563,Data Science,Consulting,12925,2026-04-06,Rejected,Credit Card,203909,49528,Google,Critical
+EXP0564,Operations,Marketing Campaign,81349,2026-08-04,Pending,Credit Card,81450,3465,Meta,Critical
+EXP0565,Engineering,Training,89547,2026-04-11,Approved,UPI,374176,155760,Dell,Medium
+EXP0566,Engineering,Cloud Services,4739,2025-05-31,Pending,UPI,343850,246487,LinkedIn,Medium
+EXP0567,Engineering,Maintenance,82958,2025-02-23,Pending,Credit Card,237871,203524,Microsoft,Critical
+EXP0568,IT,Travel,47347,2025-06-08,Pending,Credit Card,204905,182373,HP,Low
+EXP0569,HR,Consulting,91513,2025-01-11,Rejected,Cash,226023,137733,Amazon AWS,High
+EXP0570,Operations,Marketing Campaign,27409,2024-09-13,Approved,UPI,239502,149844,Adobe,Critical
+EXP0571,Finance,Marketing Campaign,64711,2026-04-03,Rejected,Bank Transfer,102137,54641,Meta,Low
+EXP0572,IT,Maintenance,56034,2025-03-09,Rejected,Bank Transfer,170654,23596,Oracle,Medium
+EXP0573,Operations,Hardware,55535,2026-04-19,Pending,Bank Transfer,168340,78431,Oracle,Medium
+EXP0574,Marketing,Office Supplies,48826,2025-04-18,Pending,Bank Transfer,399389,315993,Meta,Critical
+EXP0575,Finance,Software License,67823,2025-08-07,Pending,Cash,116102,10690,Microsoft,Medium
+EXP0576,IT,Hardware,48159,2026-02-23,Approved,Credit Card,104807,68016,HP,High
+EXP0577,Sales,Marketing Campaign,80904,2026-05-28,Approved,Cash,147785,78219,LinkedIn,Low
+EXP0578,Marketing,Marketing Campaign,54774,2025-11-02,Pending,UPI,65278,25337,Amazon AWS,Medium
+EXP0579,Sales,Maintenance,66425,2026-06-01,Rejected,Bank Transfer,219686,190385,HP,Critical
+EXP0580,Engineering,Travel,75195,2026-03-09,Pending,Bank Transfer,62784,26357,Dell,Medium
+EXP0581,Data Science,Maintenance,40839,2026-05-12,Rejected,Bank Transfer,77937,12778,LinkedIn,Low
+EXP0582,Marketing,Software License,64742,2025-09-20,Approved,Cash,291240,4755,Google,High
+EXP0583,Marketing,Hardware,44209,2024-10-22,Approved,UPI,439106,143242,Microsoft,Critical
+EXP0584,Finance,Consulting,25266,2026-01-05,Rejected,Credit Card,245805,45930,Meta,Low
+EXP0585,Data Science,Consulting,68062,2024-12-18,Rejected,Cash,213448,130015,Amazon AWS,High
+EXP0586,Marketing,Recruitment,8913,2026-05-16,Approved,UPI,63868,26365,LinkedIn,Medium
+EXP0587,HR,Travel,76299,2026-07-17,Rejected,UPI,294836,199728,Dell,Critical
+EXP0588,IT,Travel,12396,2026-01-09,Rejected,UPI,158649,144104,Meta,High
+EXP0589,IT,Maintenance,63182,2024-09-14,Pending,Cash,250620,84136,HP,Critical
+EXP0590,Finance,Software License,91913,2025-06-07,Pending,Credit Card,163041,111451,HP,Low
+EXP0591,Engineering,Training,61404,2025-11-16,Approved,UPI,285113,219790,LinkedIn,High
+EXP0592,Data Science,Marketing Campaign,88395,2025-08-31,Pending,Cash,114077,96426,Amazon AWS,Medium
+EXP0593,Engineering,Office Supplies,82332,2026-02-28,Rejected,Credit Card,241080,105474,Zoho,High
+EXP0594,HR,Hardware,55881,2025-11-27,Pending,Credit Card,156775,105700,Oracle,High
+EXP0595,IT,Office Supplies,61578,2025-01-18,Pending,Credit Card,264491,218648,Adobe,Low
+EXP0596,Operations,Marketing Campaign,80423,2024-11-10,Rejected,Bank Transfer,148981,100139,Microsoft,Critical
+EXP0597,HR,Training,2405,2024-10-18,Rejected,Bank Transfer,188781,170097,Zoho,Low
+EXP0598,Marketing,Marketing Campaign,30225,2024-09-15,Pending,Cash,454325,416110,LinkedIn,Medium
+EXP0599,IT,Marketing Campaign,36230,2024-10-04,Pending,Bank Transfer,429854,349364,HP,Critical
+EXP0600,HR,Maintenance,78393,2026-03-17,Rejected,UPI,381116,226771,Adobe,Low
+EXP0601,IT,Recruitment,83976,2025-03-07,Pending,Cash,220115,185506,Microsoft,Low
+EXP0602,IT,Hardware,87135,2025-08-18,Approved,Credit Card,461728,124573,Dell,Critical
+EXP0603,Finance,Recruitment,46629,2025-12-11,Pending,UPI,373189,168960,Adobe,High
+EXP0604,Data Science,Maintenance,40199,2025-04-18,Rejected,Credit Card,323933,71451,Zoho,Medium
+EXP0605,IT,Maintenance,53130,2025-11-29,Pending,UPI,297402,32346,Google,Low
+EXP0606,Marketing,Marketing Campaign,94463,2025-01-04,Approved,Credit Card,154011,122239,Oracle,Low
+EXP0607,Operations,Training,22286,2024-11-17,Rejected,UPI,411393,280426,HP,Medium
+EXP0608,Data Science,Cloud Services,89676,2026-05-30,Pending,Cash,295417,240226,Zoho,Medium
+EXP0609,HR,Software License,68315,2025-06-04,Approved,Cash,297511,43469,HP,Low
+EXP0610,Marketing,Cloud Services,83212,2026-07-10,Rejected,Cash,183284,143140,Microsoft,Medium
+EXP0611,HR,Training,14333,2025-06-28,Pending,UPI,192708,91437,Microsoft,Medium
+EXP0612,Sales,Marketing Campaign,97289,2025-04-02,Approved,Cash,321880,61555,Oracle,High
+EXP0613,IT,Travel,18373,2025-02-08,Pending,Bank Transfer,179523,57265,Amazon AWS,Medium
+EXP0614,Marketing,Marketing Campaign,14201,2025-07-18,Rejected,Bank Transfer,318219,69790,Google,Critical
+EXP0615,Operations,Training,17366,2024-11-01,Approved,UPI,435168,121955,HP,Critical
+EXP0616,IT,Maintenance,71036,2025-06-28,Approved,Bank Transfer,50509,34570,Dell,Critical
+EXP0617,Marketing,Cloud Services,27078,2025-12-11,Rejected,Credit Card,248019,127316,HP,Medium
+EXP0618,Data Science,Cloud Services,94536,2026-06-19,Approved,UPI,56167,53409,Oracle,Low
+EXP0619,Finance,Consulting,9655,2025-07-13,Rejected,Bank Transfer,258735,39176,Meta,Low
+EXP0620,Sales,Software License,41081,2025-10-25,Approved,Bank Transfer,308215,281664,Dell,Low
+EXP0621,Engineering,Software License,14974,2025-06-18,Pending,UPI,340385,212369,Adobe,High
+EXP0622,HR,Hardware,24506,2026-02-23,Pending,Bank Transfer,350215,223957,Microsoft,Critical
+EXP0623,Operations,Hardware,87552,2025-02-23,Pending,Credit Card,446197,2420,Adobe,Medium
+EXP0624,Finance,Consulting,88487,2025-08-24,Pending,Credit Card,205818,42104,Zoho,Critical
+EXP0625,IT,Office Supplies,71509,2025-10-01,Rejected,Cash,215329,136814,Google,High
+EXP0626,HR,Consulting,34487,2025-11-19,Rejected,Bank Transfer,197837,189608,HP,High
+EXP0627,Finance,Hardware,50572,2025-10-15,Approved,Cash,496524,418767,LinkedIn,Medium
+EXP0628,Engineering,Consulting,66137,2026-01-01,Approved,UPI,116063,13364,Amazon AWS,Medium
+EXP0629,Data Science,Training,44413,2025-03-26,Approved,Cash,282149,107717,Microsoft,Critical
+EXP0630,Marketing,Software License,25844,2026-01-20,Rejected,Credit Card,99012,30677,HP,Medium
+EXP0631,Finance,Office Supplies,90644,2026-07-19,Rejected,Credit Card,225943,148858,Zoho,Critical
+EXP0632,Engineering,Recruitment,92632,2025-08-08,Rejected,Bank Transfer,214224,152682,Meta,High
+EXP0633,IT,Office Supplies,64690,2026-02-02,Rejected,Cash,429563,428017,Zoho,High
+EXP0634,IT,Marketing Campaign,6495,2025-01-06,Pending,Credit Card,326251,143492,Oracle,Medium
+EXP0635,Sales,Consulting,99857,2025-03-30,Pending,Credit Card,297188,26099,Google,Low
+EXP0636,Data Science,Recruitment,52434,2026-02-15,Pending,Cash,472737,222608,LinkedIn,High
+EXP0637,Operations,Training,74800,2024-09-17,Approved,Cash,318584,79342,Dell,High
+EXP0638,Engineering,Travel,47868,2025-03-14,Rejected,UPI,87055,37519,Amazon AWS,Critical
+EXP0639,Operations,Travel,65261,2025-02-04,Pending,Credit Card,107611,16284,Zoho,Low
+EXP0640,Data Science,Cloud Services,26125,2026-04-25,Rejected,Credit Card,68207,57298,Zoho,Critical
+EXP0641,Finance,Office Supplies,15326,2026-07-10,Pending,Bank Transfer,220000,4990,LinkedIn,Low
+EXP0642,Sales,Software License,15669,2026-02-23,Rejected,Bank Transfer,223199,210769,Microsoft,Low
+EXP0643,Operations,Cloud Services,74268,2026-06-21,Rejected,UPI,485631,379994,Meta,Low
+EXP0644,IT,Travel,27213,2025-12-05,Pending,Bank Transfer,57334,20526,Amazon AWS,High
+EXP0645,Marketing,Travel,12684,2025-12-27,Rejected,UPI,154168,139648,Google,High
+EXP0646,Data Science,Office Supplies,50968,2025-04-19,Rejected,Cash,368294,150360,HP,High
+EXP0647,IT,Marketing Campaign,26295,2025-12-29,Approved,Bank Transfer,79532,43947,HP,Low
+EXP0648,IT,Software License,90697,2026-05-27,Approved,UPI,385129,351351,Amazon AWS,Critical
+EXP0649,Data Science,Hardware,11957,2024-09-01,Approved,Bank Transfer,495237,362607,Oracle,High
+EXP0650,Engineering,Cloud Services,8899,2025-10-27,Rejected,Cash,250455,71643,Microsoft,Critical
+EXP0651,HR,Office Supplies,82035,2026-07-12,Pending,UPI,89333,68997,Meta,Low
+EXP0652,Data Science,Cloud Services,53978,2025-06-26,Pending,UPI,318031,284728,Dell,Low
+EXP0653,Operations,Hardware,36098,2025-05-08,Approved,Bank Transfer,87143,12980,Oracle,High
+EXP0654,Sales,Software License,9350,2026-03-27,Rejected,Cash,113036,108934,Dell,High
+EXP0655,Engineering,Cloud Services,10812,2025-07-13,Rejected,Bank Transfer,231149,55862,LinkedIn,Low
+EXP0656,Operations,Maintenance,65305,2025-08-30,Pending,Credit Card,426163,233654,HP,Low
+EXP0657,IT,Maintenance,57283,2026-05-30,Rejected,Bank Transfer,254605,137800,Dell,High
+EXP0658,Operations,Marketing Campaign,49267,2026-03-22,Rejected,Bank Transfer,384390,347617,Google,Low
+EXP0659,Engineering,Travel,82571,2024-12-25,Rejected,Cash,488317,82426,Microsoft,High
+EXP0660,HR,Travel,10461,2026-03-20,Pending,Credit Card,254440,67898,Oracle,Low
+EXP0661,IT,Software License,10627,2024-09-30,Approved,Credit Card,426056,48412,Dell,Critical
+EXP0662,Finance,Maintenance,18863,2026-03-10,Pending,Credit Card,483085,373676,LinkedIn,Low
+EXP0663,Operations,Hardware,20250,2025-12-07,Pending,Bank Transfer,289444,60846,HP,Critical
+EXP0664,Sales,Marketing Campaign,99660,2025-07-31,Pending,Bank Transfer,234830,50522,Zoho,Critical
+EXP0665,Marketing,Travel,6944,2024-11-20,Rejected,Bank Transfer,172509,35239,Meta,Critical
+EXP0666,Sales,Marketing Campaign,55662,2026-03-09,Pending,Cash,402618,338847,Adobe,Medium
+EXP0667,IT,Office Supplies,11163,2026-02-09,Approved,Credit Card,316037,185206,Amazon AWS,High
+EXP0668,IT,Marketing Campaign,28200,2025-09-03,Approved,Bank Transfer,214937,182548,LinkedIn,High
+EXP0669,Engineering,Software License,17779,2025-03-30,Rejected,Bank Transfer,346032,109552,LinkedIn,Low
+EXP0670,IT,Recruitment,66362,2024-11-13,Rejected,UPI,453922,76292,HP,Low
+EXP0671,Marketing,Marketing Campaign,24575,2025-01-22,Rejected,UPI,312586,105663,LinkedIn,Medium
+EXP0672,Data Science,Recruitment,55327,2025-03-01,Rejected,Bank Transfer,368389,63420,Zoho,High
+EXP0673,Sales,Cloud Services,30483,2025-03-16,Approved,Credit Card,128961,81538,Amazon AWS,Medium
+EXP0674,Finance,Travel,74562,2026-08-10,Pending,Cash,209897,145078,Amazon AWS,Critical
+EXP0675,Finance,Training,63061,2024-10-11,Approved,Credit Card,76606,11785,Adobe,Low
+EXP0676,Sales,Cloud Services,87935,2026-05-22,Approved,UPI,180449,175696,Zoho,High
+EXP0677,Finance,Recruitment,57295,2025-12-16,Pending,UPI,236188,68959,Google,Low
+EXP0678,Sales,Software License,81157,2026-01-23,Approved,UPI,454871,397855,LinkedIn,High
+EXP0679,Data Science,Marketing Campaign,94573,2026-06-02,Approved,Bank Transfer,485270,291394,Dell,Low
+EXP0680,Finance,Maintenance,47763,2025-05-29,Rejected,Credit Card,176615,96131,Dell,Medium
+EXP0681,Marketing,Travel,93110,2025-02-17,Rejected,UPI,217326,34356,Adobe,Medium
+EXP0682,Operations,Consulting,13493,2025-06-29,Pending,UPI,445670,215285,Adobe,High
+EXP0683,IT,Software License,79081,2025-07-30,Rejected,Cash,359578,296697,Zoho,Medium
+EXP0684,IT,Training,13091,2025-06-14,Approved,Bank Transfer,68798,30529,Adobe,Critical
+EXP0685,Marketing,Training,85225,2026-07-04,Pending,UPI,231634,77682,Meta,High
+EXP0686,IT,Software License,18286,2025-08-25,Rejected,UPI,272831,250018,Google,High
+EXP0687,Marketing,Consulting,95445,2024-09-10,Rejected,Credit Card,280466,109377,Zoho,Critical
+EXP0688,Sales,Consulting,31549,2025-04-26,Pending,Bank Transfer,475875,140374,HP,Low
+EXP0689,Data Science,Software License,90704,2026-07-17,Pending,Credit Card,423516,31688,Amazon AWS,Medium
+EXP0690,HR,Maintenance,94295,2024-12-25,Approved,Credit Card,251026,233795,LinkedIn,Medium
+EXP0691,Finance,Marketing Campaign,12466,2026-05-07,Approved,UPI,388308,14465,Oracle,High
+EXP0692,Sales,Software License,72481,2025-01-10,Rejected,Bank Transfer,440679,113985,Amazon AWS,High
+EXP0693,Engineering,Recruitment,57545,2025-04-04,Approved,Credit Card,141106,3873,Microsoft,Critical
+EXP0694,Operations,Marketing Campaign,11163,2024-08-31,Rejected,UPI,282977,94524,Oracle,Low
+EXP0695,Operations,Hardware,74459,2025-04-21,Rejected,Bank Transfer,147530,142243,Zoho,Critical
+EXP0696,Finance,Cloud Services,99760,2025-09-02,Approved,Cash,105938,5119,Oracle,High
+EXP0697,Engineering,Office Supplies,51177,2025-01-25,Pending,UPI,293342,83176,Amazon AWS,Critical
+EXP0698,Engineering,Cloud Services,32301,2025-07-01,Approved,Credit Card,82074,49345,Google,Low
+EXP0699,IT,Hardware,49042,2024-10-18,Approved,Cash,363618,290868,Zoho,High
+EXP0700,Data Science,Hardware,11093,2026-03-05,Approved,Cash,165716,82429,Adobe,High
+EXP0701,Data Science,Office Supplies,62622,2026-07-19,Pending,Cash,355492,276721,Amazon AWS,Medium
+EXP0702,IT,Consulting,17569,2026-02-18,Rejected,Credit Card,362415,322397,Amazon AWS,Critical
+EXP0703,HR,Marketing Campaign,89616,2024-11-18,Pending,Cash,319352,132106,Oracle,Critical
+EXP0704,Sales,Consulting,2393,2026-08-20,Pending,Credit Card,329914,162803,Zoho,Critical
+EXP0705,Marketing,Travel,93103,2025-09-10,Approved,Bank Transfer,370423,358154,Amazon AWS,Low
+EXP0706,Data Science,Software License,58759,2025-12-14,Approved,Credit Card,215117,157913,Amazon AWS,Low
+EXP0707,IT,Hardware,52084,2024-09-05,Approved,UPI,246617,212175,Zoho,Low
+EXP0708,Data Science,Maintenance,68179,2026-06-24,Rejected,UPI,243825,140192,Amazon AWS,Critical
+EXP0709,Sales,Recruitment,62531,2026-01-27,Approved,Bank Transfer,112436,3921,Zoho,Medium
+EXP0710,Sales,Recruitment,94278,2025-07-31,Approved,Bank Transfer,170751,113651,Amazon AWS,High
+EXP0711,Operations,Marketing Campaign,1891,2024-11-10,Pending,Bank Transfer,452058,139428,Amazon AWS,Medium
+EXP0712,Marketing,Maintenance,45380,2024-11-04,Approved,Credit Card,370996,108463,Amazon AWS,Critical
+EXP0713,Sales,Recruitment,49802,2025-05-24,Rejected,Bank Transfer,158201,128308,Microsoft,Critical
+EXP0714,Operations,Consulting,8169,2025-01-31,Approved,UPI,380806,328543,Dell,High
+EXP0715,IT,Consulting,75761,2025-12-19,Rejected,UPI,73412,37913,Microsoft,Medium
+EXP0716,Sales,Recruitment,79288,2025-01-11,Approved,Credit Card,297447,35826,Adobe,Low
+EXP0717,Marketing,Recruitment,96546,2025-05-20,Approved,Credit Card,466232,460640,Amazon AWS,Critical
+EXP0718,Sales,Consulting,97381,2024-12-08,Rejected,Cash,489420,236611,Meta,Medium
+EXP0719,Finance,Recruitment,52947,2026-03-29,Pending,UPI,499427,123208,Oracle,Low
+EXP0720,Data Science,Training,66069,2025-05-04,Approved,Credit Card,239295,152984,Dell,Critical
+EXP0721,IT,Hardware,10981,2026-01-06,Approved,UPI,155204,147208,Zoho,Low
+EXP0722,IT,Marketing Campaign,53240,2024-10-13,Approved,Cash,341775,280529,Oracle,Critical
+EXP0723,Marketing,Marketing Campaign,35045,2025-10-14,Rejected,UPI,224216,171549,Google,High
+EXP0724,Operations,Office Supplies,22506,2025-01-04,Pending,Bank Transfer,454757,303696,Dell,Critical
+EXP0725,Operations,Recruitment,9386,2025-09-03,Rejected,Credit Card,98792,33132,Meta,Medium
+EXP0726,HR,Office Supplies,47842,2025-01-27,Pending,UPI,494378,74964,Zoho,Low
+EXP0727,Engineering,Travel,70051,2025-08-23,Rejected,Bank Transfer,314455,228266,Oracle,Medium
+EXP0728,Engineering,Training,71960,2026-04-16,Pending,Credit Card,180036,47768,Meta,Medium
+EXP0729,Engineering,Training,35096,2024-12-12,Rejected,Cash,309956,24487,Google,Critical
+EXP0730,Operations,Recruitment,77555,2025-12-09,Approved,UPI,412716,158406,Microsoft,Medium
+EXP0731,Marketing,Marketing Campaign,30087,2026-08-14,Approved,Credit Card,61947,30435,Meta,Medium
+EXP0732,Operations,Training,70197,2025-02-28,Rejected,Credit Card,136572,121179,Meta,Medium
+EXP0733,Finance,Cloud Services,34492,2025-02-05,Approved,Cash,290703,98764,Oracle,High
+EXP0734,Sales,Consulting,69387,2026-02-18,Pending,UPI,259375,127443,Adobe,High
+EXP0735,Marketing,Cloud Services,15347,2025-10-24,Approved,Cash,226896,90380,Google,Medium
+EXP0736,IT,Travel,77534,2025-02-25,Approved,Bank Transfer,445492,64407,Google,High
+EXP0737,Data Science,Hardware,80400,2026-07-18,Pending,Bank Transfer,238991,142017,Oracle,Critical
+EXP0738,IT,Maintenance,1393,2025-03-26,Pending,Bank Transfer,481738,429905,Amazon AWS,Low
+EXP0739,IT,Travel,69813,2026-07-12,Pending,Cash,241091,218440,Oracle,Medium
+EXP0740,Sales,Consulting,40363,2024-12-12,Rejected,Cash,486305,362735,Dell,Critical
+EXP0741,Engineering,Office Supplies,30876,2025-08-02,Approved,Bank Transfer,462959,80001,Dell,Critical
+EXP0742,Sales,Training,68233,2026-04-15,Approved,Bank Transfer,476003,298955,Dell,Critical
+EXP0743,Operations,Recruitment,17149,2026-01-23,Approved,Cash,426810,6054,Zoho,High
+EXP0744,Data Science,Software License,4828,2024-08-23,Approved,UPI,266474,62143,HP,Critical
+EXP0745,Engineering,Cloud Services,71106,2025-04-20,Pending,Cash,135986,83650,Google,Critical
+EXP0746,Operations,Maintenance,63333,2025-06-11,Pending,Credit Card,294444,176952,Meta,High
+EXP0747,Engineering,Recruitment,15500,2024-10-08,Pending,Bank Transfer,307633,32733,Amazon AWS,High
+EXP0748,Operations,Consulting,89750,2026-02-20,Rejected,UPI,105231,65847,Microsoft,Critical
+EXP0749,Sales,Cloud Services,13809,2025-11-03,Pending,UPI,111068,85600,Zoho,Low
+EXP0750,Engineering,Hardware,42111,2025-03-15,Approved,Bank Transfer,488621,179781,HP,Critical
+EXP0751,Marketing,Travel,13941,2026-07-21,Pending,Bank Transfer,72956,18298,Zoho,High
+EXP0752,HR,Travel,23406,2025-11-20,Rejected,Cash,254404,34323,Microsoft,Low
+EXP0753,Marketing,Office Supplies,59021,2025-04-02,Approved,UPI,274767,183781,LinkedIn,Medium
+EXP0754,HR,Office Supplies,40412,2025-06-18,Pending,Credit Card,208406,18060,HP,Medium
+EXP0755,Finance,Software License,26637,2025-07-10,Rejected,Bank Transfer,340441,213758,Microsoft,Medium
+EXP0756,Data Science,Marketing Campaign,98747,2025-11-30,Approved,Cash,129421,125387,Google,Low
+EXP0757,Data Science,Training,14737,2026-03-11,Pending,UPI,382451,117732,Amazon AWS,High
+EXP0758,Operations,Recruitment,90065,2026-03-20,Approved,Bank Transfer,304188,239854,Amazon AWS,High
+EXP0759,Sales,Marketing Campaign,25482,2026-01-14,Approved,Credit Card,173092,43233,Meta,Medium
+EXP0760,Marketing,Office Supplies,3542,2025-12-02,Pending,Bank Transfer,327982,194378,Google,Critical
+EXP0761,Finance,Hardware,71188,2025-07-29,Approved,Bank Transfer,278929,41405,HP,Medium
+EXP0762,Finance,Hardware,38666,2026-04-15,Rejected,UPI,62033,37232,HP,Critical
+EXP0763,Sales,Cloud Services,68915,2026-04-23,Rejected,Cash,389303,358483,Meta,High
+EXP0764,Data Science,Consulting,14090,2025-04-16,Rejected,Cash,397476,374932,Meta,Low
+EXP0765,Finance,Training,19086,2026-03-28,Rejected,Credit Card,263114,47266,Microsoft,Medium
+EXP0766,Engineering,Travel,97200,2025-08-12,Rejected,Bank Transfer,442498,209744,HP,Critical
+EXP0767,Sales,Software License,24854,2025-05-20,Rejected,Bank Transfer,60470,4529,Meta,Low
+EXP0768,HR,Travel,22871,2025-03-04,Approved,Bank Transfer,214990,13706,Microsoft,Critical
+EXP0769,Marketing,Hardware,7311,2025-03-24,Approved,Bank Transfer,261353,239145,HP,High
+EXP0770,Operations,Consulting,67390,2025-02-13,Pending,Credit Card,86167,48940,Zoho,Low
+EXP0771,HR,Travel,20512,2024-12-17,Rejected,UPI,348778,169043,Microsoft,Critical
+EXP0772,Marketing,Maintenance,58745,2025-09-10,Approved,UPI,231976,175551,Oracle,Medium
+EXP0773,Finance,Hardware,57739,2025-08-20,Pending,Credit Card,367787,190817,Amazon AWS,Critical
+EXP0774,Operations,Maintenance,83009,2025-07-07,Approved,Bank Transfer,99338,63420,HP,High
+EXP0775,HR,Maintenance,11742,2025-04-11,Pending,Bank Transfer,397468,42490,Microsoft,Low
+EXP0776,Data Science,Cloud Services,15652,2026-04-17,Approved,UPI,144223,76503,HP,High
+EXP0777,Marketing,Office Supplies,15218,2025-02-17,Rejected,Bank Transfer,214437,89797,HP,High
+EXP0778,Finance,Consulting,34413,2025-08-08,Approved,Bank Transfer,274473,48735,Oracle,Critical
+EXP0779,Finance,Office Supplies,44891,2024-08-26,Approved,UPI,234610,74776,Amazon AWS,Low
+EXP0780,Operations,Training,11620,2026-05-11,Approved,Bank Transfer,88638,46664,HP,Medium
+EXP0781,Sales,Hardware,72825,2024-12-31,Approved,Cash,499614,369497,Google,Low
+EXP0782,HR,Maintenance,33546,2025-09-26,Rejected,UPI,206607,202265,Meta,Critical
+EXP0783,Engineering,Cloud Services,43068,2025-01-17,Approved,Cash,76158,2054,Dell,Medium
+EXP0784,Engineering,Hardware,43426,2026-06-27,Pending,Cash,490650,48655,LinkedIn,High
+EXP0785,IT,Recruitment,91641,2024-11-26,Pending,Bank Transfer,416587,173116,Adobe,Critical
+EXP0786,Sales,Consulting,66792,2025-09-05,Rejected,Bank Transfer,204013,80375,Zoho,Critical
+EXP0787,IT,Cloud Services,45365,2026-02-01,Pending,UPI,291252,139149,Dell,High
+EXP0788,Sales,Travel,54510,2026-06-07,Pending,Credit Card,66715,16408,Dell,High
+EXP0789,Marketing,Maintenance,4178,2025-04-29,Rejected,Cash,402864,50364,Zoho,Low
+EXP0790,Engineering,Recruitment,32004,2024-12-29,Pending,Bank Transfer,82175,61003,Adobe,Medium
+EXP0791,HR,Marketing Campaign,62836,2025-11-26,Approved,Credit Card,320345,162465,Zoho,Medium
+EXP0792,Engineering,Hardware,87675,2024-10-21,Pending,UPI,284088,33786,Microsoft,Medium
+EXP0793,Operations,Maintenance,61000,2026-01-18,Approved,Credit Card,210778,205203,Microsoft,Medium
+EXP0794,Operations,Software License,45927,2026-05-01,Pending,UPI,478693,409424,LinkedIn,Medium
+EXP0795,Operations,Office Supplies,78517,2025-10-12,Pending,Credit Card,302516,251419,Microsoft,Critical
+EXP0796,Sales,Recruitment,50261,2026-07-17,Pending,UPI,207354,89605,Google,Critical
+EXP0797,Sales,Consulting,39236,2025-09-10,Approved,UPI,164027,39225,Meta,High
+EXP0798,Data Science,Maintenance,17619,2026-05-06,Pending,Credit Card,461497,87841,Meta,Low
+EXP0799,HR,Hardware,57504,2024-09-08,Approved,Cash,320655,143568,Oracle,Critical
+EXP0800,Engineering,Consulting,45211,2026-01-01,Approved,Cash,328700,89146,Google,High
+EXP0801,Engineering,Travel,30753,2024-09-20,Pending,UPI,61807,61575,Zoho,Low
+EXP0802,Engineering,Travel,60167,2025-12-03,Rejected,Cash,118934,95528,Zoho,Critical
+EXP0803,IT,Maintenance,87655,2024-08-31,Approved,Bank Transfer,204630,3263,HP,High
+EXP0804,Data Science,Cloud Services,97920,2025-10-26,Approved,Cash,267521,178759,Adobe,High
+EXP0805,Operations,Office Supplies,68712,2024-09-08,Pending,Bank Transfer,171344,59220,HP,Critical
+EXP0806,Sales,Consulting,40997,2025-06-29,Rejected,Bank Transfer,414755,393004,HP,High
+EXP0807,Engineering,Office Supplies,35213,2025-11-14,Rejected,Bank Transfer,72134,48851,Dell,Low
+EXP0808,Marketing,Training,73208,2025-09-02,Rejected,Bank Transfer,460029,94756,Dell,Medium
+EXP0809,Sales,Training,33212,2025-02-15,Approved,Cash,409441,134159,Dell,Critical
+EXP0810,Marketing,Maintenance,43600,2024-09-13,Pending,Cash,452476,225219,Amazon AWS,Critical
+EXP0811,Engineering,Travel,41845,2025-05-14,Approved,UPI,321888,273653,Google,High
+EXP0812,Operations,Software License,41518,2025-04-26,Rejected,UPI,97440,61676,Google,Critical
+EXP0813,HR,Marketing Campaign,10087,2024-11-16,Pending,Credit Card,236332,35721,LinkedIn,Low
+EXP0814,IT,Maintenance,26170,2025-12-04,Rejected,Cash,249144,173131,Adobe,Critical
+EXP0815,Sales,Software License,35246,2025-01-21,Approved,Cash,185245,14480,LinkedIn,High
+EXP0816,Engineering,Training,98012,2026-06-26,Approved,Cash,345149,228227,Dell,High
+EXP0817,Data Science,Marketing Campaign,93691,2024-09-18,Pending,Bank Transfer,102414,13019,Microsoft,High
+EXP0818,Engineering,Recruitment,61467,2025-04-15,Pending,Bank Transfer,487038,71821,Adobe,Low
+EXP0819,Finance,Recruitment,27170,2026-01-20,Approved,Cash,311223,257928,Amazon AWS,High
+EXP0820,Engineering,Marketing Campaign,96542,2024-10-19,Approved,UPI,59068,54603,Microsoft,Critical
+EXP0821,Finance,Maintenance,43270,2025-09-14,Approved,Credit Card,341830,15413,Google,High
+EXP0822,IT,Maintenance,33158,2025-05-27,Pending,Credit Card,457578,366894,Amazon AWS,Critical
+EXP0823,HR,Maintenance,84132,2025-09-18,Pending,Credit Card,170070,122044,Microsoft,Critical
+EXP0824,Operations,Recruitment,12794,2025-11-24,Pending,Bank Transfer,61585,3572,Oracle,High
+EXP0825,Marketing,Maintenance,62575,2024-09-16,Pending,UPI,247615,43673,Adobe,Critical
+EXP0826,Data Science,Software License,60435,2024-11-23,Approved,UPI,230971,82517,Dell,High
+EXP0827,HR,Maintenance,98423,2025-12-29,Rejected,Credit Card,325257,28272,Dell,High
+EXP0828,Sales,Travel,30976,2025-11-27,Approved,Bank Transfer,301130,91320,Oracle,Medium
+EXP0829,Sales,Travel,41110,2025-07-27,Approved,Cash,267265,125453,HP,Low
+EXP0830,IT,Consulting,46870,2026-03-08,Approved,Cash,363126,64123,Meta,Low
+EXP0831,Marketing,Maintenance,51566,2026-06-19,Rejected,Bank Transfer,278828,23260,HP,Low
+EXP0832,IT,Cloud Services,98030,2026-02-06,Pending,Credit Card,61092,1873,Google,Low
+EXP0833,HR,Training,9698,2024-09-30,Rejected,UPI,267525,12367,Dell,Medium
+EXP0834,IT,Training,31452,2025-09-10,Rejected,Bank Transfer,57304,36525,Meta,Critical
+EXP0835,Marketing,Software License,74900,2024-12-22,Approved,Credit Card,241949,124886,Oracle,Critical
+EXP0836,Data Science,Maintenance,85568,2026-05-29,Pending,Bank Transfer,187880,9701,LinkedIn,Medium
+EXP0837,IT,Consulting,85179,2025-02-22,Pending,Bank Transfer,136916,73475,HP,Critical
+EXP0838,Operations,Hardware,48549,2025-08-14,Rejected,UPI,415045,28507,LinkedIn,High
+EXP0839,HR,Software License,21471,2025-04-21,Pending,Cash,293336,48181,Adobe,High
+EXP0840,Finance,Cloud Services,28179,2026-03-21,Rejected,Bank Transfer,87858,83212,Meta,Low
+EXP0841,Finance,Consulting,44224,2025-02-11,Pending,Credit Card,402997,149466,Microsoft,Low
+EXP0842,Marketing,Maintenance,27542,2025-01-07,Approved,Cash,310188,214798,HP,Critical
+EXP0843,Data Science,Consulting,65791,2026-06-19,Approved,Cash,233115,179313,Amazon AWS,Medium
+EXP0844,Data Science,Software License,43558,2026-04-07,Pending,UPI,210876,104922,Amazon AWS,Medium
+EXP0845,IT,Consulting,38196,2025-10-20,Pending,Bank Transfer,112400,96933,Adobe,Medium
+EXP0846,Sales,Training,51679,2025-02-26,Rejected,Cash,197316,192970,Dell,High
+EXP0847,HR,Maintenance,24185,2026-03-05,Pending,Bank Transfer,459195,204827,LinkedIn,Low
+EXP0848,Finance,Cloud Services,68781,2025-10-23,Approved,Bank Transfer,54544,25793,Google,Low
+EXP0849,IT,Hardware,13052,2025-06-10,Approved,Bank Transfer,92340,81268,HP,Low
+EXP0850,Engineering,Software License,44613,2025-01-08,Approved,Credit Card,455972,224655,Dell,Medium
+EXP0851,IT,Marketing Campaign,76351,2026-07-21,Rejected,Bank Transfer,287702,152286,Microsoft,Medium
+EXP0852,Engineering,Office Supplies,67296,2025-12-17,Approved,Credit Card,185353,124948,Adobe,Low
+EXP0853,Operations,Maintenance,18374,2024-10-20,Rejected,UPI,401005,251440,HP,Medium
+EXP0854,Finance,Maintenance,35050,2025-09-05,Rejected,Cash,233040,13773,Oracle,Medium
+EXP0855,Finance,Office Supplies,40414,2025-03-27,Rejected,UPI,364237,179945,Zoho,Critical
+EXP0856,HR,Software License,82156,2026-04-05,Pending,Bank Transfer,102275,43416,Zoho,Medium
+EXP0857,IT,Marketing Campaign,30942,2026-05-16,Rejected,Credit Card,378820,320909,HP,Low
+EXP0858,Marketing,Consulting,47271,2024-09-21,Pending,Bank Transfer,451359,325920,Google,High
+EXP0859,Engineering,Training,17482,2026-01-18,Pending,Bank Transfer,100024,8404,Oracle,Critical
+EXP0860,Operations,Maintenance,64036,2024-10-22,Approved,Credit Card,160765,96108,Zoho,Medium
+EXP0861,IT,Recruitment,76609,2025-07-03,Approved,Bank Transfer,205263,2034,Oracle,Critical
+EXP0862,IT,Cloud Services,23020,2025-10-23,Approved,UPI,285566,69432,LinkedIn,Medium
+EXP0863,Marketing,Travel,54514,2025-05-04,Pending,Bank Transfer,71090,21888,Zoho,Medium
+EXP0864,Engineering,Software License,57218,2026-02-12,Approved,UPI,89121,39380,Adobe,Low
+EXP0865,IT,Cloud Services,97394,2025-10-26,Rejected,Cash,375098,120199,Dell,Low
+EXP0866,Engineering,Marketing Campaign,19515,2025-07-10,Rejected,Credit Card,251346,125641,Adobe,Medium
+EXP0867,Engineering,Software License,16641,2026-05-08,Approved,Bank Transfer,233064,177439,Amazon AWS,Low
+EXP0868,Marketing,Consulting,58130,2025-07-22,Pending,Cash,440784,216295,Oracle,Low
+EXP0869,Marketing,Travel,97760,2024-10-30,Rejected,Cash,148903,120311,HP,Medium
+EXP0870,Operations,Training,12394,2025-03-23,Approved,Credit Card,356262,68447,LinkedIn,Low
+EXP0871,IT,Travel,87306,2026-06-12,Approved,UPI,372934,111235,Meta,Critical
+EXP0872,Operations,Cloud Services,88901,2026-05-12,Approved,UPI,305512,230866,HP,High
+EXP0873,Sales,Office Supplies,93066,2025-05-06,Approved,UPI,473015,79871,Adobe,Medium
+EXP0874,Operations,Recruitment,94307,2025-12-15,Rejected,Cash,382863,102520,Google,High
+EXP0875,HR,Consulting,10190,2025-03-10,Approved,Cash,100320,95260,LinkedIn,Low
+EXP0876,IT,Travel,7323,2026-06-19,Pending,Bank Transfer,195669,96685,Meta,Low
+EXP0877,Data Science,Office Supplies,52962,2025-06-14,Rejected,Bank Transfer,132522,91841,LinkedIn,Low
+EXP0878,Sales,Travel,73260,2026-07-30,Approved,Bank Transfer,451893,162485,Zoho,Critical
+EXP0879,Finance,Travel,82299,2024-10-29,Approved,Bank Transfer,419639,299132,Oracle,Critical
+EXP0880,Finance,Maintenance,84595,2026-02-13,Pending,UPI,50580,16024,HP,Medium
+EXP0881,Marketing,Office Supplies,93236,2024-09-30,Rejected,Credit Card,305550,277499,Meta,Low
+EXP0882,Finance,Software License,74434,2026-07-25,Pending,Credit Card,84388,71311,Google,Medium
+EXP0883,Data Science,Maintenance,35516,2025-11-23,Pending,UPI,300726,76643,Zoho,Low
+EXP0884,HR,Maintenance,76003,2024-08-23,Rejected,Bank Transfer,209675,151016,Adobe,Critical
+EXP0885,Engineering,Travel,99797,2025-10-12,Pending,Cash,436367,398955,Zoho,Low
+EXP0886,HR,Consulting,88783,2025-01-13,Rejected,Cash,431433,311704,Meta,Medium
+EXP0887,HR,Marketing Campaign,73853,2026-07-12,Rejected,Bank Transfer,66179,7510,Google,Low
+EXP0888,Marketing,Office Supplies,47135,2025-05-26,Approved,UPI,261021,58129,Amazon AWS,Medium
+EXP0889,Marketing,Maintenance,17363,2025-06-18,Approved,Credit Card,474901,338447,Microsoft,Critical
+EXP0890,HR,Consulting,33795,2025-11-16,Rejected,Cash,448643,125646,LinkedIn,Low
+EXP0891,Engineering,Travel,16423,2024-11-15,Approved,UPI,167267,99294,Google,High
+EXP0892,Data Science,Consulting,82911,2025-12-16,Pending,Cash,52317,33651,Oracle,Critical
+EXP0893,Operations,Consulting,76231,2025-07-04,Pending,Cash,85408,63913,Zoho,Medium
+EXP0894,Finance,Software License,38619,2025-03-03,Pending,UPI,203874,37763,HP,Medium
+EXP0895,Data Science,Hardware,78484,2025-12-01,Rejected,Cash,352181,149066,Meta,Critical
+EXP0896,Operations,Consulting,75679,2024-10-21,Pending,UPI,218552,23259,LinkedIn,Medium
+EXP0897,Sales,Training,29485,2026-08-16,Approved,UPI,116309,85149,Oracle,Medium
+EXP0898,Data Science,Cloud Services,24973,2025-05-02,Rejected,Cash,185536,178938,Adobe,Critical
+EXP0899,IT,Software License,57799,2026-01-07,Pending,Cash,355746,45027,Zoho,High
+EXP0900,Marketing,Office Supplies,34020,2024-11-23,Approved,UPI,444552,421547,Google,High
+EXP0901,HR,Hardware,23915,2026-01-31,Rejected,Bank Transfer,132650,2630,LinkedIn,High
+EXP0902,Marketing,Hardware,11186,2024-12-05,Approved,Credit Card,413862,371847,Zoho,Low
+EXP0903,HR,Marketing Campaign,14463,2025-06-10,Rejected,Cash,416551,95015,Microsoft,Medium
+EXP0904,Finance,Travel,54904,2024-10-10,Rejected,Credit Card,61645,58565,Adobe,Medium
+EXP0905,Marketing,Marketing Campaign,98691,2026-04-09,Rejected,Cash,51029,24488,LinkedIn,Medium
+EXP0906,Operations,Travel,41626,2024-09-25,Pending,Cash,354435,260358,Zoho,High
+EXP0907,Finance,Training,13253,2026-01-22,Pending,Cash,73524,71755,Zoho,Critical
+EXP0908,HR,Maintenance,7015,2025-10-07,Pending,Cash,244490,214630,Dell,Low
+EXP0909,IT,Recruitment,81735,2024-10-20,Rejected,Cash,426112,59760,Dell,High
+EXP0910,HR,Marketing Campaign,30796,2025-08-09,Pending,Cash,267802,241012,LinkedIn,Medium
+EXP0911,Sales,Training,32799,2024-12-24,Pending,Bank Transfer,212571,79349,Zoho,High
+EXP0912,Engineering,Hardware,69229,2026-07-27,Pending,UPI,62007,14103,Oracle,Low
+EXP0913,Sales,Travel,75155,2026-03-29,Approved,UPI,141607,23119,Oracle,High
+EXP0914,Finance,Office Supplies,85585,2025-09-03,Rejected,UPI,478128,360569,Dell,Critical
+EXP0915,Engineering,Consulting,59658,2025-04-05,Approved,Bank Transfer,491224,397169,Adobe,Medium
+EXP0916,IT,Cloud Services,63314,2026-08-22,Approved,Credit Card,174036,100470,Oracle,Critical
+EXP0917,IT,Hardware,25674,2025-04-18,Pending,Credit Card,138252,121862,Amazon AWS,Critical
+EXP0918,HR,Marketing Campaign,11548,2026-04-16,Pending,UPI,203841,31016,Meta,Low
+EXP0919,Finance,Consulting,17822,2025-02-13,Rejected,Credit Card,122056,100396,Microsoft,Medium
+EXP0920,IT,Travel,80730,2025-03-11,Rejected,Cash,288394,145537,HP,Low
+EXP0921,Sales,Marketing Campaign,49455,2025-05-11,Pending,Credit Card,488198,40101,Adobe,Medium
+EXP0922,Marketing,Recruitment,49809,2024-08-29,Rejected,Bank Transfer,394987,47539,Oracle,Critical
+EXP0923,Marketing,Training,88889,2025-12-25,Pending,Credit Card,210881,5114,Dell,Medium
+EXP0924,HR,Consulting,80145,2025-02-27,Approved,Credit Card,463894,194818,HP,Critical
+EXP0925,Marketing,Hardware,73012,2025-05-06,Pending,UPI,240344,212000,Zoho,High
+EXP0926,Data Science,Hardware,98338,2026-02-15,Pending,Cash,210909,58448,HP,Critical
+EXP0927,IT,Travel,22197,2026-07-02,Approved,Bank Transfer,209989,160716,LinkedIn,High
+EXP0928,Operations,Recruitment,69742,2025-10-17,Pending,Bank Transfer,437734,363356,HP,High
+EXP0929,Sales,Office Supplies,46712,2026-06-07,Pending,Credit Card,376970,340198,Google,Low
+EXP0930,HR,Software License,56410,2025-03-12,Approved,UPI,124705,78253,Zoho,Critical
+EXP0931,Marketing,Maintenance,74869,2024-09-27,Approved,Bank Transfer,464147,327611,Microsoft,Medium
+EXP0932,Engineering,Cloud Services,25188,2024-10-19,Rejected,UPI,299104,232688,Google,Medium
+EXP0933,Data Science,Hardware,2202,2025-07-08,Pending,Bank Transfer,386034,198769,LinkedIn,Low
+EXP0934,Engineering,Maintenance,2658,2026-03-08,Approved,Cash,189454,35835,HP,Critical
+EXP0935,IT,Hardware,5335,2025-10-18,Pending,UPI,194320,40819,Meta,Medium
+EXP0936,Data Science,Office Supplies,61208,2024-10-02,Rejected,Credit Card,98663,47853,Microsoft,High
+EXP0937,IT,Recruitment,95251,2025-01-01,Pending,UPI,66446,20450,LinkedIn,Critical
+EXP0938,Operations,Consulting,2233,2024-10-19,Rejected,UPI,395016,293242,Dell,Low
+EXP0939,Data Science,Training,73636,2026-08-18,Rejected,Cash,307015,39287,Zoho,High
+EXP0940,IT,Recruitment,53578,2026-06-03,Approved,UPI,276129,205216,Google,Medium
+EXP0941,Finance,Training,12376,2025-05-21,Rejected,Cash,126654,60265,HP,Medium
+EXP0942,IT,Training,36368,2024-12-16,Approved,Bank Transfer,260597,56682,HP,Medium
+EXP0943,Sales,Cloud Services,37553,2025-10-30,Pending,Cash,353482,92698,HP,Medium
+EXP0944,Engineering,Cloud Services,48395,2025-04-28,Pending,Bank Transfer,482510,329269,Zoho,High
+EXP0945,IT,Training,53260,2025-07-10,Rejected,Cash,386971,317762,Dell,High
+EXP0946,HR,Hardware,15874,2024-08-31,Pending,Credit Card,496251,92337,Meta,Medium
+EXP0947,Engineering,Office Supplies,12387,2025-07-07,Approved,Bank Transfer,118509,105042,Oracle,Low
+EXP0948,IT,Hardware,51279,2026-06-10,Approved,UPI,424995,160121,Dell,Medium
+EXP0949,Finance,Maintenance,64738,2025-07-30,Rejected,Credit Card,364524,6448,Meta,Critical
+EXP0950,Sales,Cloud Services,61010,2026-05-11,Pending,Bank Transfer,232158,79526,HP,Critical
+EXP0951,Data Science,Cloud Services,34089,2025-04-02,Rejected,Cash,415941,49926,Dell,Low
+EXP0952,IT,Marketing Campaign,56470,2024-12-20,Rejected,Credit Card,403748,43758,HP,High
+EXP0953,HR,Marketing Campaign,81747,2025-07-03,Approved,Cash,438828,424965,Dell,Medium
+EXP0954,HR,Maintenance,64730,2026-05-24,Rejected,UPI,491699,116789,LinkedIn,Critical
+EXP0955,Operations,Maintenance,97160,2026-05-02,Approved,Cash,126598,123936,Zoho,High
+EXP0956,Marketing,Marketing Campaign,86840,2025-03-01,Pending,UPI,110727,25812,Dell,High
+EXP0957,Finance,Travel,27575,2025-05-18,Approved,Cash,104783,66382,Microsoft,Medium
+EXP0958,Data Science,Hardware,22229,2026-03-21,Pending,Bank Transfer,140600,44857,Zoho,Medium
+EXP0959,Data Science,Cloud Services,67190,2025-07-10,Pending,Credit Card,225381,35017,Microsoft,Medium
+EXP0960,Finance,Maintenance,95372,2025-04-14,Approved,UPI,431442,42004,Adobe,Medium
+EXP0961,Data Science,Marketing Campaign,53808,2026-04-25,Pending,Cash,384739,307170,Oracle,Medium
+EXP0962,Engineering,Maintenance,93321,2025-07-16,Pending,Cash,394425,6294,LinkedIn,Critical
+EXP0963,Operations,Training,84333,2026-02-05,Pending,Cash,59026,21782,Google,High
+EXP0964,Engineering,Travel,94606,2024-12-24,Pending,Bank Transfer,163125,24229,Amazon AWS,Low
+EXP0965,IT,Cloud Services,36573,2024-11-10,Rejected,UPI,213098,141274,Google,Medium
+EXP0966,Sales,Recruitment,99501,2025-12-27,Pending,Cash,189828,73811,Google,Critical
+EXP0967,Data Science,Recruitment,94980,2025-09-26,Rejected,Credit Card,253877,119112,Microsoft,Low
+EXP0968,HR,Office Supplies,97689,2025-09-16,Pending,UPI,488394,92632,Google,High
+EXP0969,Operations,Travel,15413,2025-05-31,Pending,Bank Transfer,493785,19795,LinkedIn,Low
+EXP0970,Operations,Consulting,23711,2026-03-30,Rejected,Credit Card,335873,263507,Microsoft,Critical
+EXP0971,Marketing,Maintenance,91019,2024-09-14,Approved,Bank Transfer,378840,296086,Microsoft,Low
+EXP0972,Engineering,Recruitment,14519,2026-04-09,Pending,UPI,320177,226327,Google,High
+EXP0973,Marketing,Maintenance,32046,2026-08-10,Approved,Bank Transfer,124388,121873,LinkedIn,High
+EXP0974,Sales,Consulting,24880,2025-02-05,Rejected,Bank Transfer,364994,188104,Meta,Critical
+EXP0975,Sales,Maintenance,18145,2024-09-24,Approved,Credit Card,280124,83829,Amazon AWS,Low
+EXP0976,Finance,Marketing Campaign,79411,2025-04-04,Rejected,UPI,448614,31056,Dell,High
+EXP0977,Data Science,Office Supplies,13301,2025-05-15,Pending,Credit Card,157134,81275,Amazon AWS,Medium
+EXP0978,Sales,Consulting,17284,2026-01-26,Rejected,Credit Card,52838,37297,Dell,Medium
+EXP0979,Operations,Maintenance,28798,2024-12-12,Approved,UPI,492784,328352,LinkedIn,Medium
+EXP0980,Marketing,Training,95987,2025-11-01,Rejected,UPI,433573,145081,Amazon AWS,Critical
+EXP0981,Data Science,Marketing Campaign,18202,2025-05-25,Pending,Cash,284792,64187,Dell,Medium
+EXP0982,Sales,Travel,44170,2024-11-16,Rejected,Credit Card,402616,199927,Dell,Low
+EXP0983,IT,Consulting,39172,2025-11-22,Rejected,UPI,287267,9966,Adobe,Low
+EXP0984,Finance,Consulting,91248,2025-10-26,Approved,UPI,410987,114066,Dell,Low
+EXP0985,Marketing,Cloud Services,61121,2025-10-05,Approved,Bank Transfer,81418,56951,Oracle,High
+EXP0986,Engineering,Office Supplies,69033,2025-03-02,Rejected,Cash,72696,71207,HP,Medium
+EXP0987,IT,Marketing Campaign,8162,2024-08-30,Rejected,Cash,276880,110362,Microsoft,Medium
+EXP0988,Sales,Training,7423,2026-03-20,Pending,Bank Transfer,109239,19988,LinkedIn,Low
+EXP0989,Operations,Marketing Campaign,89315,2025-02-28,Pending,Credit Card,428570,248255,Dell,Medium
+EXP0990,Data Science,Travel,15430,2026-08-22,Rejected,Bank Transfer,56662,26869,Google,High
+EXP0991,Engineering,Consulting,53109,2025-08-17,Rejected,UPI,128164,17165,HP,Medium
+EXP0992,HR,Recruitment,90187,2025-02-16,Rejected,Cash,105370,71483,Dell,High
+EXP0993,Finance,Training,18967,2025-03-02,Pending,UPI,138535,91929,Adobe,High
+EXP0994,Sales,Recruitment,50262,2025-11-05,Rejected,Credit Card,130560,73655,Meta,Low
+EXP0995,Finance,Marketing Campaign,26667,2026-07-09,Rejected,Cash,240699,104862,Adobe,Medium
+EXP0996,Finance,Maintenance,96340,2025-09-27,Approved,Credit Card,225846,64493,Dell,Critical
+EXP0997,Marketing,Software License,66975,2025-07-12,Pending,Credit Card,60798,53507,Dell,High
+EXP0998,Operations,Marketing Campaign,5381,2025-01-14,Pending,Bank Transfer,428569,292745,LinkedIn,High
+EXP0999,HR,Training,32165,2025-08-25,Approved,UPI,463041,31564,Dell,High
+EXP1000,Data Science,Recruitment,39527,2026-01-06,Pending,Cash,124192,50323,Amazon AWS,Critical
