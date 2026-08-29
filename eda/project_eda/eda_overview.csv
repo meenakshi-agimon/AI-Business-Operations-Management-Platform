@@ -1,0 +1,9 @@
+Metric,Value
+Total Projects,10000
+Missing Values,6963
+Duplicate Records,0
+Unique Project Managers,50
+Duplicate Project IDs,0
+Overdue Active Projects,5406
+Upcoming Active Projects (30 days),419
+High/Critical Risk Projects,3693
