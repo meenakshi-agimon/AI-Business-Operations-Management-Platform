@@ -1,0 +1,501 @@
+task_id,task_name,project_id,assigned_employee,deadline,progress,status
+T001,UI Design,P041,EMP008,2026-11-27,43,In Progress
+T002,Login Module,P009,EMP048,2026-11-19,98,Completed
+T003,Deployment,P006,EMP038,2026-08-29,3,Not Started
+T004,Integration Testing,P015,EMP033,2026-08-28,84,In Progress
+T005,Security Testing,P027,EMP015,2026-11-08,15,In Progress
+T006,Deployment,P049,EMP011,2026-10-07,42,In Progress
+T007,Login Module,P049,EMP022,2026-09-05,60,In Progress
+T008,Data Analysis,P023,EMP039,2026-12-06,7,Not Started
+T009,Documentation,P035,EMP008,2026-09-04,61,In Progress
+T010,API Development,P037,EMP013,2026-08-30,94,Completed
+T011,Login Module,P006,EMP015,2026-10-12,61,In Progress
+T012,Bug Fixing,P011,EMP024,2026-09-20,100,Completed
+T013,Integration Testing,P042,EMP005,2026-11-14,46,In Progress
+T014,Documentation,P011,EMP030,2026-09-28,40,Cancelled
+T015,Backend Development,P045,EMP036,2026-11-20,22,In Progress
+T016,Testing,P015,EMP003,2026-10-15,42,In Progress
+T017,Testing,P037,EMP046,2026-09-21,96,Completed
+T018,Registration Module,P042,EMP030,2026-09-27,8,Not Started
+T019,System Design,P035,EMP017,2026-10-18,35,On Hold
+T020,Registration Module,P024,EMP015,2026-10-29,21,In Progress
+T021,Dashboard Development,P008,EMP010,2026-12-04,99,Completed
+T022,Documentation,P005,EMP025,2026-11-09,33,Cancelled
+T023,UI Design,P017,EMP036,2026-11-20,100,Completed
+T024,Data Analysis,P035,EMP049,2026-12-01,91,Completed
+T025,Dashboard Development,P019,EMP028,2026-10-22,4,Not Started
+T026,Dashboard Development,P033,EMP049,2026-10-28,65,On Hold
+T027,User Acceptance Testing,P041,EMP020,2026-11-10,62,In Progress
+T028,Requirements Analysis,P049,EMP011,2026-12-02,68,On Hold
+T029,Testing,P001,EMP039,2026-10-26,5,Not Started
+T030,Database Design,P020,EMP016,2026-09-24,70,On Hold
+T031,Performance Testing,P006,EMP006,2026-12-07,8,Not Started
+T032,Registration Module,P050,EMP009,2026-11-17,85,In Progress
+T033,User Acceptance Testing,P011,EMP017,2026-12-14,93,Completed
+T034,Frontend Development,P035,EMP049,2026-11-24,62,In Progress
+T035,Security Testing,P029,EMP034,2026-09-09,23,In Progress
+T036,System Design,P022,EMP002,2026-11-03,43,In Progress
+T037,Database Design,P001,EMP005,2026-09-23,0,Not Started
+T038,User Acceptance Testing,P022,EMP005,2026-09-24,77,In Progress
+T039,Registration Module,P014,EMP035,2026-11-25,46,On Hold
+T040,Backend Development,P037,EMP031,2026-12-03,67,In Progress
+T041,Login Module,P013,EMP007,2026-11-17,69,In Progress
+T042,Database Design,P027,EMP030,2026-11-19,100,Completed
+T043,Documentation,P007,EMP004,2026-11-26,28,In Progress
+T044,Frontend Development,P016,EMP013,2026-11-01,69,In Progress
+T045,Security Testing,P012,EMP018,2026-09-25,14,On Hold
+T046,Login Module,P029,EMP036,2026-08-31,98,Completed
+T047,Backend Development,P001,EMP006,2026-09-15,76,In Progress
+T048,Database Design,P014,EMP026,2026-09-15,64,In Progress
+T049,Report Generation,P017,EMP030,2026-10-18,98,Completed
+T050,Performance Testing,P043,EMP046,2026-09-13,42,In Progress
+T051,Requirements Analysis,P004,EMP038,2026-09-01,90,Completed
+T052,Performance Testing,P004,EMP038,2026-10-28,43,On Hold
+T053,User Acceptance Testing,P011,EMP004,2026-09-04,14,On Hold
+T054,Backend Development,P039,EMP005,2026-10-15,9,Not Started
+T055,Integration Testing,P016,EMP038,2026-08-30,96,Completed
+T056,System Design,P043,EMP038,2026-10-30,48,In Progress
+T057,Testing,P014,EMP043,2026-09-24,31,In Progress
+T058,Report Generation,P043,EMP042,2026-10-22,24,In Progress
+T059,Integration Testing,P001,EMP030,2026-11-05,4,Cancelled
+T060,User Acceptance Testing,P035,EMP014,2026-09-27,5,Not Started
+T061,Bug Fixing,P005,EMP016,2026-09-30,84,In Progress
+T062,Integration Testing,P046,EMP020,2026-12-06,90,Completed
+T063,Report Generation,P043,EMP036,2026-12-22,92,Completed
+T064,Login Module,P017,EMP008,2026-11-28,49,In Progress
+T065,Frontend Development,P019,EMP039,2026-11-24,48,In Progress
+T066,Data Analysis,P033,EMP032,2026-12-18,13,On Hold
+T067,Deployment,P006,EMP041,2026-12-09,15,In Progress
+T068,Registration Module,P022,EMP050,2026-11-14,10,Cancelled
+T069,Requirements Analysis,P048,EMP029,2026-11-23,16,In Progress
+T070,Registration Module,P008,EMP005,2026-11-02,5,Not Started
+T071,Registration Module,P038,EMP036,2026-10-19,4,Not Started
+T072,Bug Fixing,P024,EMP003,2026-09-20,100,Completed
+T073,Requirements Analysis,P007,EMP023,2026-12-16,49,On Hold
+T074,Backend Development,P048,EMP010,2026-12-13,37,In Progress
+T075,Dashboard Development,P027,EMP002,2026-11-27,60,On Hold
+T076,Backend Development,P027,EMP043,2026-09-28,28,In Progress
+T077,Performance Testing,P025,EMP003,2026-09-22,73,In Progress
+T078,Backend Development,P023,EMP020,2026-09-22,3,Not Started
+T079,Data Analysis,P026,EMP022,2026-12-13,4,Not Started
+T080,User Acceptance Testing,P023,EMP042,2026-10-15,98,Completed
+T081,Login Module,P022,EMP002,2026-12-15,11,Cancelled
+T082,Database Design,P038,EMP017,2026-09-07,59,In Progress
+T083,Deployment,P047,EMP021,2026-11-10,7,Cancelled
+T084,Frontend Development,P025,EMP037,2026-09-26,6,Not Started
+T085,Requirements Analysis,P001,EMP034,2026-11-20,100,Completed
+T086,Deployment,P013,EMP024,2026-09-02,68,On Hold
+T087,Testing,P022,EMP040,2026-11-17,94,Completed
+T088,Deployment,P033,EMP020,2026-10-05,52,In Progress
+T089,Frontend Development,P036,EMP009,2026-10-17,96,Completed
+T090,Dashboard Development,P044,EMP048,2026-11-11,66,In Progress
+T091,Report Generation,P036,EMP001,2026-09-30,56,In Progress
+T092,Security Testing,P030,EMP029,2026-11-19,75,In Progress
+T093,API Development,P048,EMP011,2026-09-30,57,In Progress
+T094,Backend Development,P006,EMP049,2026-11-19,40,In Progress
+T095,Database Design,P010,EMP002,2026-09-25,39,Cancelled
+T096,Security Testing,P050,EMP005,2026-10-17,46,On Hold
+T097,Documentation,P013,EMP046,2026-10-27,33,In Progress
+T098,UI Design,P042,EMP045,2026-12-17,91,Completed
+T099,Backend Development,P050,EMP028,2026-09-16,98,Completed
+T100,Requirements Analysis,P030,EMP004,2026-09-25,17,On Hold
+T101,Security Testing,P030,EMP009,2026-11-18,55,In Progress
+T102,Integration Testing,P049,EMP029,2026-12-07,98,Completed
+T103,Security Testing,P028,EMP036,2026-12-17,75,In Progress
+T104,Backend Development,P029,EMP017,2026-12-10,98,Completed
+T105,Backend Development,P032,EMP041,2026-09-29,51,In Progress
+T106,Testing,P016,EMP018,2026-10-04,15,On Hold
+T107,Backend Development,P009,EMP010,2026-10-13,93,Completed
+T108,Deployment,P005,EMP027,2026-10-06,68,In Progress
+T109,Deployment,P004,EMP014,2026-10-13,47,On Hold
+T110,System Design,P045,EMP002,2026-10-12,60,In Progress
+T111,Documentation,P020,EMP049,2026-12-12,63,On Hold
+T112,Requirements Analysis,P027,EMP035,2026-12-05,93,Completed
+T113,Data Analysis,P032,EMP015,2026-10-19,64,In Progress
+T114,Documentation,P022,EMP043,2026-11-25,74,In Progress
+T115,Requirements Analysis,P009,EMP040,2026-08-28,47,On Hold
+T116,UI Design,P037,EMP043,2026-09-04,92,Completed
+T117,Database Design,P030,EMP012,2026-09-27,42,In Progress
+T118,Testing,P030,EMP021,2026-11-30,27,On Hold
+T119,Data Analysis,P049,EMP027,2026-12-09,0,Not Started
+T120,Database Design,P048,EMP035,2026-10-08,23,In Progress
+T121,Database Design,P050,EMP042,2026-11-29,3,Not Started
+T122,Integration Testing,P013,EMP002,2026-09-13,75,In Progress
+T123,System Design,P043,EMP008,2026-09-21,47,In Progress
+T124,Dashboard Development,P050,EMP024,2026-11-10,91,Completed
+T125,Report Generation,P050,EMP011,2026-09-07,54,In Progress
+T126,Documentation,P037,EMP044,2026-10-14,22,On Hold
+T127,Backend Development,P005,EMP038,2026-09-07,94,Completed
+T128,Login Module,P044,EMP039,2026-12-04,50,Cancelled
+T129,Requirements Analysis,P003,EMP023,2026-10-18,91,Completed
+T130,Testing,P033,EMP042,2026-08-26,97,Completed
+T131,Bug Fixing,P007,EMP028,2026-11-14,39,On Hold
+T132,Deployment,P046,EMP010,2026-09-16,100,Completed
+T133,Requirements Analysis,P018,EMP040,2026-12-02,70,In Progress
+T134,Data Analysis,P047,EMP038,2026-10-05,63,On Hold
+T135,Security Testing,P006,EMP018,2026-09-25,99,Completed
+T136,Documentation,P040,EMP043,2026-10-07,5,Not Started
+T137,Frontend Development,P012,EMP032,2026-10-09,95,Completed
+T138,Data Analysis,P018,EMP039,2026-11-04,3,Not Started
+T139,Deployment,P006,EMP016,2026-10-26,45,In Progress
+T140,Performance Testing,P045,EMP031,2026-10-21,91,Completed
+T141,Documentation,P019,EMP015,2026-11-21,62,In Progress
+T142,User Acceptance Testing,P031,EMP036,2026-10-08,85,In Progress
+T143,Security Testing,P022,EMP023,2026-09-28,44,In Progress
+T144,Frontend Development,P008,EMP047,2026-10-04,8,Not Started
+T145,Dashboard Development,P049,EMP045,2026-09-18,76,In Progress
+T146,System Design,P018,EMP047,2026-11-30,51,In Progress
+T147,Report Generation,P007,EMP013,2026-09-23,53,In Progress
+T148,Requirements Analysis,P001,EMP046,2026-09-10,21,In Progress
+T149,Registration Module,P036,EMP019,2026-11-14,41,On Hold
+T150,System Design,P007,EMP001,2026-09-30,71,In Progress
+T151,Database Design,P022,EMP012,2026-09-26,40,On Hold
+T152,Documentation,P008,EMP005,2026-10-26,10,Not Started
+T153,Registration Module,P044,EMP004,2026-09-13,94,Completed
+T154,Login Module,P006,EMP016,2026-11-04,99,Completed
+T155,Backend Development,P039,EMP040,2026-12-02,72,In Progress
+T156,System Design,P029,EMP020,2026-10-18,22,In Progress
+T157,Login Module,P040,EMP048,2026-11-30,42,In Progress
+T158,API Development,P017,EMP043,2026-09-14,85,In Progress
+T159,UI Design,P005,EMP011,2026-10-16,75,In Progress
+T160,Backend Development,P019,EMP003,2026-09-30,97,Completed
+T161,Backend Development,P005,EMP044,2026-12-21,40,In Progress
+T162,Requirements Analysis,P028,EMP008,2026-09-22,94,Completed
+T163,Database Design,P010,EMP005,2026-09-15,99,Completed
+T164,Report Generation,P048,EMP037,2026-10-20,4,Not Started
+T165,Data Analysis,P045,EMP026,2026-10-28,71,In Progress
+T166,Database Design,P006,EMP039,2026-12-16,56,In Progress
+T167,UI Design,P039,EMP017,2026-09-05,17,In Progress
+T168,Data Analysis,P049,EMP044,2026-11-06,2,Not Started
+T169,Security Testing,P031,EMP034,2026-12-20,70,In Progress
+T170,API Development,P041,EMP032,2026-10-24,57,In Progress
+T171,Login Module,P021,EMP043,2026-12-12,67,In Progress
+T172,Report Generation,P045,EMP032,2026-11-17,62,On Hold
+T173,Database Design,P049,EMP036,2026-10-22,4,Not Started
+T174,Documentation,P021,EMP008,2026-12-13,15,In Progress
+T175,Security Testing,P043,EMP035,2026-10-16,8,Not Started
+T176,Performance Testing,P024,EMP040,2026-11-13,21,In Progress
+T177,Requirements Analysis,P014,EMP018,2026-09-10,38,On Hold
+T178,Login Module,P045,EMP032,2026-08-28,38,Cancelled
+T179,Dashboard Development,P016,EMP046,2026-10-03,85,In Progress
+T180,Backend Development,P027,EMP006,2026-12-10,39,On Hold
+T181,Registration Module,P008,EMP042,2026-10-27,28,On Hold
+T182,Data Analysis,P033,EMP046,2026-10-17,97,Completed
+T183,Requirements Analysis,P016,EMP030,2026-09-12,80,In Progress
+T184,API Development,P048,EMP009,2026-09-29,96,Completed
+T185,Data Analysis,P022,EMP033,2026-12-08,4,Not Started
+T186,Performance Testing,P038,EMP038,2026-12-13,8,Not Started
+T187,Testing,P031,EMP023,2026-11-03,96,Completed
+T188,Frontend Development,P030,EMP021,2026-11-22,64,In Progress
+T189,Deployment,P015,EMP050,2026-08-30,75,In Progress
+T190,Documentation,P046,EMP025,2026-11-17,100,Completed
+T191,Database Design,P010,EMP032,2026-09-10,57,In Progress
+T192,Login Module,P007,EMP029,2026-10-31,10,On Hold
+T193,Deployment,P047,EMP010,2026-12-14,92,Completed
+T194,Data Analysis,P005,EMP031,2026-10-07,96,Completed
+T195,Testing,P042,EMP006,2026-12-12,98,Completed
+T196,Performance Testing,P025,EMP021,2026-12-14,23,In Progress
+T197,Report Generation,P016,EMP041,2026-09-23,96,Completed
+T198,Login Module,P007,EMP049,2026-10-20,53,In Progress
+T199,Testing,P002,EMP003,2026-12-04,5,Not Started
+T200,Registration Module,P024,EMP028,2026-09-25,38,In Progress
+T201,API Development,P011,EMP012,2026-11-11,49,On Hold
+T202,Performance Testing,P044,EMP016,2026-12-19,44,In Progress
+T203,Data Analysis,P030,EMP041,2026-10-22,16,In Progress
+T204,Requirements Analysis,P030,EMP019,2026-09-14,5,Not Started
+T205,Deployment,P038,EMP020,2026-11-21,53,In Progress
+T206,Performance Testing,P013,EMP025,2026-09-07,60,In Progress
+T207,Report Generation,P037,EMP019,2026-08-27,42,Cancelled
+T208,UI Design,P026,EMP018,2026-11-05,59,On Hold
+T209,Integration Testing,P048,EMP004,2026-11-28,51,In Progress
+T210,Integration Testing,P050,EMP015,2026-12-05,39,In Progress
+T211,Registration Module,P040,EMP017,2026-11-13,10,Not Started
+T212,Report Generation,P042,EMP003,2026-12-03,61,In Progress
+T213,API Development,P047,EMP009,2026-12-19,68,In Progress
+T214,Registration Module,P012,EMP013,2026-12-03,61,In Progress
+T215,Data Analysis,P034,EMP033,2026-12-09,76,In Progress
+T216,Testing,P019,EMP048,2026-12-05,1,Not Started
+T217,Backend Development,P010,EMP049,2026-12-13,100,Completed
+T218,Bug Fixing,P026,EMP036,2026-09-05,90,Completed
+T219,Login Module,P017,EMP035,2026-10-22,48,In Progress
+T220,Bug Fixing,P038,EMP025,2026-09-07,97,Completed
+T221,Requirements Analysis,P002,EMP040,2026-10-05,24,On Hold
+T222,Security Testing,P042,EMP005,2026-12-19,100,Completed
+T223,Registration Module,P027,EMP008,2026-08-30,29,On Hold
+T224,Login Module,P032,EMP008,2026-09-24,18,On Hold
+T225,Bug Fixing,P025,EMP030,2026-11-18,54,On Hold
+T226,System Design,P035,EMP027,2026-11-28,96,Completed
+T227,Performance Testing,P042,EMP007,2026-11-11,50,In Progress
+T228,Bug Fixing,P003,EMP045,2026-09-21,45,In Progress
+T229,Bug Fixing,P024,EMP007,2026-11-02,51,On Hold
+T230,Documentation,P023,EMP004,2026-09-29,30,In Progress
+T231,Frontend Development,P030,EMP006,2026-11-15,90,Completed
+T232,Backend Development,P004,EMP022,2026-09-10,93,Completed
+T233,Requirements Analysis,P005,EMP049,2026-09-20,44,In Progress
+T234,Registration Module,P022,EMP050,2026-12-03,10,On Hold
+T235,Registration Module,P018,EMP010,2026-11-02,37,In Progress
+T236,UI Design,P008,EMP043,2026-09-10,3,Not Started
+T237,UI Design,P038,EMP021,2026-09-16,31,In Progress
+T238,User Acceptance Testing,P048,EMP027,2026-09-08,97,Completed
+T239,Bug Fixing,P029,EMP050,2026-10-29,72,In Progress
+T240,Integration Testing,P033,EMP015,2026-08-30,100,Completed
+T241,Security Testing,P034,EMP020,2026-11-15,3,Cancelled
+T242,Deployment,P031,EMP026,2026-11-20,7,Not Started
+T243,Testing,P005,EMP006,2026-11-10,2,Not Started
+T244,System Design,P018,EMP040,2026-11-03,96,Completed
+T245,Report Generation,P039,EMP034,2026-10-22,70,In Progress
+T246,Login Module,P007,EMP045,2026-12-12,98,Completed
+T247,Deployment,P047,EMP014,2026-10-21,36,On Hold
+T248,Documentation,P022,EMP030,2026-10-17,95,Completed
+T249,Data Analysis,P028,EMP021,2026-10-11,43,Cancelled
+T250,API Development,P031,EMP005,2026-12-09,6,Not Started
+T251,Bug Fixing,P007,EMP048,2026-12-06,0,Not Started
+T252,Requirements Analysis,P038,EMP036,2026-10-06,96,Completed
+T253,Deployment,P023,EMP043,2026-12-14,13,On Hold
+T254,Report Generation,P019,EMP039,2026-10-09,8,Not Started
+T255,Performance Testing,P014,EMP010,2026-09-22,95,Completed
+T256,Login Module,P036,EMP024,2026-11-30,43,In Progress
+T257,Integration Testing,P028,EMP036,2026-11-11,98,Completed
+T258,Data Analysis,P002,EMP039,2026-08-28,54,In Progress
+T259,UI Design,P022,EMP023,2026-09-17,46,On Hold
+T260,API Development,P043,EMP026,2026-09-12,90,Completed
+T261,User Acceptance Testing,P006,EMP048,2026-09-21,73,In Progress
+T262,Bug Fixing,P022,EMP011,2026-10-03,99,Completed
+T263,Database Design,P039,EMP006,2026-09-13,21,In Progress
+T264,Data Analysis,P044,EMP006,2026-10-20,97,Completed
+T265,Deployment,P039,EMP029,2026-09-28,80,In Progress
+T266,Deployment,P008,EMP023,2026-09-08,77,In Progress
+T267,Report Generation,P034,EMP043,2026-08-30,22,In Progress
+T268,Report Generation,P001,EMP014,2026-09-21,94,Completed
+T269,Login Module,P019,EMP021,2026-08-25,70,In Progress
+T270,Documentation,P012,EMP009,2026-11-01,98,Completed
+T271,Bug Fixing,P036,EMP043,2026-09-03,20,In Progress
+T272,Security Testing,P028,EMP002,2026-12-20,5,Not Started
+T273,System Design,P037,EMP028,2026-10-15,96,Completed
+T274,Documentation,P019,EMP008,2026-08-27,10,Cancelled
+T275,Bug Fixing,P040,EMP030,2026-09-05,28,In Progress
+T276,System Design,P016,EMP028,2026-10-15,65,In Progress
+T277,Testing,P020,EMP048,2026-09-22,36,In Progress
+T278,Login Module,P005,EMP033,2026-10-31,59,In Progress
+T279,Registration Module,P023,EMP047,2026-09-24,4,Not Started
+T280,Integration Testing,P013,EMP012,2026-09-13,100,Completed
+T281,Performance Testing,P005,EMP012,2026-10-23,99,Completed
+T282,System Design,P029,EMP044,2026-11-15,99,Completed
+T283,Testing,P021,EMP041,2026-09-13,75,In Progress
+T284,Report Generation,P029,EMP041,2026-12-04,22,In Progress
+T285,API Development,P023,EMP033,2026-10-03,19,In Progress
+T286,Report Generation,P004,EMP024,2026-09-03,91,Completed
+T287,User Acceptance Testing,P040,EMP039,2026-10-13,85,In Progress
+T288,Security Testing,P048,EMP003,2026-12-19,100,Completed
+T289,Integration Testing,P013,EMP021,2026-10-24,22,In Progress
+T290,Testing,P029,EMP007,2026-11-24,10,Not Started
+T291,Backend Development,P012,EMP003,2026-11-23,71,In Progress
+T292,Integration Testing,P034,EMP034,2026-09-14,51,In Progress
+T293,Testing,P025,EMP027,2026-11-19,57,In Progress
+T294,Login Module,P005,EMP022,2026-11-04,94,Completed
+T295,Integration Testing,P017,EMP047,2026-12-14,25,In Progress
+T296,Registration Module,P038,EMP043,2026-12-20,65,In Progress
+T297,API Development,P009,EMP039,2026-10-03,57,In Progress
+T298,User Acceptance Testing,P009,EMP043,2026-09-05,96,Completed
+T299,UI Design,P033,EMP024,2026-10-10,42,In Progress
+T300,Performance Testing,P022,EMP050,2026-09-18,32,In Progress
+T301,Report Generation,P010,EMP005,2026-12-11,98,Completed
+T302,User Acceptance Testing,P050,EMP035,2026-08-29,99,Completed
+T303,Documentation,P009,EMP039,2026-09-13,36,In Progress
+T304,Database Design,P047,EMP029,2026-10-16,45,In Progress
+T305,Report Generation,P029,EMP040,2026-11-29,97,Completed
+T306,Backend Development,P015,EMP035,2026-10-03,50,Cancelled
+T307,Bug Fixing,P031,EMP013,2026-11-19,38,On Hold
+T308,Report Generation,P030,EMP050,2026-12-02,82,In Progress
+T309,Frontend Development,P027,EMP011,2026-12-05,94,Completed
+T310,Performance Testing,P004,EMP042,2026-12-14,28,In Progress
+T311,Login Module,P046,EMP034,2026-09-30,2,Not Started
+T312,User Acceptance Testing,P018,EMP029,2026-09-12,91,Completed
+T313,Bug Fixing,P015,EMP029,2026-12-22,0,Not Started
+T314,Bug Fixing,P026,EMP033,2026-09-24,25,In Progress
+T315,UI Design,P024,EMP015,2026-10-04,63,On Hold
+T316,Testing,P046,EMP042,2026-12-04,0,Not Started
+T317,Registration Module,P019,EMP031,2026-11-30,97,Completed
+T318,API Development,P040,EMP001,2026-08-27,34,In Progress
+T319,Integration Testing,P036,EMP047,2026-10-31,51,In Progress
+T320,Login Module,P016,EMP020,2026-08-31,73,In Progress
+T321,Performance Testing,P005,EMP008,2026-11-09,80,In Progress
+T322,Registration Module,P037,EMP016,2026-10-01,60,In Progress
+T323,Deployment,P016,EMP037,2026-09-17,91,Completed
+T324,API Development,P034,EMP024,2026-10-31,79,In Progress
+T325,Documentation,P036,EMP002,2026-12-14,64,In Progress
+T326,UI Design,P024,EMP017,2026-10-09,95,Completed
+T327,Login Module,P016,EMP047,2026-12-01,57,In Progress
+T328,Bug Fixing,P009,EMP003,2026-11-02,37,In Progress
+T329,Security Testing,P050,EMP044,2026-11-22,38,In Progress
+T330,Security Testing,P009,EMP005,2026-08-29,20,In Progress
+T331,Testing,P013,EMP003,2026-12-22,65,In Progress
+T332,Data Analysis,P035,EMP031,2026-08-29,93,Completed
+T333,Database Design,P019,EMP023,2026-12-13,94,Completed
+T334,Deployment,P008,EMP024,2026-12-16,71,In Progress
+T335,Dashboard Development,P025,EMP022,2026-10-27,95,Completed
+T336,API Development,P034,EMP018,2026-11-26,70,In Progress
+T337,Requirements Analysis,P039,EMP012,2026-10-01,25,In Progress
+T338,Report Generation,P021,EMP043,2026-10-03,69,In Progress
+T339,Security Testing,P011,EMP045,2026-10-08,60,In Progress
+T340,Data Analysis,P040,EMP028,2026-11-14,3,Cancelled
+T341,Documentation,P005,EMP043,2026-10-10,35,In Progress
+T342,Integration Testing,P002,EMP010,2026-11-19,90,Completed
+T343,Backend Development,P009,EMP005,2026-12-02,95,Completed
+T344,Database Design,P025,EMP037,2026-11-10,72,In Progress
+T345,Security Testing,P024,EMP024,2026-11-30,2,Not Started
+T346,Documentation,P034,EMP024,2026-10-04,93,Completed
+T347,Dashboard Development,P008,EMP002,2026-10-27,30,In Progress
+T348,Data Analysis,P017,EMP050,2026-11-23,51,In Progress
+T349,Frontend Development,P045,EMP032,2026-09-09,1,Not Started
+T350,Security Testing,P029,EMP012,2026-09-05,95,Completed
+T351,API Development,P043,EMP023,2026-11-03,53,In Progress
+T352,Dashboard Development,P011,EMP046,2026-12-04,43,In Progress
+T353,Registration Module,P008,EMP013,2026-09-24,90,Completed
+T354,System Design,P024,EMP036,2026-10-11,85,In Progress
+T355,API Development,P009,EMP040,2026-09-02,76,In Progress
+T356,Deployment,P034,EMP027,2026-12-08,31,In Progress
+T357,API Development,P021,EMP042,2026-10-21,81,In Progress
+T358,Requirements Analysis,P023,EMP009,2026-11-14,31,In Progress
+T359,Database Design,P028,EMP033,2026-12-09,2,Not Started
+T360,Dashboard Development,P020,EMP011,2026-10-05,24,On Hold
+T361,Report Generation,P023,EMP034,2026-12-11,3,Not Started
+T362,Data Analysis,P041,EMP036,2026-09-10,99,Completed
+T363,User Acceptance Testing,P035,EMP006,2026-11-15,34,In Progress
+T364,Integration Testing,P011,EMP043,2026-11-25,31,On Hold
+T365,UI Design,P037,EMP003,2026-09-04,10,Not Started
+T366,Data Analysis,P050,EMP037,2026-11-16,68,In Progress
+T367,UI Design,P040,EMP041,2026-10-27,44,On Hold
+T368,Report Generation,P019,EMP042,2026-10-25,66,In Progress
+T369,API Development,P020,EMP030,2026-11-21,7,Not Started
+T370,Security Testing,P027,EMP031,2026-09-20,33,In Progress
+T371,Testing,P021,EMP046,2026-11-26,22,Cancelled
+T372,Bug Fixing,P026,EMP009,2026-10-29,55,In Progress
+T373,Login Module,P016,EMP030,2026-09-28,33,In Progress
+T374,Report Generation,P007,EMP004,2026-10-13,36,On Hold
+T375,Testing,P016,EMP011,2026-12-22,55,In Progress
+T376,Dashboard Development,P013,EMP049,2026-10-27,29,Cancelled
+T377,Performance Testing,P032,EMP020,2026-08-27,6,Not Started
+T378,Backend Development,P033,EMP030,2026-09-21,21,In Progress
+T379,Performance Testing,P004,EMP019,2026-11-09,51,On Hold
+T380,Report Generation,P044,EMP031,2026-11-01,1,Not Started
+T381,Data Analysis,P028,EMP009,2026-11-26,66,In Progress
+T382,Documentation,P024,EMP003,2026-08-31,39,In Progress
+T383,Report Generation,P024,EMP036,2026-09-03,72,In Progress
+T384,Data Analysis,P049,EMP036,2026-12-08,43,Cancelled
+T385,Registration Module,P040,EMP008,2026-09-06,58,In Progress
+T386,Registration Module,P036,EMP024,2026-09-19,96,Completed
+T387,Database Design,P033,EMP003,2026-08-29,5,Not Started
+T388,Security Testing,P031,EMP034,2026-09-13,98,Completed
+T389,Integration Testing,P009,EMP021,2026-10-04,53,In Progress
+T390,User Acceptance Testing,P038,EMP022,2026-12-09,77,In Progress
+T391,Report Generation,P046,EMP037,2026-10-24,95,Completed
+T392,Login Module,P022,EMP044,2026-10-17,18,In Progress
+T393,Data Analysis,P039,EMP031,2026-11-16,99,Completed
+T394,Database Design,P037,EMP015,2026-11-07,82,In Progress
+T395,Integration Testing,P041,EMP047,2026-12-02,92,Completed
+T396,Database Design,P044,EMP016,2026-11-06,17,On Hold
+T397,Security Testing,P013,EMP002,2026-10-04,67,In Progress
+T398,Deployment,P045,EMP014,2026-10-28,97,Completed
+T399,Database Design,P048,EMP047,2026-11-23,3,Not Started
+T400,Performance Testing,P036,EMP021,2026-10-31,37,In Progress
+T401,Testing,P030,EMP035,2026-11-02,48,In Progress
+T402,Frontend Development,P040,EMP031,2026-09-25,53,In Progress
+T403,Report Generation,P015,EMP020,2026-11-23,77,In Progress
+T404,Bug Fixing,P021,EMP031,2026-11-04,60,On Hold
+T405,Report Generation,P047,EMP018,2026-09-09,84,In Progress
+T406,Bug Fixing,P025,EMP026,2026-12-01,94,Completed
+T407,API Development,P003,EMP019,2026-10-08,51,On Hold
+T408,Performance Testing,P017,EMP048,2026-09-21,83,In Progress
+T409,Data Analysis,P018,EMP036,2026-09-11,9,Not Started
+T410,Database Design,P016,EMP016,2026-11-18,24,On Hold
+T411,Database Design,P041,EMP015,2026-09-06,75,In Progress
+T412,Registration Module,P007,EMP044,2026-08-25,10,Cancelled
+T413,Performance Testing,P027,EMP042,2026-10-25,94,Completed
+T414,Database Design,P021,EMP019,2026-12-19,100,Completed
+T415,Requirements Analysis,P037,EMP015,2026-11-27,90,Completed
+T416,Dashboard Development,P012,EMP027,2026-12-22,63,On Hold
+T417,Dashboard Development,P026,EMP032,2026-12-22,94,Completed
+T418,Report Generation,P003,EMP001,2026-11-05,95,Completed
+T419,Requirements Analysis,P019,EMP030,2026-10-31,32,In Progress
+T420,Data Analysis,P033,EMP030,2026-09-18,95,Completed
+T421,Security Testing,P011,EMP047,2026-11-15,38,In Progress
+T422,Testing,P001,EMP048,2026-12-04,39,In Progress
+T423,Documentation,P012,EMP040,2026-12-08,56,In Progress
+T424,Login Module,P006,EMP026,2026-09-17,30,Cancelled
+T425,UI Design,P021,EMP016,2026-09-27,72,In Progress
+T426,Testing,P049,EMP018,2026-10-02,16,In Progress
+T427,Bug Fixing,P017,EMP042,2026-11-21,30,In Progress
+T428,Dashboard Development,P030,EMP020,2026-10-15,94,Completed
+T429,Report Generation,P045,EMP008,2026-10-11,93,Completed
+T430,Registration Module,P009,EMP031,2026-10-22,99,Completed
+T431,Requirements Analysis,P024,EMP027,2026-12-19,83,In Progress
+T432,Backend Development,P043,EMP014,2026-11-20,91,Completed
+T433,User Acceptance Testing,P034,EMP029,2026-11-23,29,In Progress
+T434,User Acceptance Testing,P004,EMP036,2026-09-19,34,In Progress
+T435,User Acceptance Testing,P011,EMP021,2026-10-20,3,Not Started
+T436,Performance Testing,P046,EMP038,2026-09-05,38,On Hold
+T437,Registration Module,P004,EMP030,2026-10-29,22,In Progress
+T438,Report Generation,P036,EMP030,2026-11-25,4,Not Started
+T439,Frontend Development,P001,EMP048,2026-11-07,6,Not Started
+T440,API Development,P023,EMP045,2026-11-02,4,Cancelled
+T441,Report Generation,P031,EMP003,2026-10-16,32,In Progress
+T442,Deployment,P050,EMP042,2026-10-11,24,Cancelled
+T443,Documentation,P029,EMP025,2026-09-04,100,Completed
+T444,Bug Fixing,P035,EMP009,2026-09-09,83,In Progress
+T445,Registration Module,P026,EMP034,2026-11-26,0,Cancelled
+T446,Report Generation,P049,EMP002,2026-10-23,98,Completed
+T447,Documentation,P028,EMP035,2026-12-08,73,In Progress
+T448,Data Analysis,P023,EMP010,2026-09-18,56,On Hold
+T449,Database Design,P049,EMP008,2026-12-06,99,Completed
+T450,Backend Development,P050,EMP002,2026-09-20,9,Not Started
+T451,Integration Testing,P003,EMP029,2026-11-19,90,Completed
+T452,Database Design,P016,EMP048,2026-10-15,84,In Progress
+T453,Database Design,P014,EMP049,2026-09-11,52,In Progress
+T454,System Design,P015,EMP047,2026-10-04,56,In Progress
+T455,Registration Module,P016,EMP020,2026-11-17,67,In Progress
+T456,Database Design,P020,EMP018,2026-11-04,66,On Hold
+T457,Deployment,P048,EMP012,2026-11-04,59,In Progress
+T458,Documentation,P042,EMP043,2026-12-03,68,In Progress
+T459,Report Generation,P027,EMP010,2026-10-12,83,In Progress
+T460,Backend Development,P031,EMP016,2026-10-02,19,On Hold
+T461,Requirements Analysis,P030,EMP004,2026-10-16,35,Cancelled
+T462,Documentation,P034,EMP009,2026-09-25,57,In Progress
+T463,Security Testing,P042,EMP006,2026-12-11,83,In Progress
+T464,Database Design,P047,EMP013,2026-09-28,20,In Progress
+T465,System Design,P005,EMP013,2026-11-25,93,Completed
+T466,Testing,P031,EMP014,2026-10-02,0,Cancelled
+T467,Login Module,P014,EMP013,2026-11-28,30,Cancelled
+T468,Integration Testing,P016,EMP045,2026-11-23,45,In Progress
+T469,Report Generation,P036,EMP021,2026-10-12,60,In Progress
+T470,Bug Fixing,P020,EMP017,2026-10-29,39,On Hold
+T471,Performance Testing,P007,EMP047,2026-11-30,93,Completed
+T472,Deployment,P024,EMP021,2026-08-30,43,In Progress
+T473,UI Design,P048,EMP010,2026-09-27,68,In Progress
+T474,Frontend Development,P019,EMP010,2026-10-06,46,In Progress
+T475,Testing,P032,EMP036,2026-09-26,97,Completed
+T476,Performance Testing,P047,EMP042,2026-10-22,60,In Progress
+T477,Requirements Analysis,P011,EMP009,2026-10-26,84,In Progress
+T478,User Acceptance Testing,P042,EMP004,2026-08-29,91,Completed
+T479,UI Design,P043,EMP004,2026-10-16,10,Not Started
+T480,Registration Module,P015,EMP005,2026-08-26,73,In Progress
+T481,Integration Testing,P024,EMP004,2026-11-14,99,Completed
+T482,Performance Testing,P031,EMP043,2026-08-27,8,Not Started
+T483,UI Design,P027,EMP001,2026-10-31,98,Completed
+T484,User Acceptance Testing,P019,EMP002,2026-12-07,96,Completed
+T485,Login Module,P012,EMP007,2026-10-31,3,Not Started
+T486,Data Analysis,P040,EMP034,2026-12-07,65,In Progress
+T487,Documentation,P006,EMP024,2026-10-22,43,In Progress
+T488,API Development,P020,EMP044,2026-11-16,41,Cancelled
+T489,API Development,P049,EMP003,2026-10-15,85,In Progress
+T490,UI Design,P031,EMP004,2026-11-22,78,In Progress
+T491,Testing,P028,EMP042,2026-11-05,6,Cancelled
+T492,Backend Development,P034,EMP003,2026-09-21,54,On Hold
+T493,Data Analysis,P037,EMP031,2026-08-30,53,On Hold
+T494,System Design,P018,EMP035,2026-11-17,5,Not Started
+T495,System Design,P002,EMP014,2026-09-12,96,Completed
+T496,Dashboard Development,P005,EMP020,2026-11-05,64,In Progress
+T497,Testing,P044,EMP035,2026-10-13,92,Completed
+T498,API Development,P045,EMP047,2026-10-28,95,Completed
+T499,Deployment,P004,EMP007,2026-09-23,95,Completed
+T500,Integration Testing,P039,EMP050,2026-11-09,56,In Progress
