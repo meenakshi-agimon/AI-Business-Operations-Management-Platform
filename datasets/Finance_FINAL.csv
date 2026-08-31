@@ -1,0 +1,1001 @@
+finance_id,project_id,expense_type,amount,expense_date,approval_status,approved_by,is_anomaly
+EXP0001,,Marketing Campaign,43931,2026-04-30,Approved,,0
+EXP0002,,Training,5062,2026-01-28,Rejected,,0
+EXP0003,,Maintenance,32577,2025-12-09,Rejected,,0
+EXP0004,,Travel,36194,2025-02-14,Approved,,0
+EXP0005,,Training,31707,2024-08-31,Approved,,0
+EXP0006,,Cloud Services,25568,2026-08-13,Rejected,,0
+EXP0007,,Training,9711,2025-08-27,Approved,,0
+EXP0008,,Training,4630,2024-10-28,Rejected,,0
+EXP0009,,Marketing Campaign,92993,2026-03-23,Approved,,0
+EXP0010,,Recruitment,58682,2025-02-15,Approved,,0
+EXP0011,,Office Supplies,39054,2026-04-05,Approved,,0
+EXP0012,,Hardware,42315,2025-01-14,Approved,,0
+EXP0013,,Maintenance,90395,2026-01-15,Rejected,,0
+EXP0014,,Recruitment,28204,2025-02-14,Pending,,0
+EXP0015,,Recruitment,34995,2025-08-24,Approved,,0
+EXP0016,,Marketing Campaign,60161,2025-06-20,Rejected,,0
+EXP0017,,Marketing Campaign,53760,2026-01-22,Approved,,0
+EXP0018,,Software License,43278,2025-03-15,Pending,,0
+EXP0019,,Hardware,45700,2024-10-30,Pending,,0
+EXP0020,,Marketing Campaign,83688,2025-12-13,Approved,,0
+EXP0021,,Travel,62502,2025-02-05,Rejected,,0
+EXP0022,,Cloud Services,73438,2026-08-02,Rejected,,0
+EXP0023,,Marketing Campaign,82977,2025-03-17,Pending,,0
+EXP0024,,Travel,95290,2025-09-19,Approved,,0
+EXP0025,,Maintenance,56665,2025-08-12,Rejected,,0
+EXP0026,,Office Supplies,2074,2025-11-09,Rejected,,0
+EXP0027,,Marketing Campaign,21778,2026-03-02,Pending,,0
+EXP0028,,Office Supplies,39952,2026-01-17,Approved,,0
+EXP0029,,Travel,62656,2026-01-01,Approved,,0
+EXP0030,,Recruitment,23107,2024-11-04,Pending,,0
+EXP0031,,Cloud Services,9808,2025-04-30,Pending,,0
+EXP0032,,Consulting,57706,2025-02-23,Approved,,0
+EXP0033,,Maintenance,31028,2026-02-18,Rejected,,0
+EXP0034,,Maintenance,19817,2026-05-10,Pending,,0
+EXP0035,,Marketing Campaign,60576,2024-12-06,Pending,,0
+EXP0036,,Training,40542,2026-07-20,Rejected,,0
+EXP0037,,Hardware,68124,2026-08-19,Rejected,,0
+EXP0038,,Hardware,56125,2024-09-17,Rejected,,0
+EXP0039,,Office Supplies,8156,2025-06-21,Approved,,0
+EXP0040,,Hardware,39613,2025-08-01,Rejected,,0
+EXP0041,,Travel,15703,2025-06-06,Approved,,0
+EXP0042,,Cloud Services,59380,2026-07-13,Pending,,0
+EXP0043,,Office Supplies,71368,2026-05-22,Approved,,0
+EXP0044,,Maintenance,12648,2025-04-13,Rejected,,0
+EXP0045,,Consulting,62801,2025-11-04,Rejected,,0
+EXP0046,,Marketing Campaign,72117,2025-12-30,Approved,,0
+EXP0047,,Training,82111,2025-02-19,Rejected,,0
+EXP0048,,Hardware,67056,2025-03-13,Approved,,0
+EXP0049,,Hardware,30939,2026-05-12,Rejected,,0
+EXP0050,,Software License,52264,2025-02-23,Pending,,0
+EXP0051,,Cloud Services,14466,2025-10-02,Approved,,0
+EXP0052,,Marketing Campaign,2434,2025-04-25,Approved,,0
+EXP0053,,Marketing Campaign,77819,2024-09-08,Pending,,0
+EXP0054,,Training,80254,2026-06-27,Approved,,0
+EXP0055,,Consulting,9175,2025-03-29,Rejected,,0
+EXP0056,,Office Supplies,75371,2026-05-29,Pending,,0
+EXP0057,,Cloud Services,13926,2025-11-03,Pending,,0
+EXP0058,,Maintenance,86240,2025-04-19,Rejected,,0
+EXP0059,,Travel,4297,2025-01-13,Pending,,0
+EXP0060,,Consulting,3539,2026-02-08,Rejected,,0
+EXP0061,,Cloud Services,13034,2025-06-17,Approved,,0
+EXP0062,,Maintenance,8671,2026-06-30,Approved,,0
+EXP0063,,Marketing Campaign,47882,2025-03-05,Pending,,0
+EXP0064,,Cloud Services,99634,2026-08-10,Rejected,,0
+EXP0065,,Maintenance,24405,2024-09-13,Pending,,0
+EXP0066,,Hardware,35034,2026-01-14,Pending,,0
+EXP0067,,Recruitment,34298,2026-04-04,Approved,,0
+EXP0068,,Software License,28954,2026-08-06,Approved,,0
+EXP0069,,Travel,90477,2025-08-28,Rejected,,0
+EXP0070,,Recruitment,46073,2024-11-24,Approved,,0
+EXP0071,,Consulting,43024,2026-07-16,Rejected,,0
+EXP0072,,Office Supplies,15640,2026-05-11,Rejected,,0
+EXP0073,,Travel,2403,2025-12-16,Rejected,,0
+EXP0074,,Recruitment,78135,2026-04-06,Approved,,0
+EXP0075,,Office Supplies,13874,2026-03-31,Approved,,0
+EXP0076,,Consulting,93898,2025-07-09,Approved,,0
+EXP0077,,Training,80535,2025-08-10,Pending,,0
+EXP0078,,Recruitment,52734,2025-04-12,Pending,,0
+EXP0079,,Software License,50105,2025-07-27,Approved,,0
+EXP0080,,Travel,78539,2026-03-08,Rejected,,0
+EXP0081,,Consulting,74340,2025-08-29,Approved,,0
+EXP0082,,Office Supplies,23264,2024-10-20,Rejected,,0
+EXP0083,,Training,28868,2025-01-17,Pending,,0
+EXP0084,,Travel,95209,2025-11-28,Approved,,0
+EXP0085,,Training,38857,2026-07-30,Rejected,,0
+EXP0086,,Office Supplies,63519,2025-05-26,Pending,,0
+EXP0087,,Recruitment,62808,2024-12-07,Approved,,0
+EXP0088,,Training,98735,2025-05-06,Pending,,0
+EXP0089,,Consulting,26203,2025-09-21,Rejected,,0
+EXP0090,,Cloud Services,39277,2026-06-26,Pending,,0
+EXP0091,,Recruitment,36988,2026-07-21,Rejected,,0
+EXP0092,,Travel,86744,2025-05-04,Pending,,0
+EXP0093,,Consulting,60495,2026-07-11,Rejected,,0
+EXP0094,,Consulting,50487,2025-04-06,Approved,,0
+EXP0095,,Consulting,80819,2026-04-05,Approved,,0
+EXP0096,,Training,40669,2026-04-11,Pending,,0
+EXP0097,,Hardware,99451,2025-12-24,Rejected,,0
+EXP0098,,Marketing Campaign,70936,2025-08-13,Rejected,,0
+EXP0099,,Training,9405,2024-12-20,Approved,,0
+EXP0100,,Marketing Campaign,92349,2025-11-04,Approved,,0
+EXP0101,,Recruitment,62196,2025-08-16,Rejected,,0
+EXP0102,,Consulting,95944,2026-02-05,Rejected,,0
+EXP0103,,Training,98256,2025-07-31,Approved,,0
+EXP0104,,Travel,12134,2025-05-05,Rejected,,0
+EXP0105,,Training,19750,2026-03-27,Rejected,,0
+EXP0106,,Recruitment,35380,2025-06-09,Rejected,,0
+EXP0107,,Consulting,58564,2026-08-01,Pending,,0
+EXP0108,,Hardware,63775,2025-11-12,Rejected,,0
+EXP0109,,Maintenance,67861,2025-08-04,Pending,,0
+EXP0110,,Travel,94992,2025-07-04,Rejected,,0
+EXP0111,,Training,10798,2025-02-23,Rejected,,0
+EXP0112,,Marketing Campaign,63275,2026-05-06,Pending,,0
+EXP0113,,Recruitment,29272,2026-06-19,Pending,,0
+EXP0114,,Maintenance,32570,2024-12-06,Rejected,,0
+EXP0115,,Software License,69722,2026-01-05,Approved,,0
+EXP0116,,Cloud Services,26946,2025-03-04,Pending,,0
+EXP0117,,Training,2984,2025-07-31,Pending,,0
+EXP0118,,Marketing Campaign,30269,2024-12-21,Approved,,0
+EXP0119,,Recruitment,76526,2025-09-07,Rejected,,0
+EXP0120,,Software License,67366,2025-01-22,Approved,,0
+EXP0121,,Hardware,54018,2025-06-05,Approved,,0
+EXP0122,,Training,98685,2026-05-03,Approved,,0
+EXP0123,,Marketing Campaign,32503,2026-06-14,Approved,,0
+EXP0124,,Consulting,46705,2025-02-03,Approved,,0
+EXP0125,,Travel,26762,2025-12-29,Approved,,0
+EXP0126,,Hardware,30086,2026-02-09,Approved,,0
+EXP0127,,Software License,41296,2025-07-30,Rejected,,0
+EXP0128,,Hardware,42289,2025-04-12,Pending,,0
+EXP0129,,Office Supplies,45040,2025-02-02,Approved,,0
+EXP0130,,Hardware,86742,2024-11-11,Approved,,0
+EXP0131,,Recruitment,74014,2025-12-14,Approved,,0
+EXP0132,,Software License,72000,2024-10-16,Approved,,0
+EXP0133,,Travel,30047,2024-09-30,Rejected,,0
+EXP0134,,Travel,91268,2026-07-28,Pending,,0
+EXP0135,,Maintenance,53650,2025-02-26,Approved,,0
+EXP0136,,Consulting,97800,2025-10-02,Approved,,0
+EXP0137,,Recruitment,25200,2025-01-11,Rejected,,0
+EXP0138,,Cloud Services,48297,2025-08-30,Pending,,0
+EXP0139,,Travel,64338,2025-06-11,Approved,,0
+EXP0140,,Marketing Campaign,84599,2025-05-06,Pending,,0
+EXP0141,,Travel,78297,2024-09-13,Approved,,0
+EXP0142,,Office Supplies,6768,2026-05-12,Pending,,0
+EXP0143,,Hardware,53116,2025-09-15,Approved,,0
+EXP0144,,Travel,35077,2024-09-26,Approved,,0
+EXP0145,,Maintenance,51053,2025-10-12,Pending,,0
+EXP0146,,Travel,79985,2025-05-22,Approved,,0
+EXP0147,,Marketing Campaign,96854,2025-07-31,Rejected,,0
+EXP0148,,Cloud Services,55346,2025-03-27,Rejected,,0
+EXP0149,,Recruitment,21116,2026-02-27,Rejected,,0
+EXP0150,,Hardware,77690,2026-04-15,Approved,,0
+EXP0151,,Software License,16056,2025-01-26,Approved,,0
+EXP0152,,Cloud Services,34256,2026-01-27,Rejected,,0
+EXP0153,,Cloud Services,55977,2024-09-03,Pending,,0
+EXP0154,,Travel,68333,2025-04-13,Approved,,0
+EXP0155,,Training,52264,2026-05-26,Pending,,0
+EXP0156,,Travel,40821,2026-07-12,Approved,,0
+EXP0157,,Maintenance,55063,2026-05-16,Rejected,,0
+EXP0158,,Office Supplies,89644,2024-12-21,Rejected,,0
+EXP0159,,Recruitment,49554,2025-07-15,Pending,,0
+EXP0160,,Maintenance,37483,2025-07-08,Rejected,,0
+EXP0161,,Training,26209,2024-08-24,Rejected,,0
+EXP0162,,Hardware,91913,2024-09-17,Pending,,0
+EXP0163,,Maintenance,79802,2026-04-10,Approved,,0
+EXP0164,,Software License,54322,2024-10-04,Rejected,,0
+EXP0165,,Maintenance,72950,2025-08-17,Approved,,0
+EXP0166,,Consulting,76679,2024-10-29,Approved,,0
+EXP0167,,Training,18221,2026-01-02,Pending,,0
+EXP0168,,Maintenance,63849,2025-12-22,Pending,,0
+EXP0169,,Office Supplies,28185,2025-12-02,Pending,,0
+EXP0170,,Recruitment,82109,2024-12-12,Pending,,0
+EXP0171,,Training,78920,2025-09-26,Pending,,0
+EXP0172,,Travel,17174,2025-03-17,Rejected,,0
+EXP0173,,Recruitment,52324,2025-01-10,Approved,,0
+EXP0174,,Training,76275,2024-10-04,Approved,,0
+EXP0175,,Cloud Services,58310,2025-03-28,Rejected,,0
+EXP0176,,Recruitment,38160,2024-10-04,Pending,,0
+EXP0177,,Marketing Campaign,68988,2025-07-04,Rejected,,0
+EXP0178,,Software License,57124,2025-01-20,Pending,,0
+EXP0179,,Recruitment,98010,2025-08-09,Rejected,,0
+EXP0180,,Maintenance,35832,2025-04-06,Approved,,0
+EXP0181,,Office Supplies,92668,2025-07-30,Rejected,,0
+EXP0182,,Office Supplies,96382,2026-08-13,Approved,,0
+EXP0183,,Cloud Services,97701,2025-10-31,Approved,,0
+EXP0184,,Software License,81174,2025-12-11,Pending,,0
+EXP0185,,Hardware,56149,2024-11-01,Rejected,,0
+EXP0186,,Maintenance,10349,2024-09-04,Pending,,0
+EXP0187,,Cloud Services,62884,2025-05-16,Approved,,0
+EXP0188,,Cloud Services,81871,2026-07-10,Approved,,0
+EXP0189,,Recruitment,80100,2024-11-27,Pending,,0
+EXP0190,,Recruitment,58669,2026-05-19,Approved,,0
+EXP0191,,Hardware,55879,2025-04-17,Pending,,0
+EXP0192,,Hardware,97198,2026-02-16,Rejected,,0
+EXP0193,,Hardware,27534,2026-06-23,Approved,,0
+EXP0194,,Software License,79312,2025-09-24,Rejected,,0
+EXP0195,,Recruitment,49403,2025-09-08,Rejected,,0
+EXP0196,,Cloud Services,58135,2025-02-17,Rejected,,0
+EXP0197,,Hardware,6203,2026-08-06,Approved,,0
+EXP0198,,Training,6297,2024-08-26,Rejected,,0
+EXP0199,,Office Supplies,63248,2024-09-03,Pending,,0
+EXP0200,,Software License,96593,2025-07-06,Pending,,0
+EXP0201,,Software License,15785,2025-01-02,Pending,,0
+EXP0202,,Software License,96910,2025-03-04,Pending,,0
+EXP0203,,Maintenance,75449,2026-04-03,Pending,,0
+EXP0204,,Software License,25147,2025-01-05,Approved,,0
+EXP0205,,Consulting,41933,2025-05-20,Pending,,0
+EXP0206,,Consulting,4134,2025-05-05,Pending,,0
+EXP0207,,Maintenance,33109,2026-08-19,Pending,,0
+EXP0208,,Cloud Services,20289,2025-11-16,Approved,,0
+EXP0209,,Marketing Campaign,42726,2025-09-26,Pending,,0
+EXP0210,,Consulting,72489,2025-04-22,Approved,,0
+EXP0211,,Software License,79703,2026-02-11,Approved,,0
+EXP0212,,Consulting,82020,2025-07-26,Approved,,0
+EXP0213,,Consulting,76455,2026-07-20,Rejected,,0
+EXP0214,,Cloud Services,45263,2025-11-09,Rejected,,0
+EXP0215,,Software License,31590,2025-08-30,Pending,,0
+EXP0216,,Consulting,51478,2025-06-11,Approved,,0
+EXP0217,,Training,70550,2024-12-08,Rejected,,0
+EXP0218,,Cloud Services,20472,2024-09-30,Pending,,0
+EXP0219,,Marketing Campaign,32417,2025-03-07,Approved,,0
+EXP0220,,Travel,33554,2026-03-27,Approved,,0
+EXP0221,,Recruitment,44100,2024-11-29,Approved,,0
+EXP0222,,Cloud Services,48963,2025-07-28,Rejected,,0
+EXP0223,,Office Supplies,11868,2025-10-08,Pending,,0
+EXP0224,,Marketing Campaign,77014,2025-10-08,Rejected,,0
+EXP0225,,Marketing Campaign,99861,2024-09-15,Approved,,0
+EXP0226,,Office Supplies,26532,2025-02-19,Rejected,,0
+EXP0227,,Marketing Campaign,24184,2026-03-30,Approved,,0
+EXP0228,,Hardware,54198,2025-12-25,Approved,,0
+EXP0229,,Training,82412,2025-02-26,Pending,,0
+EXP0230,,Hardware,82553,2026-01-09,Pending,,0
+EXP0231,,Travel,49811,2025-07-03,Rejected,,0
+EXP0232,,Maintenance,30859,2025-11-08,Pending,,0
+EXP0233,,Office Supplies,62741,2025-05-16,Pending,,0
+EXP0234,,Travel,97653,2026-01-16,Rejected,,0
+EXP0235,,Cloud Services,57790,2025-01-01,Rejected,,0
+EXP0236,,Training,95940,2024-10-22,Approved,,0
+EXP0237,,Hardware,79553,2026-07-27,Approved,,0
+EXP0238,,Hardware,62985,2025-03-05,Rejected,,0
+EXP0239,,Cloud Services,46513,2026-08-22,Approved,,0
+EXP0240,,Consulting,38280,2024-11-15,Rejected,,0
+EXP0241,,Software License,52815,2025-08-16,Pending,,0
+EXP0242,,Software License,29970,2025-10-06,Rejected,,0
+EXP0243,,Travel,96323,2024-10-04,Rejected,,0
+EXP0244,,Travel,39421,2025-05-28,Approved,,0
+EXP0245,,Travel,11216,2026-08-08,Rejected,,0
+EXP0246,,Travel,14370,2026-03-15,Approved,,0
+EXP0247,,Cloud Services,4961,2024-11-21,Approved,,0
+EXP0248,,Marketing Campaign,48395,2026-03-05,Pending,,0
+EXP0249,,Software License,54185,2026-01-02,Rejected,,0
+EXP0250,,Software License,90908,2024-10-12,Approved,,0
+EXP0251,,Software License,59014,2025-09-23,Approved,,0
+EXP0252,,Recruitment,98020,2024-11-08,Pending,,0
+EXP0253,,Software License,23953,2026-01-24,Rejected,,0
+EXP0254,,Office Supplies,12893,2024-10-26,Approved,,0
+EXP0255,,Travel,57720,2026-05-31,Approved,,0
+EXP0256,,Training,90862,2025-05-25,Approved,,0
+EXP0257,,Cloud Services,89279,2026-06-18,Rejected,,0
+EXP0258,,Recruitment,62212,2025-08-11,Pending,,0
+EXP0259,,Hardware,4682,2025-12-17,Pending,,0
+EXP0260,,Software License,71024,2025-01-10,Rejected,,0
+EXP0261,,Office Supplies,9870,2024-12-17,Pending,,0
+EXP0262,,Training,78838,2026-06-20,Rejected,,0
+EXP0263,,Recruitment,89893,2026-02-13,Pending,,0
+EXP0264,,Travel,87443,2025-09-11,Approved,,0
+EXP0265,,Marketing Campaign,42346,2026-04-13,Pending,,0
+EXP0266,,Training,9019,2025-10-10,Approved,,0
+EXP0267,,Software License,35242,2024-09-15,Pending,,0
+EXP0268,,Hardware,25309,2024-10-10,Approved,,0
+EXP0269,,Office Supplies,78057,2025-01-08,Rejected,,0
+EXP0270,,Office Supplies,29524,2025-04-08,Pending,,0
+EXP0271,,Software License,72189,2026-03-24,Rejected,,0
+EXP0272,,Maintenance,1651,2025-10-25,Rejected,,0
+EXP0273,,Travel,42948,2025-11-15,Rejected,,0
+EXP0274,,Software License,7640,2025-06-15,Pending,,0
+EXP0275,,Consulting,10912,2025-03-17,Approved,,0
+EXP0276,,Maintenance,27327,2026-06-17,Pending,,0
+EXP0277,,Training,82570,2024-09-11,Pending,,0
+EXP0278,,Training,67147,2024-11-24,Approved,,0
+EXP0279,,Recruitment,50868,2026-04-04,Rejected,,0
+EXP0280,,Office Supplies,10172,2026-06-19,Approved,,0
+EXP0281,,Marketing Campaign,37281,2024-09-13,Rejected,,0
+EXP0282,,Marketing Campaign,24246,2026-06-30,Pending,,0
+EXP0283,,Office Supplies,30762,2025-07-15,Approved,,0
+EXP0284,,Travel,14523,2024-12-22,Approved,,0
+EXP0285,,Software License,78071,2024-10-17,Approved,,0
+EXP0286,,Travel,17594,2026-07-05,Rejected,,0
+EXP0287,,Recruitment,82796,2026-02-24,Rejected,,0
+EXP0288,,Office Supplies,62511,2024-11-17,Pending,,0
+EXP0289,,Hardware,35118,2025-12-11,Approved,,0
+EXP0290,,Office Supplies,84100,2026-08-05,Approved,,0
+EXP0291,,Marketing Campaign,81755,2026-08-05,Approved,,0
+EXP0292,,Recruitment,67065,2025-08-20,Pending,,0
+EXP0293,,Training,65870,2025-10-28,Rejected,,0
+EXP0294,,Marketing Campaign,22134,2025-11-18,Approved,,0
+EXP0295,,Cloud Services,86922,2026-01-03,Approved,,0
+EXP0296,,Hardware,27757,2025-06-24,Pending,,0
+EXP0297,,Travel,8712,2025-11-19,Approved,,0
+EXP0298,,Office Supplies,67783,2026-03-27,Rejected,,0
+EXP0299,,Hardware,5411,2025-01-07,Approved,,0
+EXP0300,,Office Supplies,70045,2025-08-26,Approved,,0
+EXP0301,,Recruitment,67926,2026-03-20,Pending,,0
+EXP0302,,Consulting,10886,2025-03-27,Rejected,,0
+EXP0303,,Marketing Campaign,5122,2024-09-01,Pending,,0
+EXP0304,,Recruitment,45744,2025-08-14,Approved,,0
+EXP0305,,Software License,85371,2025-02-05,Pending,,0
+EXP0306,,Office Supplies,26447,2024-11-14,Rejected,,0
+EXP0307,,Travel,62035,2026-04-02,Rejected,,0
+EXP0308,,Marketing Campaign,2030,2026-07-21,Pending,,0
+EXP0309,,Software License,45230,2026-04-26,Rejected,,0
+EXP0310,,Travel,26058,2025-06-11,Approved,,0
+EXP0311,,Recruitment,50529,2026-06-01,Rejected,,0
+EXP0312,,Training,47979,2025-04-15,Approved,,0
+EXP0313,,Office Supplies,52593,2026-06-09,Rejected,,0
+EXP0314,,Training,65638,2024-11-05,Approved,,0
+EXP0315,,Maintenance,66701,2025-10-03,Rejected,,0
+EXP0316,,Hardware,55875,2026-04-20,Rejected,,0
+EXP0317,,Travel,88079,2025-07-07,Approved,,0
+EXP0318,,Recruitment,75808,2026-03-16,Rejected,,0
+EXP0319,,Consulting,25472,2026-06-23,Approved,,0
+EXP0320,,Training,34479,2026-01-12,Pending,,0
+EXP0321,,Maintenance,65873,2025-10-07,Pending,,0
+EXP0322,,Training,71805,2026-05-11,Rejected,,0
+EXP0323,,Maintenance,3070,2024-11-11,Pending,,0
+EXP0324,,Marketing Campaign,36235,2025-02-24,Rejected,,0
+EXP0325,,Software License,81567,2026-05-08,Pending,,0
+EXP0326,,Marketing Campaign,46302,2026-03-01,Rejected,,0
+EXP0327,,Maintenance,10741,2026-07-25,Approved,,0
+EXP0328,,Marketing Campaign,84235,2025-03-21,Rejected,,0
+EXP0329,,Hardware,26847,2026-07-01,Pending,,0
+EXP0330,,Hardware,72079,2024-11-10,Pending,,0
+EXP0331,,Recruitment,63244,2025-12-16,Approved,,0
+EXP0332,,Consulting,74267,2026-05-13,Pending,,0
+EXP0333,,Office Supplies,81842,2026-05-09,Approved,,0
+EXP0334,,Recruitment,24352,2025-10-20,Rejected,,0
+EXP0335,,Hardware,37421,2026-01-20,Pending,,0
+EXP0336,,Hardware,7968,2025-08-18,Pending,,0
+EXP0337,,Marketing Campaign,14903,2026-06-25,Pending,,0
+EXP0338,,Office Supplies,78892,2024-08-29,Pending,,0
+EXP0339,,Training,40187,2026-04-21,Approved,,0
+EXP0340,,Cloud Services,3020,2024-11-07,Pending,,0
+EXP0341,,Software License,11569,2026-06-09,Approved,,0
+EXP0342,,Software License,97376,2025-11-07,Pending,,0
+EXP0343,,Office Supplies,21251,2026-06-24,Rejected,,0
+EXP0344,,Maintenance,41036,2025-02-12,Rejected,,0
+EXP0345,,Office Supplies,36643,2025-09-23,Pending,,0
+EXP0346,,Hardware,37073,2024-10-06,Pending,,0
+EXP0347,,Training,88565,2025-10-21,Approved,,0
+EXP0348,,Recruitment,75120,2025-06-27,Rejected,,0
+EXP0349,,Travel,37783,2026-07-15,Approved,,0
+EXP0350,,Maintenance,35888,2025-12-01,Pending,,0
+EXP0351,,Travel,80646,2024-09-23,Pending,,0
+EXP0352,,Software License,56817,2026-04-01,Pending,,0
+EXP0353,,Maintenance,85976,2024-12-16,Approved,,0
+EXP0354,,Training,51185,2024-11-30,Pending,,0
+EXP0355,,Cloud Services,86868,2026-07-12,Pending,,0
+EXP0356,,Hardware,80275,2026-06-05,Approved,,0
+EXP0357,,Hardware,61431,2024-10-10,Pending,,0
+EXP0358,,Software License,19451,2026-01-27,Rejected,,0
+EXP0359,,Cloud Services,83453,2025-05-28,Approved,,0
+EXP0360,,Software License,30158,2025-01-04,Approved,,0
+EXP0361,,Maintenance,29525,2024-11-20,Pending,,0
+EXP0362,,Consulting,62888,2024-12-17,Approved,,0
+EXP0363,,Training,75434,2026-08-06,Pending,,0
+EXP0364,,Office Supplies,15588,2025-07-10,Pending,,0
+EXP0365,,Software License,37942,2024-10-22,Approved,,0
+EXP0366,,Hardware,7459,2025-07-14,Pending,,0
+EXP0367,,Cloud Services,2249,2024-12-18,Rejected,,0
+EXP0368,,Software License,58458,2025-07-17,Rejected,,0
+EXP0369,,Recruitment,56793,2024-12-28,Rejected,,0
+EXP0370,,Hardware,81715,2024-11-29,Approved,,0
+EXP0371,,Training,63833,2026-02-15,Pending,,0
+EXP0372,,Cloud Services,30778,2025-08-06,Approved,,0
+EXP0373,,Marketing Campaign,41962,2024-11-17,Pending,,0
+EXP0374,,Maintenance,62960,2025-04-28,Rejected,,0
+EXP0375,,Office Supplies,67456,2025-08-11,Rejected,,0
+EXP0376,,Office Supplies,69561,2026-05-05,Approved,,0
+EXP0377,,Maintenance,45187,2025-12-08,Pending,,0
+EXP0378,,Office Supplies,88284,2025-12-04,Rejected,,0
+EXP0379,,Software License,36630,2025-01-14,Rejected,,0
+EXP0380,,Travel,42833,2024-08-23,Approved,,0
+EXP0381,,Travel,40294,2024-08-25,Rejected,,0
+EXP0382,,Maintenance,95188,2026-01-02,Rejected,,0
+EXP0383,,Marketing Campaign,93282,2026-04-30,Pending,,0
+EXP0384,,Consulting,87695,2026-04-28,Rejected,,0
+EXP0385,,Consulting,82855,2025-09-28,Approved,,0
+EXP0386,,Consulting,57832,2025-04-07,Approved,,0
+EXP0387,,Marketing Campaign,89574,2025-10-27,Approved,,0
+EXP0388,,Maintenance,10535,2025-02-20,Approved,,0
+EXP0389,,Software License,96769,2025-06-30,Approved,,0
+EXP0390,,Hardware,71094,2024-11-10,Pending,,0
+EXP0391,,Maintenance,12705,2025-11-06,Approved,,0
+EXP0392,,Cloud Services,25571,2025-07-09,Rejected,,0
+EXP0393,,Marketing Campaign,77404,2025-09-26,Rejected,,0
+EXP0394,,Software License,52650,2025-01-14,Rejected,,0
+EXP0395,,Hardware,90618,2024-10-28,Rejected,,0
+EXP0396,,Consulting,28680,2026-04-10,Rejected,,0
+EXP0397,,Software License,26593,2025-07-05,Approved,,0
+EXP0398,,Recruitment,84896,2025-02-26,Pending,,0
+EXP0399,,Maintenance,43829,2025-03-01,Pending,,0
+EXP0400,,Cloud Services,18204,2025-11-24,Pending,,0
+EXP0401,,Cloud Services,82430,2024-09-16,Pending,,0
+EXP0402,,Software License,75119,2026-04-03,Pending,,0
+EXP0403,,Training,40269,2024-10-05,Approved,,0
+EXP0404,,Consulting,12750,2025-04-25,Pending,,0
+EXP0405,,Marketing Campaign,41080,2025-04-05,Pending,,0
+EXP0406,,Recruitment,86635,2025-08-17,Pending,,0
+EXP0407,,Hardware,81945,2025-04-28,Approved,,0
+EXP0408,,Office Supplies,73265,2026-08-13,Rejected,,0
+EXP0409,,Recruitment,79982,2025-06-03,Rejected,,0
+EXP0410,,Software License,33102,2025-10-15,Approved,,0
+EXP0411,,Consulting,37992,2025-12-20,Pending,,0
+EXP0412,,Consulting,20045,2024-10-22,Pending,,0
+EXP0413,,Hardware,28420,2025-09-26,Approved,,0
+EXP0414,,Maintenance,7553,2025-01-10,Approved,,0
+EXP0415,,Training,57259,2026-05-27,Rejected,,0
+EXP0416,,Hardware,88316,2026-01-03,Rejected,,0
+EXP0417,,Office Supplies,92728,2025-05-23,Pending,,0
+EXP0418,,Cloud Services,84575,2025-12-21,Rejected,,0
+EXP0419,,Marketing Campaign,29943,2025-11-05,Rejected,,0
+EXP0420,,Travel,89985,2024-10-29,Rejected,,0
+EXP0421,,Marketing Campaign,73288,2024-10-25,Rejected,,0
+EXP0422,,Travel,13486,2025-06-02,Pending,,0
+EXP0423,,Software License,47700,2024-09-06,Pending,,0
+EXP0424,,Recruitment,2441,2025-08-24,Pending,,0
+EXP0425,,Maintenance,4928,2024-09-06,Rejected,,0
+EXP0426,,Maintenance,69317,2025-09-02,Pending,,0
+EXP0427,,Hardware,62418,2025-03-15,Pending,,0
+EXP0428,,Consulting,61155,2024-12-28,Rejected,,0
+EXP0429,,Cloud Services,32584,2025-09-06,Pending,,0
+EXP0430,,Hardware,65077,2026-07-06,Rejected,,0
+EXP0431,,Training,77842,2025-03-17,Rejected,,0
+EXP0432,,Office Supplies,84299,2024-09-25,Approved,,0
+EXP0433,,Software License,53420,2026-06-27,Rejected,,0
+EXP0434,,Consulting,56756,2024-09-19,Rejected,,0
+EXP0435,,Travel,9358,2025-03-03,Approved,,0
+EXP0436,,Recruitment,13514,2025-07-08,Pending,,0
+EXP0437,,Marketing Campaign,68830,2026-01-16,Rejected,,0
+EXP0438,,Hardware,40485,2025-11-02,Rejected,,0
+EXP0439,,Hardware,65926,2026-03-07,Pending,,0
+EXP0440,,Training,67640,2025-11-06,Pending,,0
+EXP0441,,Cloud Services,74028,2026-08-17,Pending,,0
+EXP0442,,Hardware,21472,2025-02-19,Pending,,0
+EXP0443,,Marketing Campaign,33489,2025-10-28,Rejected,,0
+EXP0444,,Consulting,95129,2024-11-08,Approved,,0
+EXP0445,,Software License,97558,2025-07-29,Pending,,0
+EXP0446,,Office Supplies,82587,2026-01-18,Rejected,,0
+EXP0447,,Training,95583,2025-05-28,Approved,,0
+EXP0448,,Training,80932,2026-05-25,Rejected,,0
+EXP0449,,Cloud Services,18139,2025-03-06,Rejected,,0
+EXP0450,,Marketing Campaign,76996,2025-05-10,Approved,,0
+EXP0451,,Training,88302,2026-07-17,Pending,,0
+EXP0452,,Cloud Services,47129,2024-10-04,Pending,,0
+EXP0453,,Training,5878,2025-02-28,Approved,,0
+EXP0454,,Hardware,32519,2024-12-22,Rejected,,0
+EXP0455,,Maintenance,80583,2025-05-27,Rejected,,0
+EXP0456,,Consulting,90139,2024-10-30,Rejected,,0
+EXP0457,,Recruitment,5154,2025-08-09,Pending,,0
+EXP0458,,Software License,24389,2025-01-06,Pending,,0
+EXP0459,,Office Supplies,46758,2025-05-27,Approved,,0
+EXP0460,,Cloud Services,8651,2025-12-28,Rejected,,0
+EXP0461,,Maintenance,93721,2026-07-07,Pending,,0
+EXP0462,,Hardware,6499,2025-07-05,Approved,,0
+EXP0463,,Software License,76812,2026-05-13,Approved,,0
+EXP0464,,Hardware,36402,2026-01-16,Pending,,0
+EXP0465,,Maintenance,17718,2026-03-28,Rejected,,0
+EXP0466,,Consulting,57060,2026-04-08,Pending,,0
+EXP0467,,Maintenance,85152,2025-07-31,Rejected,,0
+EXP0468,,Software License,52771,2024-09-27,Approved,,0
+EXP0469,,Cloud Services,21953,2025-03-03,Rejected,,0
+EXP0470,,Office Supplies,6521,2026-01-20,Rejected,,0
+EXP0471,,Training,69878,2024-11-21,Pending,,0
+EXP0472,,Training,17190,2026-05-10,Rejected,,0
+EXP0473,,Hardware,42192,2025-12-15,Pending,,0
+EXP0474,,Software License,12897,2025-05-27,Pending,,0
+EXP0475,,Recruitment,30809,2024-12-07,Approved,,0
+EXP0476,,Recruitment,27904,2026-05-03,Rejected,,0
+EXP0477,,Maintenance,70617,2026-06-14,Rejected,,0
+EXP0478,,Maintenance,84635,2026-04-25,Approved,,0
+EXP0479,,Software License,55372,2026-01-03,Pending,,0
+EXP0480,,Consulting,5088,2026-04-01,Pending,,0
+EXP0481,,Hardware,1762,2025-01-11,Rejected,,0
+EXP0482,,Cloud Services,36310,2026-03-15,Approved,,0
+EXP0483,,Recruitment,38101,2026-04-21,Rejected,,0
+EXP0484,,Training,63192,2024-12-01,Approved,,0
+EXP0485,,Software License,88893,2026-02-22,Approved,,0
+EXP0486,,Maintenance,1966,2025-03-17,Pending,,0
+EXP0487,,Cloud Services,34273,2025-08-22,Approved,,0
+EXP0488,,Office Supplies,77025,2025-03-26,Pending,,0
+EXP0489,,Maintenance,45386,2025-12-05,Approved,,0
+EXP0490,,Recruitment,90071,2025-12-15,Rejected,,0
+EXP0491,,Maintenance,42626,2026-02-09,Pending,,0
+EXP0492,,Office Supplies,24802,2025-07-05,Approved,,0
+EXP0493,,Travel,82858,2026-08-21,Rejected,,0
+EXP0494,,Consulting,31175,2025-01-30,Rejected,,0
+EXP0495,,Cloud Services,37773,2026-02-15,Approved,,0
+EXP0496,,Travel,98786,2025-09-27,Approved,,0
+EXP0497,,Consulting,2519,2026-01-15,Approved,,0
+EXP0498,,Software License,51722,2025-01-22,Approved,,0
+EXP0499,,Hardware,73960,2025-03-27,Approved,,0
+EXP0500,,Training,79301,2025-09-28,Rejected,,0
+EXP0501,,Software License,50113,2024-10-15,Approved,,0
+EXP0502,,Office Supplies,97835,2025-05-14,Pending,,0
+EXP0503,,Travel,15186,2025-10-31,Approved,,0
+EXP0504,,Training,62949,2025-01-26,Pending,,0
+EXP0505,,Training,13949,2025-04-30,Rejected,,0
+EXP0506,,Travel,22433,2025-12-12,Rejected,,0
+EXP0507,,Software License,55125,2025-08-06,Approved,,0
+EXP0508,,Office Supplies,20735,2025-01-13,Rejected,,0
+EXP0509,,Marketing Campaign,68703,2025-02-21,Approved,,0
+EXP0510,,Maintenance,28685,2026-05-04,Rejected,,0
+EXP0511,,Maintenance,6688,2024-11-28,Rejected,,0
+EXP0512,,Maintenance,84228,2025-09-26,Pending,,0
+EXP0513,,Hardware,26591,2025-03-31,Rejected,,0
+EXP0514,,Maintenance,20671,2026-05-15,Pending,,0
+EXP0515,,Training,94304,2025-04-18,Rejected,,0
+EXP0516,,Training,77821,2025-08-24,Rejected,,0
+EXP0517,,Marketing Campaign,23328,2025-11-23,Approved,,0
+EXP0518,,Consulting,83287,2024-08-23,Approved,,0
+EXP0519,,Cloud Services,91070,2024-09-12,Pending,,0
+EXP0520,,Training,47182,2026-07-30,Rejected,,0
+EXP0521,,Office Supplies,77883,2025-02-26,Approved,,0
+EXP0522,,Travel,84710,2025-12-17,Pending,,0
+EXP0523,,Travel,82194,2024-08-22,Approved,,0
+EXP0524,,Recruitment,1995,2026-08-11,Approved,,0
+EXP0525,,Marketing Campaign,99346,2026-07-09,Approved,,0
+EXP0526,,Maintenance,22532,2026-03-24,Rejected,,0
+EXP0527,,Recruitment,74305,2026-06-29,Pending,,0
+EXP0528,,Training,81715,2025-01-07,Rejected,,0
+EXP0529,,Software License,66236,2025-11-16,Pending,,0
+EXP0530,,Cloud Services,20675,2026-05-07,Pending,,0
+EXP0531,,Consulting,73380,2026-05-18,Pending,,0
+EXP0532,,Training,97939,2026-02-19,Pending,,0
+EXP0533,,Office Supplies,88733,2025-03-01,Rejected,,0
+EXP0534,,Marketing Campaign,99401,2025-01-07,Rejected,,0
+EXP0535,,Marketing Campaign,75822,2026-08-19,Pending,,0
+EXP0536,,Hardware,49690,2024-09-28,Approved,,0
+EXP0537,,Travel,49793,2026-05-16,Rejected,,0
+EXP0538,,Travel,36264,2025-10-02,Pending,,0
+EXP0539,,Recruitment,13334,2025-04-05,Rejected,,0
+EXP0540,,Consulting,60262,2024-12-13,Rejected,,0
+EXP0541,,Marketing Campaign,99471,2025-10-10,Approved,,0
+EXP0542,,Marketing Campaign,9268,2025-03-08,Rejected,,0
+EXP0543,,Travel,91273,2026-05-23,Pending,,0
+EXP0544,,Office Supplies,8221,2025-01-16,Approved,,0
+EXP0545,,Training,83983,2026-07-15,Rejected,,0
+EXP0546,,Travel,23860,2026-01-30,Approved,,0
+EXP0547,,Cloud Services,48812,2024-09-27,Approved,,0
+EXP0548,,Recruitment,79755,2024-12-30,Approved,,0
+EXP0549,,Travel,51856,2026-01-01,Rejected,,0
+EXP0550,,Cloud Services,55781,2024-11-06,Approved,,0
+EXP0551,,Software License,13094,2026-05-31,Pending,,0
+EXP0552,,Software License,16546,2024-11-26,Approved,,0
+EXP0553,,Software License,4607,2024-09-08,Rejected,,0
+EXP0554,,Office Supplies,43670,2025-06-14,Approved,,0
+EXP0555,,Software License,10816,2025-10-08,Approved,,0
+EXP0556,,Travel,9600,2026-07-22,Pending,,0
+EXP0557,,Marketing Campaign,24086,2025-03-10,Approved,,0
+EXP0558,,Travel,84994,2024-11-12,Pending,,0
+EXP0559,,Travel,77537,2025-03-21,Approved,,0
+EXP0560,,Hardware,43437,2024-11-16,Pending,,0
+EXP0561,,Software License,58216,2025-01-09,Rejected,,0
+EXP0562,,Travel,21171,2025-05-27,Approved,,0
+EXP0563,,Consulting,12925,2026-04-06,Rejected,,0
+EXP0564,,Marketing Campaign,81349,2026-08-04,Pending,,0
+EXP0565,,Training,89547,2026-04-11,Approved,,0
+EXP0566,,Cloud Services,4739,2025-05-31,Pending,,0
+EXP0567,,Maintenance,82958,2025-02-23,Pending,,0
+EXP0568,,Travel,47347,2025-06-08,Pending,,0
+EXP0569,,Consulting,91513,2025-01-11,Rejected,,0
+EXP0570,,Marketing Campaign,27409,2024-09-13,Approved,,0
+EXP0571,,Marketing Campaign,64711,2026-04-03,Rejected,,0
+EXP0572,,Maintenance,56034,2025-03-09,Rejected,,0
+EXP0573,,Hardware,55535,2026-04-19,Pending,,0
+EXP0574,,Office Supplies,48826,2025-04-18,Pending,,0
+EXP0575,,Software License,67823,2025-08-07,Pending,,0
+EXP0576,,Hardware,48159,2026-02-23,Approved,,0
+EXP0577,,Marketing Campaign,80904,2026-05-28,Approved,,0
+EXP0578,,Marketing Campaign,54774,2025-11-02,Pending,,0
+EXP0579,,Maintenance,66425,2026-06-01,Rejected,,0
+EXP0580,,Travel,75195,2026-03-09,Pending,,0
+EXP0581,,Maintenance,40839,2026-05-12,Rejected,,0
+EXP0582,,Software License,64742,2025-09-20,Approved,,0
+EXP0583,,Hardware,44209,2024-10-22,Approved,,0
+EXP0584,,Consulting,25266,2026-01-05,Rejected,,0
+EXP0585,,Consulting,68062,2024-12-18,Rejected,,0
+EXP0586,,Recruitment,8913,2026-05-16,Approved,,0
+EXP0587,,Travel,76299,2026-07-17,Rejected,,0
+EXP0588,,Travel,12396,2026-01-09,Rejected,,0
+EXP0589,,Maintenance,63182,2024-09-14,Pending,,0
+EXP0590,,Software License,91913,2025-06-07,Pending,,0
+EXP0591,,Training,61404,2025-11-16,Approved,,0
+EXP0592,,Marketing Campaign,88395,2025-08-31,Pending,,0
+EXP0593,,Office Supplies,82332,2026-02-28,Rejected,,0
+EXP0594,,Hardware,55881,2025-11-27,Pending,,0
+EXP0595,,Office Supplies,61578,2025-01-18,Pending,,0
+EXP0596,,Marketing Campaign,80423,2024-11-10,Rejected,,0
+EXP0597,,Training,2405,2024-10-18,Rejected,,0
+EXP0598,,Marketing Campaign,30225,2024-09-15,Pending,,0
+EXP0599,,Marketing Campaign,36230,2024-10-04,Pending,,0
+EXP0600,,Maintenance,78393,2026-03-17,Rejected,,0
+EXP0601,,Recruitment,83976,2025-03-07,Pending,,0
+EXP0602,,Hardware,87135,2025-08-18,Approved,,0
+EXP0603,,Recruitment,46629,2025-12-11,Pending,,0
+EXP0604,,Maintenance,40199,2025-04-18,Rejected,,0
+EXP0605,,Maintenance,53130,2025-11-29,Pending,,0
+EXP0606,,Marketing Campaign,94463,2025-01-04,Approved,,0
+EXP0607,,Training,22286,2024-11-17,Rejected,,0
+EXP0608,,Cloud Services,89676,2026-05-30,Pending,,0
+EXP0609,,Software License,68315,2025-06-04,Approved,,0
+EXP0610,,Cloud Services,83212,2026-07-10,Rejected,,0
+EXP0611,,Training,14333,2025-06-28,Pending,,0
+EXP0612,,Marketing Campaign,97289,2025-04-02,Approved,,0
+EXP0613,,Travel,18373,2025-02-08,Pending,,0
+EXP0614,,Marketing Campaign,14201,2025-07-18,Rejected,,0
+EXP0615,,Training,17366,2024-11-01,Approved,,0
+EXP0616,,Maintenance,71036,2025-06-28,Approved,,0
+EXP0617,,Cloud Services,27078,2025-12-11,Rejected,,0
+EXP0618,,Cloud Services,94536,2026-06-19,Approved,,0
+EXP0619,,Consulting,9655,2025-07-13,Rejected,,0
+EXP0620,,Software License,41081,2025-10-25,Approved,,0
+EXP0621,,Software License,14974,2025-06-18,Pending,,0
+EXP0622,,Hardware,24506,2026-02-23,Pending,,0
+EXP0623,,Hardware,87552,2025-02-23,Pending,,0
+EXP0624,,Consulting,88487,2025-08-24,Pending,,0
+EXP0625,,Office Supplies,71509,2025-10-01,Rejected,,0
+EXP0626,,Consulting,34487,2025-11-19,Rejected,,0
+EXP0627,,Hardware,50572,2025-10-15,Approved,,0
+EXP0628,,Consulting,66137,2026-01-01,Approved,,0
+EXP0629,,Training,44413,2025-03-26,Approved,,0
+EXP0630,,Software License,25844,2026-01-20,Rejected,,0
+EXP0631,,Office Supplies,90644,2026-07-19,Rejected,,0
+EXP0632,,Recruitment,92632,2025-08-08,Rejected,,0
+EXP0633,,Office Supplies,64690,2026-02-02,Rejected,,0
+EXP0634,,Marketing Campaign,6495,2025-01-06,Pending,,0
+EXP0635,,Consulting,99857,2025-03-30,Pending,,0
+EXP0636,,Recruitment,52434,2026-02-15,Pending,,0
+EXP0637,,Training,74800,2024-09-17,Approved,,0
+EXP0638,,Travel,47868,2025-03-14,Rejected,,0
+EXP0639,,Travel,65261,2025-02-04,Pending,,0
+EXP0640,,Cloud Services,26125,2026-04-25,Rejected,,0
+EXP0641,,Office Supplies,15326,2026-07-10,Pending,,0
+EXP0642,,Software License,15669,2026-02-23,Rejected,,0
+EXP0643,,Cloud Services,74268,2026-06-21,Rejected,,0
+EXP0644,,Travel,27213,2025-12-05,Pending,,0
+EXP0645,,Travel,12684,2025-12-27,Rejected,,0
+EXP0646,,Office Supplies,50968,2025-04-19,Rejected,,0
+EXP0647,,Marketing Campaign,26295,2025-12-29,Approved,,0
+EXP0648,,Software License,90697,2026-05-27,Approved,,0
+EXP0649,,Hardware,11957,2024-09-01,Approved,,0
+EXP0650,,Cloud Services,8899,2025-10-27,Rejected,,0
+EXP0651,,Office Supplies,82035,2026-07-12,Pending,,0
+EXP0652,,Cloud Services,53978,2025-06-26,Pending,,0
+EXP0653,,Hardware,36098,2025-05-08,Approved,,0
+EXP0654,,Software License,9350,2026-03-27,Rejected,,0
+EXP0655,,Cloud Services,10812,2025-07-13,Rejected,,0
+EXP0656,,Maintenance,65305,2025-08-30,Pending,,0
+EXP0657,,Maintenance,57283,2026-05-30,Rejected,,0
+EXP0658,,Marketing Campaign,49267,2026-03-22,Rejected,,0
+EXP0659,,Travel,82571,2024-12-25,Rejected,,0
+EXP0660,,Travel,10461,2026-03-20,Pending,,0
+EXP0661,,Software License,10627,2024-09-30,Approved,,0
+EXP0662,,Maintenance,18863,2026-03-10,Pending,,0
+EXP0663,,Hardware,20250,2025-12-07,Pending,,0
+EXP0664,,Marketing Campaign,99660,2025-07-31,Pending,,0
+EXP0665,,Travel,6944,2024-11-20,Rejected,,0
+EXP0666,,Marketing Campaign,55662,2026-03-09,Pending,,0
+EXP0667,,Office Supplies,11163,2026-02-09,Approved,,0
+EXP0668,,Marketing Campaign,28200,2025-09-03,Approved,,0
+EXP0669,,Software License,17779,2025-03-30,Rejected,,0
+EXP0670,,Recruitment,66362,2024-11-13,Rejected,,0
+EXP0671,,Marketing Campaign,24575,2025-01-22,Rejected,,0
+EXP0672,,Recruitment,55327,2025-03-01,Rejected,,0
+EXP0673,,Cloud Services,30483,2025-03-16,Approved,,0
+EXP0674,,Travel,74562,2026-08-10,Pending,,0
+EXP0675,,Training,63061,2024-10-11,Approved,,0
+EXP0676,,Cloud Services,87935,2026-05-22,Approved,,0
+EXP0677,,Recruitment,57295,2025-12-16,Pending,,0
+EXP0678,,Software License,81157,2026-01-23,Approved,,0
+EXP0679,,Marketing Campaign,94573,2026-06-02,Approved,,0
+EXP0680,,Maintenance,47763,2025-05-29,Rejected,,0
+EXP0681,,Travel,93110,2025-02-17,Rejected,,0
+EXP0682,,Consulting,13493,2025-06-29,Pending,,0
+EXP0683,,Software License,79081,2025-07-30,Rejected,,0
+EXP0684,,Training,13091,2025-06-14,Approved,,0
+EXP0685,,Training,85225,2026-07-04,Pending,,0
+EXP0686,,Software License,18286,2025-08-25,Rejected,,0
+EXP0687,,Consulting,95445,2024-09-10,Rejected,,0
+EXP0688,,Consulting,31549,2025-04-26,Pending,,0
+EXP0689,,Software License,90704,2026-07-17,Pending,,0
+EXP0690,,Maintenance,94295,2024-12-25,Approved,,0
+EXP0691,,Marketing Campaign,12466,2026-05-07,Approved,,0
+EXP0692,,Software License,72481,2025-01-10,Rejected,,0
+EXP0693,,Recruitment,57545,2025-04-04,Approved,,0
+EXP0694,,Marketing Campaign,11163,2024-08-31,Rejected,,0
+EXP0695,,Hardware,74459,2025-04-21,Rejected,,0
+EXP0696,,Cloud Services,99760,2025-09-02,Approved,,0
+EXP0697,,Office Supplies,51177,2025-01-25,Pending,,0
+EXP0698,,Cloud Services,32301,2025-07-01,Approved,,0
+EXP0699,,Hardware,49042,2024-10-18,Approved,,0
+EXP0700,,Hardware,11093,2026-03-05,Approved,,0
+EXP0701,,Office Supplies,62622,2026-07-19,Pending,,0
+EXP0702,,Consulting,17569,2026-02-18,Rejected,,0
+EXP0703,,Marketing Campaign,89616,2024-11-18,Pending,,0
+EXP0704,,Consulting,2393,2026-08-20,Pending,,0
+EXP0705,,Travel,93103,2025-09-10,Approved,,0
+EXP0706,,Software License,58759,2025-12-14,Approved,,0
+EXP0707,,Hardware,52084,2024-09-05,Approved,,0
+EXP0708,,Maintenance,68179,2026-06-24,Rejected,,0
+EXP0709,,Recruitment,62531,2026-01-27,Approved,,0
+EXP0710,,Recruitment,94278,2025-07-31,Approved,,0
+EXP0711,,Marketing Campaign,1891,2024-11-10,Pending,,0
+EXP0712,,Maintenance,45380,2024-11-04,Approved,,0
+EXP0713,,Recruitment,49802,2025-05-24,Rejected,,0
+EXP0714,,Consulting,8169,2025-01-31,Approved,,0
+EXP0715,,Consulting,75761,2025-12-19,Rejected,,0
+EXP0716,,Recruitment,79288,2025-01-11,Approved,,0
+EXP0717,,Recruitment,96546,2025-05-20,Approved,,0
+EXP0718,,Consulting,97381,2024-12-08,Rejected,,0
+EXP0719,,Recruitment,52947,2026-03-29,Pending,,0
+EXP0720,,Training,66069,2025-05-04,Approved,,0
+EXP0721,,Hardware,10981,2026-01-06,Approved,,0
+EXP0722,,Marketing Campaign,53240,2024-10-13,Approved,,0
+EXP0723,,Marketing Campaign,35045,2025-10-14,Rejected,,0
+EXP0724,,Office Supplies,22506,2025-01-04,Pending,,0
+EXP0725,,Recruitment,9386,2025-09-03,Rejected,,0
+EXP0726,,Office Supplies,47842,2025-01-27,Pending,,0
+EXP0727,,Travel,70051,2025-08-23,Rejected,,0
+EXP0728,,Training,71960,2026-04-16,Pending,,0
+EXP0729,,Training,35096,2024-12-12,Rejected,,0
+EXP0730,,Recruitment,77555,2025-12-09,Approved,,0
+EXP0731,,Marketing Campaign,30087,2026-08-14,Approved,,0
+EXP0732,,Training,70197,2025-02-28,Rejected,,0
+EXP0733,,Cloud Services,34492,2025-02-05,Approved,,0
+EXP0734,,Consulting,69387,2026-02-18,Pending,,0
+EXP0735,,Cloud Services,15347,2025-10-24,Approved,,0
+EXP0736,,Travel,77534,2025-02-25,Approved,,0
+EXP0737,,Hardware,80400,2026-07-18,Pending,,0
+EXP0738,,Maintenance,1393,2025-03-26,Pending,,0
+EXP0739,,Travel,69813,2026-07-12,Pending,,0
+EXP0740,,Consulting,40363,2024-12-12,Rejected,,0
+EXP0741,,Office Supplies,30876,2025-08-02,Approved,,0
+EXP0742,,Training,68233,2026-04-15,Approved,,0
+EXP0743,,Recruitment,17149,2026-01-23,Approved,,0
+EXP0744,,Software License,4828,2024-08-23,Approved,,0
+EXP0745,,Cloud Services,71106,2025-04-20,Pending,,0
+EXP0746,,Maintenance,63333,2025-06-11,Pending,,0
+EXP0747,,Recruitment,15500,2024-10-08,Pending,,0
+EXP0748,,Consulting,89750,2026-02-20,Rejected,,0
+EXP0749,,Cloud Services,13809,2025-11-03,Pending,,0
+EXP0750,,Hardware,42111,2025-03-15,Approved,,0
+EXP0751,,Travel,13941,2026-07-21,Pending,,0
+EXP0752,,Travel,23406,2025-11-20,Rejected,,0
+EXP0753,,Office Supplies,59021,2025-04-02,Approved,,0
+EXP0754,,Office Supplies,40412,2025-06-18,Pending,,0
+EXP0755,,Software License,26637,2025-07-10,Rejected,,0
+EXP0756,,Marketing Campaign,98747,2025-11-30,Approved,,0
+EXP0757,,Training,14737,2026-03-11,Pending,,0
+EXP0758,,Recruitment,90065,2026-03-20,Approved,,0
+EXP0759,,Marketing Campaign,25482,2026-01-14,Approved,,0
+EXP0760,,Office Supplies,3542,2025-12-02,Pending,,0
+EXP0761,,Hardware,71188,2025-07-29,Approved,,0
+EXP0762,,Hardware,38666,2026-04-15,Rejected,,0
+EXP0763,,Cloud Services,68915,2026-04-23,Rejected,,0
+EXP0764,,Consulting,14090,2025-04-16,Rejected,,0
+EXP0765,,Training,19086,2026-03-28,Rejected,,0
+EXP0766,,Travel,97200,2025-08-12,Rejected,,0
+EXP0767,,Software License,24854,2025-05-20,Rejected,,0
+EXP0768,,Travel,22871,2025-03-04,Approved,,0
+EXP0769,,Hardware,7311,2025-03-24,Approved,,0
+EXP0770,,Consulting,67390,2025-02-13,Pending,,0
+EXP0771,,Travel,20512,2024-12-17,Rejected,,0
+EXP0772,,Maintenance,58745,2025-09-10,Approved,,0
+EXP0773,,Hardware,57739,2025-08-20,Pending,,0
+EXP0774,,Maintenance,83009,2025-07-07,Approved,,0
+EXP0775,,Maintenance,11742,2025-04-11,Pending,,0
+EXP0776,,Cloud Services,15652,2026-04-17,Approved,,0
+EXP0777,,Office Supplies,15218,2025-02-17,Rejected,,0
+EXP0778,,Consulting,34413,2025-08-08,Approved,,0
+EXP0779,,Office Supplies,44891,2024-08-26,Approved,,0
+EXP0780,,Training,11620,2026-05-11,Approved,,0
+EXP0781,,Hardware,72825,2024-12-31,Approved,,0
+EXP0782,,Maintenance,33546,2025-09-26,Rejected,,0
+EXP0783,,Cloud Services,43068,2025-01-17,Approved,,0
+EXP0784,,Hardware,43426,2026-06-27,Pending,,0
+EXP0785,,Recruitment,91641,2024-11-26,Pending,,0
+EXP0786,,Consulting,66792,2025-09-05,Rejected,,0
+EXP0787,,Cloud Services,45365,2026-02-01,Pending,,0
+EXP0788,,Travel,54510,2026-06-07,Pending,,0
+EXP0789,,Maintenance,4178,2025-04-29,Rejected,,0
+EXP0790,,Recruitment,32004,2024-12-29,Pending,,0
+EXP0791,,Marketing Campaign,62836,2025-11-26,Approved,,0
+EXP0792,,Hardware,87675,2024-10-21,Pending,,0
+EXP0793,,Maintenance,61000,2026-01-18,Approved,,0
+EXP0794,,Software License,45927,2026-05-01,Pending,,0
+EXP0795,,Office Supplies,78517,2025-10-12,Pending,,0
+EXP0796,,Recruitment,50261,2026-07-17,Pending,,0
+EXP0797,,Consulting,39236,2025-09-10,Approved,,0
+EXP0798,,Maintenance,17619,2026-05-06,Pending,,0
+EXP0799,,Hardware,57504,2024-09-08,Approved,,0
+EXP0800,,Consulting,45211,2026-01-01,Approved,,0
+EXP0801,,Travel,30753,2024-09-20,Pending,,0
+EXP0802,,Travel,60167,2025-12-03,Rejected,,0
+EXP0803,,Maintenance,87655,2024-08-31,Approved,,0
+EXP0804,,Cloud Services,97920,2025-10-26,Approved,,0
+EXP0805,,Office Supplies,68712,2024-09-08,Pending,,0
+EXP0806,,Consulting,40997,2025-06-29,Rejected,,0
+EXP0807,,Office Supplies,35213,2025-11-14,Rejected,,0
+EXP0808,,Training,73208,2025-09-02,Rejected,,0
+EXP0809,,Training,33212,2025-02-15,Approved,,0
+EXP0810,,Maintenance,43600,2024-09-13,Pending,,0
+EXP0811,,Travel,41845,2025-05-14,Approved,,0
+EXP0812,,Software License,41518,2025-04-26,Rejected,,0
+EXP0813,,Marketing Campaign,10087,2024-11-16,Pending,,0
+EXP0814,,Maintenance,26170,2025-12-04,Rejected,,0
+EXP0815,,Software License,35246,2025-01-21,Approved,,0
+EXP0816,,Training,98012,2026-06-26,Approved,,0
+EXP0817,,Marketing Campaign,93691,2024-09-18,Pending,,0
+EXP0818,,Recruitment,61467,2025-04-15,Pending,,0
+EXP0819,,Recruitment,27170,2026-01-20,Approved,,0
+EXP0820,,Marketing Campaign,96542,2024-10-19,Approved,,0
+EXP0821,,Maintenance,43270,2025-09-14,Approved,,0
+EXP0822,,Maintenance,33158,2025-05-27,Pending,,0
+EXP0823,,Maintenance,84132,2025-09-18,Pending,,0
+EXP0824,,Recruitment,12794,2025-11-24,Pending,,0
+EXP0825,,Maintenance,62575,2024-09-16,Pending,,0
+EXP0826,,Software License,60435,2024-11-23,Approved,,0
+EXP0827,,Maintenance,98423,2025-12-29,Rejected,,0
+EXP0828,,Travel,30976,2025-11-27,Approved,,0
+EXP0829,,Travel,41110,2025-07-27,Approved,,0
+EXP0830,,Consulting,46870,2026-03-08,Approved,,0
+EXP0831,,Maintenance,51566,2026-06-19,Rejected,,0
+EXP0832,,Cloud Services,98030,2026-02-06,Pending,,0
+EXP0833,,Training,9698,2024-09-30,Rejected,,0
+EXP0834,,Training,31452,2025-09-10,Rejected,,0
+EXP0835,,Software License,74900,2024-12-22,Approved,,0
+EXP0836,,Maintenance,85568,2026-05-29,Pending,,0
+EXP0837,,Consulting,85179,2025-02-22,Pending,,0
+EXP0838,,Hardware,48549,2025-08-14,Rejected,,0
+EXP0839,,Software License,21471,2025-04-21,Pending,,0
+EXP0840,,Cloud Services,28179,2026-03-21,Rejected,,0
+EXP0841,,Consulting,44224,2025-02-11,Pending,,0
+EXP0842,,Maintenance,27542,2025-01-07,Approved,,0
+EXP0843,,Consulting,65791,2026-06-19,Approved,,0
+EXP0844,,Software License,43558,2026-04-07,Pending,,0
+EXP0845,,Consulting,38196,2025-10-20,Pending,,0
+EXP0846,,Training,51679,2025-02-26,Rejected,,0
+EXP0847,,Maintenance,24185,2026-03-05,Pending,,0
+EXP0848,,Cloud Services,68781,2025-10-23,Approved,,0
+EXP0849,,Hardware,13052,2025-06-10,Approved,,0
+EXP0850,,Software License,44613,2025-01-08,Approved,,0
+EXP0851,,Marketing Campaign,76351,2026-07-21,Rejected,,0
+EXP0852,,Office Supplies,67296,2025-12-17,Approved,,0
+EXP0853,,Maintenance,18374,2024-10-20,Rejected,,0
+EXP0854,,Maintenance,35050,2025-09-05,Rejected,,0
+EXP0855,,Office Supplies,40414,2025-03-27,Rejected,,0
+EXP0856,,Software License,82156,2026-04-05,Pending,,0
+EXP0857,,Marketing Campaign,30942,2026-05-16,Rejected,,0
+EXP0858,,Consulting,47271,2024-09-21,Pending,,0
+EXP0859,,Training,17482,2026-01-18,Pending,,0
+EXP0860,,Maintenance,64036,2024-10-22,Approved,,0
+EXP0861,,Recruitment,76609,2025-07-03,Approved,,0
+EXP0862,,Cloud Services,23020,2025-10-23,Approved,,0
+EXP0863,,Travel,54514,2025-05-04,Pending,,0
+EXP0864,,Software License,57218,2026-02-12,Approved,,0
+EXP0865,,Cloud Services,97394,2025-10-26,Rejected,,0
+EXP0866,,Marketing Campaign,19515,2025-07-10,Rejected,,0
+EXP0867,,Software License,16641,2026-05-08,Approved,,0
+EXP0868,,Consulting,58130,2025-07-22,Pending,,0
+EXP0869,,Travel,97760,2024-10-30,Rejected,,0
+EXP0870,,Training,12394,2025-03-23,Approved,,0
+EXP0871,,Travel,87306,2026-06-12,Approved,,0
+EXP0872,,Cloud Services,88901,2026-05-12,Approved,,0
+EXP0873,,Office Supplies,93066,2025-05-06,Approved,,0
+EXP0874,,Recruitment,94307,2025-12-15,Rejected,,0
+EXP0875,,Consulting,10190,2025-03-10,Approved,,0
+EXP0876,,Travel,7323,2026-06-19,Pending,,0
+EXP0877,,Office Supplies,52962,2025-06-14,Rejected,,0
+EXP0878,,Travel,73260,2026-07-30,Approved,,0
+EXP0879,,Travel,82299,2024-10-29,Approved,,0
+EXP0880,,Maintenance,84595,2026-02-13,Pending,,0
+EXP0881,,Office Supplies,93236,2024-09-30,Rejected,,0
+EXP0882,,Software License,74434,2026-07-25,Pending,,0
+EXP0883,,Maintenance,35516,2025-11-23,Pending,,0
+EXP0884,,Maintenance,76003,2024-08-23,Rejected,,0
+EXP0885,,Travel,99797,2025-10-12,Pending,,0
+EXP0886,,Consulting,88783,2025-01-13,Rejected,,0
+EXP0887,,Marketing Campaign,73853,2026-07-12,Rejected,,0
+EXP0888,,Office Supplies,47135,2025-05-26,Approved,,0
+EXP0889,,Maintenance,17363,2025-06-18,Approved,,0
+EXP0890,,Consulting,33795,2025-11-16,Rejected,,0
+EXP0891,,Travel,16423,2024-11-15,Approved,,0
+EXP0892,,Consulting,82911,2025-12-16,Pending,,0
+EXP0893,,Consulting,76231,2025-07-04,Pending,,0
+EXP0894,,Software License,38619,2025-03-03,Pending,,0
+EXP0895,,Hardware,78484,2025-12-01,Rejected,,0
+EXP0896,,Consulting,75679,2024-10-21,Pending,,0
+EXP0897,,Training,29485,2026-08-16,Approved,,0
+EXP0898,,Cloud Services,24973,2025-05-02,Rejected,,0
+EXP0899,,Software License,57799,2026-01-07,Pending,,0
+EXP0900,,Office Supplies,34020,2024-11-23,Approved,,0
+EXP0901,,Hardware,23915,2026-01-31,Rejected,,0
+EXP0902,,Hardware,11186,2024-12-05,Approved,,0
+EXP0903,,Marketing Campaign,14463,2025-06-10,Rejected,,0
+EXP0904,,Travel,54904,2024-10-10,Rejected,,0
+EXP0905,,Marketing Campaign,98691,2026-04-09,Rejected,,0
+EXP0906,,Travel,41626,2024-09-25,Pending,,0
+EXP0907,,Training,13253,2026-01-22,Pending,,0
+EXP0908,,Maintenance,7015,2025-10-07,Pending,,0
+EXP0909,,Recruitment,81735,2024-10-20,Rejected,,0
+EXP0910,,Marketing Campaign,30796,2025-08-09,Pending,,0
+EXP0911,,Training,32799,2024-12-24,Pending,,0
+EXP0912,,Hardware,69229,2026-07-27,Pending,,0
+EXP0913,,Travel,75155,2026-03-29,Approved,,0
+EXP0914,,Office Supplies,85585,2025-09-03,Rejected,,0
+EXP0915,,Consulting,59658,2025-04-05,Approved,,0
+EXP0916,,Cloud Services,63314,2026-08-22,Approved,,0
+EXP0917,,Hardware,25674,2025-04-18,Pending,,0
+EXP0918,,Marketing Campaign,11548,2026-04-16,Pending,,0
+EXP0919,,Consulting,17822,2025-02-13,Rejected,,0
+EXP0920,,Travel,80730,2025-03-11,Rejected,,0
+EXP0921,,Marketing Campaign,49455,2025-05-11,Pending,,0
+EXP0922,,Recruitment,49809,2024-08-29,Rejected,,0
+EXP0923,,Training,88889,2025-12-25,Pending,,0
+EXP0924,,Consulting,80145,2025-02-27,Approved,,0
+EXP0925,,Hardware,73012,2025-05-06,Pending,,0
+EXP0926,,Hardware,98338,2026-02-15,Pending,,0
+EXP0927,,Travel,22197,2026-07-02,Approved,,0
+EXP0928,,Recruitment,69742,2025-10-17,Pending,,0
+EXP0929,,Office Supplies,46712,2026-06-07,Pending,,0
+EXP0930,,Software License,56410,2025-03-12,Approved,,0
+EXP0931,,Maintenance,74869,2024-09-27,Approved,,0
+EXP0932,,Cloud Services,25188,2024-10-19,Rejected,,0
+EXP0933,,Hardware,2202,2025-07-08,Pending,,0
+EXP0934,,Maintenance,2658,2026-03-08,Approved,,0
+EXP0935,,Hardware,5335,2025-10-18,Pending,,0
+EXP0936,,Office Supplies,61208,2024-10-02,Rejected,,0
+EXP0937,,Recruitment,95251,2025-01-01,Pending,,0
+EXP0938,,Consulting,2233,2024-10-19,Rejected,,0
+EXP0939,,Training,73636,2026-08-18,Rejected,,0
+EXP0940,,Recruitment,53578,2026-06-03,Approved,,0
+EXP0941,,Training,12376,2025-05-21,Rejected,,0
+EXP0942,,Training,36368,2024-12-16,Approved,,0
+EXP0943,,Cloud Services,37553,2025-10-30,Pending,,0
+EXP0944,,Cloud Services,48395,2025-04-28,Pending,,0
+EXP0945,,Training,53260,2025-07-10,Rejected,,0
+EXP0946,,Hardware,15874,2024-08-31,Pending,,0
+EXP0947,,Office Supplies,12387,2025-07-07,Approved,,0
+EXP0948,,Hardware,51279,2026-06-10,Approved,,0
+EXP0949,,Maintenance,64738,2025-07-30,Rejected,,0
+EXP0950,,Cloud Services,61010,2026-05-11,Pending,,0
+EXP0951,,Cloud Services,34089,2025-04-02,Rejected,,0
+EXP0952,,Marketing Campaign,56470,2024-12-20,Rejected,,0
+EXP0953,,Marketing Campaign,81747,2025-07-03,Approved,,0
+EXP0954,,Maintenance,64730,2026-05-24,Rejected,,0
+EXP0955,,Maintenance,97160,2026-05-02,Approved,,0
+EXP0956,,Marketing Campaign,86840,2025-03-01,Pending,,0
+EXP0957,,Travel,27575,2025-05-18,Approved,,0
+EXP0958,,Hardware,22229,2026-03-21,Pending,,0
+EXP0959,,Cloud Services,67190,2025-07-10,Pending,,0
+EXP0960,,Maintenance,95372,2025-04-14,Approved,,0
+EXP0961,,Marketing Campaign,53808,2026-04-25,Pending,,0
+EXP0962,,Maintenance,93321,2025-07-16,Pending,,0
+EXP0963,,Training,84333,2026-02-05,Pending,,0
+EXP0964,,Travel,94606,2024-12-24,Pending,,0
+EXP0965,,Cloud Services,36573,2024-11-10,Rejected,,0
+EXP0966,,Recruitment,99501,2025-12-27,Pending,,0
+EXP0967,,Recruitment,94980,2025-09-26,Rejected,,0
+EXP0968,,Office Supplies,97689,2025-09-16,Pending,,0
+EXP0969,,Travel,15413,2025-05-31,Pending,,0
+EXP0970,,Consulting,23711,2026-03-30,Rejected,,0
+EXP0971,,Maintenance,91019,2024-09-14,Approved,,0
+EXP0972,,Recruitment,14519,2026-04-09,Pending,,0
+EXP0973,,Maintenance,32046,2026-08-10,Approved,,0
+EXP0974,,Consulting,24880,2025-02-05,Rejected,,0
+EXP0975,,Maintenance,18145,2024-09-24,Approved,,0
+EXP0976,,Marketing Campaign,79411,2025-04-04,Rejected,,0
+EXP0977,,Office Supplies,13301,2025-05-15,Pending,,0
+EXP0978,,Consulting,17284,2026-01-26,Rejected,,0
+EXP0979,,Maintenance,28798,2024-12-12,Approved,,0
+EXP0980,,Training,95987,2025-11-01,Rejected,,0
+EXP0981,,Marketing Campaign,18202,2025-05-25,Pending,,0
+EXP0982,,Travel,44170,2024-11-16,Rejected,,0
+EXP0983,,Consulting,39172,2025-11-22,Rejected,,0
+EXP0984,,Consulting,91248,2025-10-26,Approved,,0
+EXP0985,,Cloud Services,61121,2025-10-05,Approved,,0
+EXP0986,,Office Supplies,69033,2025-03-02,Rejected,,0
+EXP0987,,Marketing Campaign,8162,2024-08-30,Rejected,,0
+EXP0988,,Training,7423,2026-03-20,Pending,,0
+EXP0989,,Marketing Campaign,89315,2025-02-28,Pending,,0
+EXP0990,,Travel,15430,2026-08-22,Rejected,,0
+EXP0991,,Consulting,53109,2025-08-17,Rejected,,0
+EXP0992,,Recruitment,90187,2025-02-16,Rejected,,0
+EXP0993,,Training,18967,2025-03-02,Pending,,0
+EXP0994,,Recruitment,50262,2025-11-05,Rejected,,0
+EXP0995,,Marketing Campaign,26667,2026-07-09,Rejected,,0
+EXP0996,,Maintenance,96340,2025-09-27,Approved,,0
+EXP0997,,Software License,66975,2025-07-12,Pending,,0
+EXP0998,,Marketing Campaign,5381,2025-01-14,Pending,,0
+EXP0999,,Training,32165,2025-08-25,Approved,,0
+EXP1000,,Recruitment,39527,2026-01-06,Pending,,0
