@@ -38,3 +38,27 @@ class Project(models.Model):
 
     def __str__(self):
         return self.project_name or self.project_id
+
+class Task(models.Model):
+    task_id = models.CharField(primary_key=True, max_length=20)
+    project_id = models.CharField(max_length=20, blank=True, null=True)
+    employee_id = models.CharField(max_length=20, blank=True, null=True)
+    task_title = models.CharField(max_length=150, blank=True, null=True)
+    task_description = models.TextField(blank=True, null=True)
+    task_priority = models.CharField(max_length=20, blank=True, null=True)
+    task_status = models.CharField(max_length=20, blank=True, null=True)
+    task_start_date = models.DateField(blank=True, null=True)
+    task_deadline = models.DateField(blank=True, null=True)
+    required_skill = models.CharField(max_length=50, blank=True, null=True)
+    estimated_hours = models.DecimalField(max_digits=6, decimal_places=2, blank=True, null=True)
+    hours_logged = models.DecimalField(max_digits=6, decimal_places=2, blank=True, null=True)
+    progress_percentage = models.DecimalField(max_digits=5, decimal_places=2, blank=True, null=True)
+    allocation_score = models.DecimalField(max_digits=5, decimal_places=2, blank=True, null=True)
+    recommended_employee = models.BooleanField(blank=True, null=True)
+
+    class Meta:
+        db_table = 'tasks'
+        managed = False
+
+    def __str__(self):
+        return self.task_title or self.task_id
