@@ -7,7 +7,9 @@ from .views import (
     FinanceListCreateView,
     ProjectDetailView,
     ProjectListCreateView,
+    ProjectDelayPredictionView,
     RecommendEmployeeView,
+    RiskPredictionView,
     TaskDetailView,
     TaskListCreateView,
 )
@@ -22,4 +24,6 @@ urlpatterns = [
     path('finance/', FinanceListCreateView.as_view(), name='finance-list-create'),
     path('finance/<str:finance_id>/', FinanceDetailView.as_view(), name='finance-detail'),
     path('recommend-employee/', RecommendEmployeeView.as_view(), name='recommend-employee'),
+    path('ml/risk-prediction/', RiskPredictionView.as_view(), name='ml-risk-prediction'),
+    path('ml/delay-prediction/', ProjectDelayPredictionView.as_view(), name='ml-delay-prediction'),
 ]

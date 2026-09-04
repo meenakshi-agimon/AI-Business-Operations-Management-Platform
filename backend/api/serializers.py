@@ -141,3 +141,40 @@ class EmployeeRecommendationSerializer(serializers.Serializer):
     match_score = serializers.FloatField()
     recommended = serializers.BooleanField()
     match_reasons = serializers.ListField(child=serializers.CharField())
+
+
+class RiskPredictionRequestSerializer(serializers.Serializer):
+    project_id = serializers.CharField(
+        required=True,
+        allow_blank=False,
+        trim_whitespace=True,
+        error_messages={
+            'required': 'project_id is required.',
+            'blank': 'project_id cannot be blank.',
+        },
+    )
+
+
+class RiskPredictionResponseSerializer(serializers.Serializer):
+    project_id = serializers.CharField()
+    risk_level = serializers.CharField()
+
+
+class ProjectDelayPredictionRequestSerializer(serializers.Serializer):
+    project_id = serializers.CharField(
+        required=True,
+        allow_blank=False,
+        trim_whitespace=True,
+        error_messages={
+            'required': 'project_id is required.',
+            'blank': 'project_id cannot be blank.',
+        },
+    )
+
+
+class ProjectDelayPredictionResponseSerializer(serializers.Serializer):
+    project_id = serializers.CharField()
+    delay_prediction = serializers.CharField()
+
+
+
