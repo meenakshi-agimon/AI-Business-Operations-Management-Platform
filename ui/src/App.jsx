@@ -11,7 +11,7 @@ import {
   ChevronDown,
 } from "lucide-react";
 
-import { fetchEmployees, fetchProjects } from "./lib/api";
+import { fetchEmployees, fetchProjects, fetchRecommendations } from "./lib/api";
 
 const menuItems = [
   { name: "Dashboard", icon: LayoutDashboard },
@@ -25,14 +25,28 @@ function App() {
   const [activePage, setActivePage] = useState("Dashboard");
   const [employees, setEmployees] = useState([]);
   const [projects, setProjects] = useState([]);
+  const [recommendations, setRecommendations] = useState([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
+
+  const searchRecommendations = async (filters) => {
+    setLoading(true);
+    setError("");
+
+    try {
+      setRecommendations(await fetchRecommendations(filters));
+    } catch (err) {
+      setError(err.message || "Unable to calculate recommendations.");
+    } finally {
+      setLoading(false);
+    }
+  };
 
   useEffect(() => {
     let cancelled = false;
 
     const loadData = async () => {
-      if (activePage !== "Employees" && activePage !== "Projects") {
+      if (!["Employees", "Projects", "AI & Analytics"].includes(activePage)) {
         return;
       }
 
@@ -43,13 +57,17 @@ function App() {
         const data =
           activePage === "Employees"
             ? await fetchEmployees()
-            : await fetchProjects();
+            : activePage === "Projects"
+              ? await fetchProjects()
+              : await fetchRecommendations();
 
         if (!cancelled) {
           if (activePage === "Employees") {
             setEmployees(data);
-          } else {
+          } else if (activePage === "Projects") {
             setProjects(data);
+          } else {
+            setRecommendations(data);
           }
         }
       } catch (err) {
@@ -167,7 +185,12 @@ function App() {
           )}
 
           {activePage === "AI & Analytics" && (
-            <Placeholder title="AI & Analytics" />
+            <RecommendationTable
+              recommendations={recommendations}
+              loading={loading}
+              error={error}
+              onSearch={searchRecommendations}
+            />
           )}
         </section>
       </main>
@@ -438,6 +461,97 @@ function ProjectTable({ projects, loading, error }) {
                 </tr>
               ))
             )}
+          </tbody>
+        </table>
+      )}
+    </div>
+  );
+}
+
+function RecommendationTable({ recommendations, loading, error, onSearch }) {
+  const [requiredSkill, setRequiredSkill] = useState("");
+  const [department, setDepartment] = useState("");
+  const [priority, setPriority] = useState("");
+
+  const submitTask = (event) => {
+    event.preventDefault();
+    onSearch({ requiredSkill, department, priority, topN: 5 });
+  };
+
+  return (
+    <div className="panel">
+      <div className="panel-header">
+        <div>
+          <h3>Recommended Employees</h3>
+          <p>Top candidates ranked by the employee recommendation model</p>
+        </div>
+        <span className="badge">AI Model</span>
+      </div>
+
+      <form className="recommendation-form" onSubmit={submitTask}>
+        <label>
+          Required skill
+          <select value={requiredSkill} onChange={(event) => setRequiredSkill(event.target.value)}>
+            <option value="">Any skill</option>
+            <option value="Python">Python</option>
+            <option value="Django">Django</option>
+            <option value="SQL">SQL</option>
+            <option value="React">React</option>
+            <option value="Machine Learning">Machine Learning</option>
+          </select>
+        </label>
+        <label>
+          Department
+          <select value={department} onChange={(event) => setDepartment(event.target.value)}>
+            <option value="">Any department</option>
+            <option value="Engineering">Engineering</option>
+            <option value="Data Science">Data Science</option>
+            <option value="IT">IT</option>
+            <option value="Finance">Finance</option>
+            <option value="Operations">Operations</option>
+          </select>
+        </label>
+        <label>
+          Priority
+          <select value={priority} onChange={(event) => setPriority(event.target.value)}>
+            <option value="">Any priority</option>
+            <option value="Critical">Critical</option>
+            <option value="High">High</option>
+            <option value="Medium">Medium</option>
+            <option value="Low">Low</option>
+          </select>
+        </label>
+        <button className="primary-button" type="submit">Recommend</button>
+      </form>
+
+      {loading && <p>Calculating recommendations...</p>}
+      {error && <p style={{ color: "#b91c1c" }}>{error}</p>}
+
+      {!loading && !error && (
+        <table>
+          <thead>
+            <tr>
+              <th>Rank</th>
+              <th>Employee ID</th>
+              <th>Recommendation</th>
+              <th>Probability</th>
+            </tr>
+          </thead>
+          <tbody>
+            {recommendations.length === 0 ? (
+              <tr><td colSpan="4">No employees match these task requirements.</td></tr>
+            ) : recommendations.map((recommendation, index) => (
+              <tr key={recommendation.employee_id}>
+                <td>{index + 1}</td>
+                <td>{recommendation.employee_id}</td>
+                <td>
+                  <span className={`status ${recommendation.recommended ? "success" : "pending"}`}>
+                    {recommendation.recommended ? "Recommended" : "Not recommended"}
+                  </span>
+                </td>
+                <td>{(recommendation.probability * 100).toFixed(1)}%</td>
+              </tr>
+            ))}
           </tbody>
         </table>
       )}

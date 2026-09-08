@@ -37,6 +37,16 @@ export async function fetchProjects() {
   return apiRequest('/projects/');
 }
 
+export async function fetchRecommendations({ topN = 5, requiredSkill = '', department = '', priority = '' } = {}) {
+  const params = new URLSearchParams({ top_n: topN });
+
+  if (requiredSkill) params.set('required_skill', requiredSkill);
+  if (department) params.set('department', department);
+  if (priority) params.set('task_priority', priority);
+
+  return apiRequest(`/recommendations/?${params.toString()}`);
+}
+
 export async function createProject(payload) {
   return apiRequest('/projects/', {
     method: 'POST',
